@@ -1,1 +1,92 @@
-{"version": 1, "scope": "Published MarketSpill stories", "stories": []}
+{
+ "version": 1,
+ "scope": "Published MarketSpill stories",
+ "generated_at": "2026-10-29T15:38:36Z",
+ "featured": null,
+ "latest_tickers": [
+  "HOOD",
+  "NOW",
+  "TTD",
+  "UPST",
+  "CMG",
+  "VTEX",
+  "NVDA",
+  "TSM"
+ ],
+ "stories": [
+  {
+   "url": "https://www.marketspill.com/p/hood-wsb-mentions-earnings-20261028",
+   "title": "Robinhood tops WallStreetBets mentions after earnings. Attention isn't buying.",
+   "subtitle": "HOOD logged 157 tracked mentions versus 15 a day earlier. Record revenue and lower GAAP EPS give both sides something to argue about.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "HOOD"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Robinhood tops WallStreetBets mentions after earnings. Attention isn't buying. HOOD Robinhood",
+   "reviewed_at": "2026-10-28T11:51:19Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/wied-four-partial-sales-september-2026",
+   "title": "Rep. Tony Wied sold four stocks on one September day. The filing arrived 15 days later.",
+   "subtitle": "ServiceNow, The Trade Desk, Upstart and Chipotle, all partial sales from a joint account on Sept. 17 and disclosed Oct. 2.",
+   "tags": [
+    "Congress"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "NOW",
+    "TTD",
+    "UPST",
+    "CMG"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. Tony Wied sold four stocks on one September day. The filing arrived 15 days later. NOW TTD UPST CMG Rep. Tony Wied (R-Wis.)",
+   "reviewed_at": "2026-10-28T02:58:22Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/vtex-planned-sales-20261027",
+   "title": "VTEX's co-CEOs each sold 4,808 shares. The footnotes say it was planned.",
+   "subtitle": "Both Form 4s cite 10b5-1 trading plans adopted Nov. 10, 2025, and both executives kept the bulk of their holdings.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "VTEX"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "VTEX's co-CEOs each sold 4,808 shares. The footnotes say it was planned. VTEX VTEX co-CEOs",
+   "reviewed_at": "2026-10-27T17:49:52Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/fields-nvda-tsm-disclosure-20261022",
+   "title": "Rep. Cleo Fields bought NVIDIA and TSMC in early October. The public found out up to 21 days later.",
+   "subtitle": "Four purchase entries of $1,001 to $15,000 each. NVIDIA's filing lag was 21 days and TSMC's was 13.",
+   "tags": [
+    "Congress"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "NVDA",
+    "TSM"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. Cleo Fields bought NVIDIA and TSMC in early October. The public found out up to 21 days later. NVDA TSM Rep. Cleo Fields (D-La.)",
+   "reviewed_at": "2026-10-27T17:44:03Z"
+  }
+ ]
+}
