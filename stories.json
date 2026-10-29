@@ -1,11 +1,11 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-29T18:01:36Z",
+ "generated_at": "2026-10-29T18:32:40Z",
  "featured": null,
  "latest_tickers": [
-  "HOOD",
   "NOW",
+  "HOOD",
   "TTD",
   "UPST",
   "CMG",
@@ -14,6 +14,24 @@
   "TSM"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/servicenow-now-wallstreetbets-mentions-spike",
+   "title": "ServiceNow went from 4 to 106 mentions on r/wallstreetbets in a day",
+   "subtitle": "ServiceNow (NOW) jumped from rank 58 to rank 5 on the tracker, with mentions up 26.5 times from 24 hours earlier.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "NOW"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "ServiceNow went from 4 to 106 mentions on r/wallstreetbets in a day NOW ServiceNow",
+   "reviewed_at": "2026-10-29T18:01:35Z"
+  },
   {
    "url": "https://www.marketspill.com/p/hood-wsb-mentions-earnings-20261028",
    "title": "Robinhood tops WallStreetBets mentions after earnings. Attention isn't buying.",
