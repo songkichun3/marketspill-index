@@ -1,19 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T10:48:00Z",
+ "generated_at": "2026-10-30T11:38:03Z",
  "featured": null,
  "latest_tickers": [
+  "INTC",
   "CRWD",
   "IOT",
   "SCHW",
   "ENVA",
   "LIND",
   "DINO",
-  "JOF",
-  "AMZN"
+  "JOF"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/intel-wallstreetbets-mentions-17-to-192",
+   "title": "Intel went from 17 to 192 r/wallstreetbets mentions in a day. The base was small.",
+   "subtitle": "Intel (INTC) climbed from 25th to 4th on ApeWisdom's r/wallstreetbets tracker, with 192 mentions and 1,529 upvotes in the 24 hours to 6:45 a.m. ET on Oct. 30.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "INTC"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Intel went from 17 to 192 r/wallstreetbets mentions in a day. The base was small. INTC Intel",
+   "reviewed_at": "2026-10-30T10:48:00Z",
+   "published_at": "2026-10-30T11:36:49Z",
+   "published_at_et": "Oct. 30, 2026, 7:36 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/crowdstrike-ceo-kurtz-planned-sale-5-3-million",
    "title": "CrowdStrike CEO George Kurtz sold $5.3 million of stock under a plan set in January.",
