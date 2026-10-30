@@ -1,19 +1,61 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T20:45:20Z",
+ "generated_at": "2026-10-30T21:40:33Z",
  "featured": null,
  "latest_tickers": [
+  "HLT",
+  "DDOG",
   "T",
   "LRCX",
   "MPC",
   "PLD",
   "RPM",
-  "V",
-  "ESQ",
-  "INTC"
+  "V"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/hilton-jacobs-151050-options-exercised-sold-same-day",
+   "title": "Hilton's Kevin J. Jacobs exercised 151,050 options and sold every share the same day.",
+   "subtitle": "The Oct. 29 sales at Hilton (HLT) totaled $53.8 million at $353.175 to $358.789 a share, the exercises cost $20.8 million, and the report was filed one business day later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "HLT"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $53,802,435",
+   "search_text": "Hilton's Kevin J. Jacobs exercised 151,050 options and sold every share the same day. HLT Hilton Worldwide Holdings Inc. Jacobs Kevin J",
+   "reviewed_at": "2026-10-30T20:45:20Z",
+   "published_at": "2026-10-30T21:56:00Z",
+   "published_at_et": "Oct. 30, 2026, 5:56 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/datadog-cto-le-quoc-planned-sale-43224-shares",
+   "title": "Datadog's CTO sold 43,224 shares for $12.1 million under a plan dated June 2025.",
+   "subtitle": "Alexis Le-Quoc converted 43,224 Class B shares of Datadog (DDOG) into Class A and sold them the same day in nine lots at $276.38 to $284.33, an 8.1% trim of his common stake, with the filing arriving two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "DDOG"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Datadog's CTO sold 43,224 shares for $12.1 million under a plan dated June 2025. DDOG Datadog, Inc. Le-Quoc Alexis",
+   "reviewed_at": "2026-10-30T20:40:58Z",
+   "published_at": "2026-10-30T21:36:00Z",
+   "published_at_et": "Oct. 30, 2026, 5:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/rep-david-taylor-eight-trades-one-day",
    "title": "Rep. David J. Taylor made eight trades on one October day. Filed 14 days later.",
