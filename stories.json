@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T04:45:01Z",
+ "generated_at": "2026-10-30T05:43:27Z",
  "featured": null,
  "latest_tickers": [
   "CRWD",
@@ -16,12 +16,11 @@
  "stories": [
   {
    "url": "https://www.marketspill.com/p/crowdstrike-ceo-kurtz-planned-sale-5-3-million",
-   "title": "CrowdStrike CEO George Kurtz sold $5.3 million of stock under a plan set in January",
+   "title": "CrowdStrike CEO George Kurtz sold $5.3 million of stock under a plan set in January.",
    "subtitle": "Kurtz sold CrowdStrike (CRWD) shares on Oct. 27 and 28, 2026, for $5,336,111 at average prices from $260.34 to $271.75; the Form 4 was filed Oct. 29.",
    "tags": [
     "SEC Insiders",
-    "Executive Sales",
-    "Stock Awards"
+    "Executive Sales"
    ],
    "category": "SEC Insiders",
    "tickers": [
@@ -30,7 +29,7 @@
    "signal": "Planned sale (10b5-1)",
    "impact_score": 40,
    "impact_reason": "planned sale",
-   "search_text": "CrowdStrike CEO George Kurtz sold $5.3 million of stock under a plan set in January CRWD CrowdStrike Holdings, Inc. Kurtz George",
+   "search_text": "CrowdStrike CEO George Kurtz sold $5.3 million of stock under a plan set in January. CRWD CrowdStrike Holdings, Inc. Kurtz George",
    "reviewed_at": "2026-10-30T00:55:37Z"
   },
   {
@@ -143,8 +142,8 @@
   },
   {
    "url": "https://www.marketspill.com/p/amazon-wallstreetbets-mentions-spike-rank-6",
-   "title": "Amazon mentions on r/wallstreetbets jumped 6.5x in a day. No trade was filed.",
-   "subtitle": "The tracker counted 111 mentions against 17 a day earlier, moving the stock from No. 20 to No. 6 on the board.",
+   "title": "Amazon mentions on r/wallstreetbets jumped 6.5x in a day, from a base of 17.",
+   "subtitle": "Amazon (AMZN) drew 111 tracked mentions against 17 a day earlier, moving the stock from No. 20 to No. 6 on the board.",
    "tags": [
     "Reddit WSB",
     "WSB Trending"
@@ -156,7 +155,7 @@
    "signal": "Attention spike",
    "impact_score": 30,
    "impact_reason": "attention spike",
-   "search_text": "Amazon mentions on r/wallstreetbets jumped 6.5x in a day. No trade was filed. AMZN Amazon",
+   "search_text": "Amazon mentions on r/wallstreetbets jumped 6.5x in a day, from a base of 17. AMZN Amazon",
    "reviewed_at": "2026-10-29T20:47:53Z"
   },
   {
