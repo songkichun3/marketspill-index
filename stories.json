@@ -1,19 +1,200 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T01:17:56Z",
+ "generated_at": "2026-10-30T01:41:54Z",
  "featured": null,
  "latest_tickers": [
-  "NOW",
-  "HOOD",
-  "TTD",
-  "UPST",
-  "CMG",
-  "VTEX",
-  "NVDA",
-  "TSM"
+  "CRWD",
+  "IOT",
+  "SCHW",
+  "ENVA",
+  "LIND",
+  "DINO",
+  "JOF",
+  "AMZN"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/crowdstrike-ceo-kurtz-planned-sale-5-3-million",
+   "title": "CrowdStrike CEO George Kurtz sold $5.3 million of stock under a plan set in January",
+   "subtitle": "Kurtz sold CrowdStrike (CRWD) shares on Oct. 27 and 28, 2026, for $5,336,111 at average prices from $260.34 to $271.75; the Form 4 was filed Oct. 29.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "Stock Awards"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CRWD"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "CrowdStrike CEO George Kurtz sold $5.3 million of stock under a plan set in January CRWD CrowdStrike Holdings, Inc. Kurtz George",
+   "reviewed_at": "2026-10-30T00:55:37Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/samsara-ceo-biswas-11-million-planned-sale",
+   "title": "Samsara's CEO sold $11.3 million of stock in three days. The plan was set in 2025.",
+   "subtitle": "Fifteen trust sales of Samsara (IOT) Class A shares on Oct. 27, 28 and 29, 2026, came at weighted average prices from $41.39 to $45.00; the Form 4 landed the evening of Oct. 29.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "IOT"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Samsara's CEO sold $11.3 million of stock in three days. The plan was set in 2025. IOT Samsara Inc. Biswas Sanjit",
+   "reviewed_at": "2026-10-29T23:41:43Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/charles-schwab-sells-18-million-schw-two-day-form-4",
+   "title": "Charles Schwab sold $18.1 million of SCHW stock in two days. The filing came that night.",
+   "subtitle": "The co-chairman reported selling 66,750 shares on Oct. 28, 2026 and 136,400 on Oct. 29, at weighted average prices of $88.36 and $89.50.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SCHW"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $18,105,625",
+   "search_text": "Charles Schwab sold $18.1 million of SCHW stock in two days. The filing came that night. SCHW SCHWAB CHARLES CORP Schwab Charles R.",
+   "reviewed_at": "2026-10-29T23:38:21Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/enova-ceo-cunningham-option-exercise-and-sale",
+   "title": "Enova's CEO sold shares in one October day. The filing arrived two days later.",
+   "subtitle": "Steven E. Cunningham exercised two option lots and sold Enova (ENVA) shares at $172.00 on Oct. 27, 2026, for $2,632,460. No trading plan is marked.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ENVA"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $2,632,460",
+   "search_text": "Enova's CEO sold shares in one October day. The filing arrived two days later. ENVA Enova International, Inc. Cunningham Steven E",
+   "reviewed_at": "2026-10-29T22:48:06Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/lindblad-director-10b5-1-planned-sale-lind",
+   "title": "A Lindblad director sold $8.3 million of LIND stock over three days. A plan set in June did it.",
+   "subtitle": "Six sales from Oct. 27 to Oct. 29 at weighted prices between $35.16 and $37.19, filed the evening of Oct. 29.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "LIND"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "A Lindblad director sold $8.3 million of LIND stock over three days. A plan set in June did it. LIND LINDBLAD EXPEDITIONS HOLDINGS, INC. Lindblad Sven-Olof",
+   "reviewed_at": "2026-10-29T22:44:42Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/hf-sinclair-ceo-myers-open-market-buy",
+   "title": "HF Sinclair's CEO bought $1.1 million of stock and filed the same day",
+   "subtitle": "Franklin Myers picked up 10,000 DINO shares at a weighted average of $110.80 on Oct. 29, 2026, and the report reached the SEC by 5:25 p.m. Eastern.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "DINO"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $1,108,000",
+   "search_text": "HF Sinclair's CEO bought $1.1 million of stock and filed the same day DINO HF Sinclair Corp MYERS FRANKLIN",
+   "reviewed_at": "2026-10-29T21:43:23Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/saba-capital-buys-jof-shares-form-4",
+   "title": "Saba Capital Management, L.P. bought 15,967 JOF shares Oct. 28. It filed the next day.",
+   "subtitle": "A $181,704.46 open-market buy at $11.38 a share, reported one day after the trade, brings the position to 2,758,343 shares held through managed funds.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "JOF"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $181,704",
+   "search_text": "Saba Capital Management, L.P. bought 15,967 JOF shares Oct. 28. It filed the next day. JOF JAPAN SMALLER CAPITALIZATION FUND INC Saba Capital Management, L.P.",
+   "reviewed_at": "2026-10-29T21:41:44Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/amazon-wallstreetbets-mentions-spike-rank-6",
+   "title": "Amazon mentions on r/wallstreetbets jumped 6.5x in a day. No trade was filed.",
+   "subtitle": "The tracker counted 111 mentions against 17 a day earlier, moving the stock from No. 20 to No. 6 on the board.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "AMZN"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Amazon mentions on r/wallstreetbets jumped 6.5x in a day. No trade was filed. AMZN Amazon",
+   "reviewed_at": "2026-10-29T20:47:53Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/equinox-silvercrest-samg-open-market-buy",
+   "title": "Equinox bought $348,694 of Silvercrest stock in two days. The filing came the same day.",
+   "subtitle": "A 10% owner reported two open-market buys of Silvercrest Asset Management Group (SAMG) on Oct. 27 and Oct. 29, 2026, worth $348,694.45 in total, in a Form 4 filed at 4:38 p.m. Eastern on Oct. 29.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SAMG"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $348,694",
+   "search_text": "Equinox bought $348,694 of Silvercrest stock in two days. The filing came the same day. SAMG Silvercrest Asset Management Group Inc. Equinox Partners Investment Management LLC",
+   "reviewed_at": "2026-10-29T20:46:13Z"
+  },
+  {
+   "url": "https://www.marketspill.com/p/pinnacle-financial-director-ingram-open-market-buy",
+   "title": "A Pinnacle Financial director bought $991,600 of stock. The filing arrived the next day.",
+   "subtitle": "David B. Ingram picked up 10,000 PNFP shares on Oct. 28, 2026 at an average $99.16 and reported it on Oct. 29.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "PNFP"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $991,600",
+   "search_text": "A Pinnacle Financial director bought $991,600 of stock. The filing arrived the next day. PNFP Pinnacle Financial Partners, Inc. INGRAM DAVID B",
+   "reviewed_at": "2026-10-29T20:43:45Z"
+  },
   {
    "url": "https://www.marketspill.com/p/servicenow-now-wallstreetbets-mentions-spike",
    "title": "ServiceNow went from 4 to 106 mentions on r/wallstreetbets in a day",
