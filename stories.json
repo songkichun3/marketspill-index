@@ -1,19 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T14:54:16Z",
+ "generated_at": "2026-10-30T15:52:42Z",
  "featured": null,
  "latest_tickers": [
+  "ESQ",
   "INTC",
   "CRWD",
   "IOT",
   "SCHW",
   "ENVA",
   "LIND",
-  "DINO",
-  "JOF"
+  "DINO"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/esquire-financial-kornhaber-sold-20000-shares",
+   "title": "Esquire Financial's Ari Kornhaber sold 20,000 shares, a 16.4% trim of his stake.",
+   "subtitle": "The EVP and head of corporate development at Esquire Financial (ESQ) sold on Oct. 28, 2026, for $2.56 million, filed two business days later, and still holds 101,739 shares as reported, including unvested restricted stock.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ESQ"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $2,563,037",
+   "search_text": "Esquire Financial's Ari Kornhaber sold 20,000 shares, a 16.4% trim of his stake. ESQ Esquire Financial Holdings, Inc. Kornhaber Ari P",
+   "reviewed_at": "2026-10-30T15:52:42Z",
+   "published_at": "2026-10-30T15:53:39Z",
+   "published_at_et": "Oct. 30, 2026, 11:53 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/intel-wallstreetbets-mentions-17-to-192",
    "title": "Intel went from 17 to 192 r/wallstreetbets mentions in a day. The base was small.",
