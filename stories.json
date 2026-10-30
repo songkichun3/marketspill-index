@@ -1,19 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T21:40:33Z",
+ "generated_at": "2026-10-30T22:41:40Z",
  "featured": null,
  "latest_tickers": [
+  "RVI",
   "HLT",
   "DDOG",
   "T",
   "LRCX",
   "MPC",
   "PLD",
-  "RPM",
-  "V"
+  "RPM"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/robinhood-markets-sold-rvi-shares-one-percent-trim",
+   "title": "Robinhood Markets sold 124,319 fund shares, a 1% trim. The filing landed on deadline.",
+   "subtitle": "A 10% owner of Robinhood Ventures Fund I (RVI) sold 124,319 shares at $24.77 on Oct. 28, about $3.1 million, and still holds about 12.9 million shares.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "RVI"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $3,079,382",
+   "search_text": "Robinhood Markets sold 124,319 fund shares, a 1% trim. The filing landed on deadline. RVI Robinhood Ventures Fund I Robinhood Markets, Inc.",
+   "reviewed_at": "2026-10-30T21:40:33Z",
+   "published_at": "2026-10-30T22:36:00Z",
+   "published_at_et": "Oct. 30, 2026, 6:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/hilton-jacobs-151050-options-exercised-sold-same-day",
    "title": "Hilton's Kevin J. Jacobs exercised 151,050 options and sold every share the same day.",
