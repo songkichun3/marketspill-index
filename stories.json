@@ -1,19 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T22:41:40Z",
+ "generated_at": "2026-10-30T23:41:26Z",
  "featured": null,
  "latest_tickers": [
+  "CRBG",
   "RVI",
   "HLT",
   "DDOG",
   "T",
   "LRCX",
   "MPC",
-  "PLD",
-  "RPM"
+  "PLD"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/nippon-life-corebridge-245898-share-buy-10b5-1-plan",
+   "title": "Nippon Life bought 245,898 Corebridge shares. A plan set in August picked the day.",
+   "subtitle": "The 10% owner of Corebridge Financial (CRBG) paid $8,671,494.61 on Oct. 28, a 0.2% top-up on the 131,623,670 shares it held before the buy, and the form arrived two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CRBG"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $8,671,495",
+   "search_text": "Nippon Life bought 245,898 Corebridge shares. A plan set in August picked the day. CRBG Corebridge Financial, Inc. NIPPON LIFE INSURANCE CO",
+   "reviewed_at": "2026-10-30T22:41:40Z",
+   "published_at": "2026-10-30T23:36:00Z",
+   "published_at_et": "Oct. 30, 2026, 7:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/robinhood-markets-sold-rvi-shares-one-percent-trim",
    "title": "Robinhood Markets sold 124,319 fund shares, a 1% trim. The filing landed on deadline.",
