@@ -1,19 +1,44 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-10-30T17:52:20Z",
+ "generated_at": "2026-10-30T18:44:06Z",
  "featured": null,
  "latest_tickers": [
+  "T",
+  "LRCX",
+  "MPC",
+  "PLD",
+  "RPM",
+  "V",
   "ESQ",
-  "INTC",
-  "CRWD",
-  "IOT",
-  "SCHW",
-  "ENVA",
-  "LIND",
-  "DINO"
+  "INTC"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/rep-david-taylor-eight-trades-one-day",
+   "title": "Rep. David J. Taylor made eight trades on one October day. Filed 14 days later.",
+   "subtitle": "Five buys and three sales dated Oct. 15, each reported at $1,001 to $15,000, including sales of Visa (V) and Marathon Petroleum (MPC) and buys of AT&T (T), Lam Research (LRCX), Prologis (PLD) and RPM (RPM).",
+   "tags": [
+    "Congress"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "T",
+    "LRCX",
+    "MPC",
+    "PLD",
+    "RPM",
+    "V"
+   ],
+   "signal": "Mixed buys and sales",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. David J. Taylor made eight trades on one October day. Filed 14 days later. T LRCX MPC PLD RPM V David J. Taylor",
+   "reviewed_at": "2026-10-30T17:52:20Z",
+   "published_at": "2026-10-30T18:37:00Z",
+   "published_at_et": "Oct. 30, 2026, 2:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/esquire-financial-kornhaber-sold-20000-shares",
    "title": "Esquire Financial's Ari Kornhaber sold 20,000 shares, a 16.4% trim of his stake.",
