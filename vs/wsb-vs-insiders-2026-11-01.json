@@ -1,7 +1,7 @@
 {
  "series": "WSB vs. Insiders",
  "status": "preview",
- "built_at": "2026-11-01T05:07:50Z",
+ "built_at": "2026-11-01T05:10:51Z",
  "window": {
   "start": "2026-10-26",
   "end": "2026-11-01",
@@ -26,6 +26,7 @@
    "mentions": 74,
    "prev_mentions": null,
    "ratio": null,
+   "prev_available": false,
    "best_rank": 1,
    "days_seen": 1,
    "ledger": {
@@ -69,10 +70,11 @@
   },
   {
    "ticker": "GOOG",
-   "name": "Alphabet (Google)",
+   "name": "Alphabet",
    "mentions": 37,
    "prev_mentions": null,
    "ratio": null,
+   "prev_available": false,
    "best_rank": 2,
    "days_seen": 1,
    "ledger": {
@@ -120,6 +122,7 @@
    "mentions": 34,
    "prev_mentions": null,
    "ratio": null,
+   "prev_available": false,
    "best_rank": 3,
    "days_seen": 1,
    "ledger": {
@@ -162,63 +165,12 @@
    }
   },
   {
-   "ticker": "SPY",
-   "name": "SPDR S&amp;P 500 ETF Trust",
-   "mentions": 32,
-   "prev_mentions": null,
-   "ratio": null,
-   "best_rank": 4,
-   "days_seen": 1,
-   "ledger": {
-    "ticker": "SPY",
-    "cik": 884394,
-    "window_days": 90,
-    "window_start": "2026-08-03",
-    "window_end": "2026-11-01",
-    "filings_in_window": 0,
-    "filings_scanned": 0,
-    "capped": false,
-    "buy_usd": 0.0,
-    "buy_shares": 0.0,
-    "buy_filings": 0,
-    "sale_usd": 0.0,
-    "sale_shares": 0.0,
-    "sale_filings": 0,
-    "planned_sale_usd": 0.0,
-    "planned_filings": 0,
-    "exercise_sale_usd": 0.0,
-    "exercise_filings": 0,
-    "largest_buy": null,
-    "largest_sale": null,
-    "last_buy_date": null,
-    "last_sale_date": null,
-    "unparsed": 0,
-    "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000884394&type=4&dateb=&owner=include&count=40",
-    "label": "Insiders quiet"
-   }
-  },
-  {
-   "ticker": "QQQ",
-   "name": "Invesco QQQ ETF",
-   "mentions": 30,
-   "prev_mentions": null,
-   "ratio": null,
-   "best_rank": 5,
-   "days_seen": 1,
-   "ledger": {
-    "error": "no CIK for this ticker in the SEC's company list (not a US filer, or an ETF)",
-    "label": "No Form 4s",
-    "buy_usd": 0.0,
-    "sale_usd": 0.0,
-    "planned_sale_usd": 0.0
-   }
-  },
-  {
    "ticker": "INTC",
    "name": "Intel",
    "mentions": 25,
    "prev_mentions": null,
    "ratio": null,
+   "prev_available": false,
    "best_rank": 6,
    "days_seen": 1,
    "ledger": {
@@ -260,47 +212,12 @@
    }
   },
   {
-   "ticker": "AGI",
-   "name": "Alamos Gold",
-   "mentions": 22,
-   "prev_mentions": null,
-   "ratio": null,
-   "best_rank": 7,
-   "days_seen": 1,
-   "ledger": {
-    "ticker": "AGI",
-    "cik": 1178819,
-    "window_days": 90,
-    "window_start": "2026-08-03",
-    "window_end": "2026-11-01",
-    "filings_in_window": 0,
-    "filings_scanned": 0,
-    "capped": false,
-    "buy_usd": 0.0,
-    "buy_shares": 0.0,
-    "buy_filings": 0,
-    "sale_usd": 0.0,
-    "sale_shares": 0.0,
-    "sale_filings": 0,
-    "planned_sale_usd": 0.0,
-    "planned_filings": 0,
-    "exercise_sale_usd": 0.0,
-    "exercise_filings": 0,
-    "largest_buy": null,
-    "largest_sale": null,
-    "last_buy_date": null,
-    "last_sale_date": null,
-    "unparsed": 0,
-    "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001178819&type=4&dateb=&owner=include&count=40",
-    "label": "Insiders quiet"
-   }
-  },
-  {
    "ticker": "MSFT",
    "name": "Microsoft",
    "mentions": 21,
    "prev_mentions": null,
    "ratio": null,
+   "prev_available": false,
    "best_rank": 8,
    "days_seen": 1,
    "ledger": {
@@ -341,6 +258,150 @@
     "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=4&dateb=&owner=include&count=40",
     "label": "Insiders sold"
    }
+  },
+  {
+   "ticker": "AMD",
+   "name": "AMD",
+   "mentions": 20,
+   "prev_mentions": null,
+   "ratio": null,
+   "prev_available": false,
+   "best_rank": 9,
+   "days_seen": 1,
+   "ledger": {
+    "ticker": "AMD",
+    "cik": 2488,
+    "window_days": 90,
+    "window_start": "2026-08-03",
+    "window_end": "2026-11-01",
+    "filings_in_window": 28,
+    "filings_scanned": 28,
+    "capped": false,
+    "buy_usd": 0.0,
+    "buy_shares": 0.0,
+    "buy_filings": 0,
+    "sale_usd": 85320149.61,
+    "sale_shares": 171947.0,
+    "sale_filings": 7,
+    "planned_sale_usd": 77596499.61,
+    "planned_filings": 6,
+    "exercise_sale_usd": 29547108.03,
+    "exercise_filings": 4,
+    "largest_buy": null,
+    "largest_sale": {
+     "who": "Su Lisa T",
+     "role": "Chair, President & CEO",
+     "usd": 48145666.14,
+     "shares": 95000.0,
+     "trade_date": "2026-09-10",
+     "filed": "2026-09-14",
+     "accepted_at": "2026-09-14T20:19:52.000Z",
+     "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000178/",
+     "accession": "0000002488-26-000178",
+     "planned": true
+    },
+    "last_buy_date": null,
+    "last_sale_date": "2026-09-10",
+    "unparsed": 0,
+    "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000002488&type=4&dateb=&owner=include&count=40",
+    "label": "Insiders sold"
+   }
+  },
+  {
+   "ticker": "DTE",
+   "name": "DTE Energy",
+   "mentions": 19,
+   "prev_mentions": null,
+   "ratio": null,
+   "prev_available": false,
+   "best_rank": 10,
+   "days_seen": 1,
+   "ledger": {
+    "ticker": "DTE",
+    "cik": 936340,
+    "window_days": 90,
+    "window_start": "2026-08-03",
+    "window_end": "2026-11-01",
+    "filings_in_window": 3,
+    "filings_scanned": 3,
+    "capped": false,
+    "buy_usd": 0.0,
+    "buy_shares": 0.0,
+    "buy_filings": 0,
+    "sale_usd": 678560.0,
+    "sale_shares": 5000.0,
+    "sale_filings": 1,
+    "planned_sale_usd": 0.0,
+    "planned_filings": 0,
+    "exercise_sale_usd": 0.0,
+    "exercise_filings": 0,
+    "largest_buy": null,
+    "largest_sale": {
+     "who": "Lauer Trevor F",
+     "role": "Vice Chairman & Group Pres.",
+     "usd": 678560.0,
+     "shares": 5000.0,
+     "trade_date": "2026-09-01",
+     "filed": "2026-09-03",
+     "accepted_at": "2026-09-03T15:14:48.000Z",
+     "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000150/",
+     "accession": "0000936340-26-000150",
+     "planned": false
+    },
+    "last_buy_date": null,
+    "last_sale_date": "2026-09-01",
+    "unparsed": 0,
+    "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000936340&type=4&dateb=&owner=include&count=40",
+    "label": "Insiders sold"
+   }
+  },
+  {
+   "ticker": "AAPL",
+   "name": "Apple",
+   "mentions": 17,
+   "prev_mentions": null,
+   "ratio": null,
+   "prev_available": false,
+   "best_rank": 11,
+   "days_seen": 1,
+   "ledger": {
+    "ticker": "AAPL",
+    "cik": 320193,
+    "window_days": 90,
+    "window_start": "2026-08-03",
+    "window_end": "2026-11-01",
+    "filings_in_window": 25,
+    "filings_scanned": 25,
+    "capped": false,
+    "buy_usd": 0.0,
+    "buy_shares": 0.0,
+    "buy_filings": 0,
+    "sale_usd": 95825984.54,
+    "sale_shares": 287814.0,
+    "sale_filings": 16,
+    "planned_sale_usd": 95825984.54,
+    "planned_filings": 16,
+    "exercise_sale_usd": 474813.22,
+    "exercise_filings": 1,
+    "largest_buy": null,
+    "largest_sale": {
+     "who": "COOK TIMOTHY D",
+     "role": "Executive Chair",
+     "usd": 63845841.04,
+     "shares": 191753.0,
+     "trade_date": "2026-10-02",
+     "filed": "2026-10-05",
+     "accepted_at": "2026-10-05T22:42:45.000Z",
+     "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126038674/",
+     "accession": "0001140361-26-038674",
+     "planned": true
+    },
+    "last_buy_date": null,
+    "last_sale_date": "2026-10-27",
+    "unparsed": 0,
+    "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320193&type=4&dateb=&owner=include&count=40",
+    "label": "Insiders sold"
+   }
   }
  ],
  "sources": [
@@ -357,7 +418,7 @@
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001713445&type=4&dateb=&owner=include&count=40"
   },
   {
-   "label": "SEC EDGAR, Form 4 filings for Alphabet (Google) (GOOG)",
+   "label": "SEC EDGAR, Form 4 filings for Alphabet (GOOG)",
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=4&dateb=&owner=include&count=40"
   },
   {
@@ -365,20 +426,24 @@
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=4&dateb=&owner=include&count=40"
   },
   {
-   "label": "SEC EDGAR, Form 4 filings for SPDR S&amp;P 500 ETF Trust (SPY)",
-   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000884394&type=4&dateb=&owner=include&count=40"
-  },
-  {
    "label": "SEC EDGAR, Form 4 filings for Intel (INTC)",
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000050863&type=4&dateb=&owner=include&count=40"
   },
   {
-   "label": "SEC EDGAR, Form 4 filings for Alamos Gold (AGI)",
-   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001178819&type=4&dateb=&owner=include&count=40"
-  },
-  {
    "label": "SEC EDGAR, Form 4 filings for Microsoft (MSFT)",
    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=4&dateb=&owner=include&count=40"
+  },
+  {
+   "label": "SEC EDGAR, Form 4 filings for AMD (AMD)",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000002488&type=4&dateb=&owner=include&count=40"
+  },
+  {
+   "label": "SEC EDGAR, Form 4 filings for DTE Energy (DTE)",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000936340&type=4&dateb=&owner=include&count=40"
+  },
+  {
+   "label": "SEC EDGAR, Form 4 filings for Apple (AAPL)",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320193&type=4&dateb=&owner=include&count=40"
   }
  ],
  "gate_problems": []
