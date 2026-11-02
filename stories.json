@@ -1,19 +1,66 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-02T20:01:56Z",
+ "generated_at": "2026-11-02T20:48:40Z",
  "featured": null,
  "latest_tickers": [
+  "ABT",
+  "JNJ",
+  "MDLZ",
+  "TXN",
+  "AVGO",
+  "MU",
   "RDDT",
-  "GOOG",
-  "NVDA",
-  "INTC",
-  "MSFT",
-  "AMD",
-  "AAPL",
-  "TSLA"
+  "GOOG"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/rep-thomas-kean-six-september-trades-ptr",
+   "title": "Rep. Thomas H. Kean filed six September trades. Four sales, two buys, all under $15,000.",
+   "subtitle": "The Oct. 30 report lists partial sales of Abbott Laboratories (ABT), Mondelez (MDLZ), Johnson & Johnson (JNJ) and Stryker (SYK) and buys of Texas Instruments (TXN) and ESAB (ESAB), each $1,001 to $15,000, 43 days after the first trade.",
+   "tags": [
+    "Congress",
+    "Policy Watch"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "ABT",
+    "ESAB",
+    "JNJ",
+    "MDLZ",
+    "SYK",
+    "TXN"
+   ],
+   "signal": "Mixed buys and sales",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. Thomas H. Kean filed six September trades. Four sales, two buys, all under $15,000. ABT ESAB JNJ MDLZ SYK TXN Thomas H. Kean",
+   "reviewed_at": "2026-11-02T20:01:56Z",
+   "published_at": "2026-11-02T20:57:00Z",
+   "published_at_et": "Nov. 2, 2026, 3:57 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/mcguire-spouse-micron-buys-broadcom-sale",
+   "title": "Three Micron buys, one Broadcom sale in a spouse's account. Filed 38 days later.",
+   "subtitle": "Rep. John J Mr McGuire (R-Va.) reported four trades of $1,001 to $15,000 each in Micron (MU) and Broadcom (AVGO), made Sept. 24 to Oct. 1 and filed Nov. 1.",
+   "tags": [
+    "Congress"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "AVGO",
+    "MU"
+   ],
+   "signal": "Mixed buys and sales",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Three Micron buys, one Broadcom sale in a spouse's account. Filed 38 days later. AVGO MU John J Mr McGuire",
+   "reviewed_at": "2026-11-02T19:59:00Z",
+   "published_at": "2026-11-02T20:37:00Z",
+   "published_at_et": "Nov. 2, 2026, 3:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/landstar-ceo-lonegro-bought-5000-shares-open-market",
    "title": "Landstar's CEO bought 5,000 shares, a 22% top-up. The form came one business day later.",
