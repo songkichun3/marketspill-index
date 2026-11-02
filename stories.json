@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-02T13:14:00Z",
+ "generated_at": "2026-11-02T14:59:46Z",
  "featured": null,
  "latest_tickers": [
   "RDDT",
@@ -14,6 +14,48 @@
   "TSLA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/landstar-ceo-lonegro-bought-5000-shares-open-market",
+   "title": "Landstar's CEO bought 5,000 shares, a 22% top-up. The form came one business day later.",
+   "subtitle": "Frank A. Lonegro paid $714,619, at $141.04 to $144.28 a share, for Landstar System (LSTR) stock on Oct. 30 and now holds 28,110 shares directly.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "LSTR"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $714,619",
+   "search_text": "Landstar's CEO bought 5,000 shares, a 22% top-up. The form came one business day later. LSTR LANDSTAR SYSTEM INC Lonegro Frank A",
+   "reviewed_at": "2026-11-02T13:14:00Z",
+   "published_at": "2026-11-02T14:20:00Z",
+   "published_at_et": "Nov. 2, 2026, 9:20 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/scorpio-tankers-vp-filippo-sold-135100-shares",
+   "title": "Scorpio Tankers VP Lauro Filippo sold 135,100 shares in a day. The rest are unvested.",
+   "subtitle": "Three open-market sales at Scorpio Tankers (STNG) brought in $12,492,628.79 at $92.22 to $92.62 a share, a 22.4% trim of a 603,850-share stake.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "STNG"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $12,492,629",
+   "search_text": "Scorpio Tankers VP Lauro Filippo sold 135,100 shares in a day. The rest are unvested. STNG Scorpio Tankers Inc. Lauro Filippo",
+   "reviewed_at": "2026-11-02T13:11:27Z",
+   "published_at": "2026-11-02T14:00:00Z",
+   "published_at_et": "Nov. 2, 2026, 9 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/wsb-vs-insiders-2026-11-01",
    "title": "Reddit led r/wallstreetbets with 74 mentions in the 24 hours to Nov. 1. Its insiders sold $820,070 in 90 days and bought nothing.",
@@ -98,14 +140,14 @@
    "tickers": [
     "CRBG"
    ],
-   "signal": "Discretionary buy",
-   "impact_score": 70,
-   "impact_reason": "open-market buy of $8,671,495",
+   "signal": "Planned buy (10b5-1)",
+   "impact_score": 55,
+   "impact_reason": "open-market buy under a 10b5-1 plan of $8,671,495",
    "search_text": "Nippon Life bought 245,898 Corebridge shares. A plan set in August picked the day. CRBG Corebridge Financial, Inc. NIPPON LIFE INSURANCE CO",
    "reviewed_at": "2026-10-30T22:41:40Z",
    "published_at": "2026-10-30T23:36:00Z",
    "published_at_et": "Oct. 30, 2026, 7:36 p.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-02T13:59:55Z"
   },
   {
    "url": "https://www.marketspill.com/p/robinhood-markets-sold-rvi-shares-one-percent-trim",
