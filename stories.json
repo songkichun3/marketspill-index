@@ -1,19 +1,49 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-02T04:59:34Z",
+ "generated_at": "2026-11-02T11:02:13Z",
  "featured": null,
  "latest_tickers": [
-  "CAKE",
-  "HLT",
-  "DDOG",
-  "T",
-  "LRCX",
-  "PLD",
-  "V",
-  "INTC"
+  "RDDT",
+  "GOOG",
+  "NVDA",
+  "INTC",
+  "MSFT",
+  "AMD",
+  "AAPL",
+  "TSLA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/wsb-vs-insiders-2026-11-01",
+   "title": "Reddit led r/wallstreetbets with 74 mentions in the 24 hours to Nov. 1. Its insiders sold $820,070 in 90 days and bought nothing.",
+   "subtitle": "WSB vs. Insiders: the 8 most-mentioned tickers on r/wallstreetbets, in the 24 hours to Nov. 1, each against 90 days of insider filings (Form 4).",
+   "tags": [
+    "Reddit WSB",
+    "WSB vs. Insiders",
+    "NVDA",
+    "INTC"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "RDDT",
+    "GOOG",
+    "NVDA",
+    "INTC",
+    "MSFT",
+    "AMD",
+    "AAPL",
+    "TSLA"
+   ],
+   "signal": "Weekly ledger",
+   "impact_score": 68,
+   "impact_reason": "weekly WSB vs. Insiders table",
+   "search_text": "Reddit led r/wallstreetbets with 74 mentions in the 24 hours to Nov. 1. Its insiders sold $820,070 in 90 days and bought nothing. RDDT GOOG NVDA INTC MSFT AMD AAPL TSLA",
+   "reviewed_at": "2026-11-02T04:59:34Z",
+   "published_at": "2026-11-02T05:36:00Z",
+   "published_at_et": "Nov. 2, 2026, 12:36 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/cheesecake-factory-cfo-option-exercise-same-day-sale",
    "title": "Cheesecake Factory's CFO exercised 23,832 options and sold every share the same day.",
@@ -163,7 +193,7 @@
    "reviewed_at": "2026-10-30T17:52:20Z",
    "published_at": "2026-10-30T18:37:00Z",
    "published_at_et": "Oct. 30, 2026, 2:37 p.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-02T06:32:00Z"
   },
   {
    "url": "https://www.marketspill.com/p/esquire-financial-kornhaber-sold-20000-shares",
