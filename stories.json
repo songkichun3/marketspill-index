@@ -1,19 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-03T01:05:32Z",
+ "generated_at": "2026-11-03T02:03:54Z",
  "featured": null,
  "latest_tickers": [
+  "CME",
   "AAPL",
   "ABT",
   "JNJ",
   "MDLZ",
   "TXN",
   "AVGO",
-  "MU",
-  "RDDT"
+  "MU"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/cme-julie-winkler-sold-31-pct-of-stake",
+   "title": "Julie Winkler sold 31.9% of her CME Group (CME) stake. The filing came the same day.",
+   "subtitle": "10,079 Class A shares went for $3,075,606.85 at a weighted average of $305.15, leaving 21,482 shares held directly.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CME"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $3,075,607",
+   "search_text": "Julie Winkler sold 31.9% of her CME Group (CME) stake. The filing came the same day. CME CME GROUP INC. Winkler Julie",
+   "reviewed_at": "2026-11-03T02:03:54Z",
+   "published_at": "2026-11-03T02:04:51Z",
+   "published_at_et": "Nov. 2, 2026, 9:04 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/apple-wallstreetbets-mentions-10-to-213",
    "title": "Apple mentions on r/wallstreetbets went from 10 to 213 in one day.",
@@ -34,6 +55,27 @@
    "reviewed_at": "2026-11-03T01:05:32Z",
    "published_at": "2026-11-03T01:06:29Z",
    "published_at_et": "Nov. 2, 2026, 8:06 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/fortive-cao-mulhall-sold-26-percent-of-stake-no-plan",
+   "title": "Fortive's chief accounting officer sold 26% of the stake in one day. No plan is marked.",
+   "subtitle": "Christopher M. Mulhall exercised options on 18,431 Fortive (FTV) shares on Oct. 30 and sold 26,055 at about $65.56, $1.7 million in all, with the report filed Nov. 2.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "FTV"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $1,708,247",
+   "search_text": "Fortive's chief accounting officer sold 26% of the stake in one day. No plan is marked. FTV Fortive Corp Mulhall Christopher M.",
+   "reviewed_at": "2026-11-03T01:03:22Z",
+   "published_at": "2026-11-03T01:36:00Z",
+   "published_at_et": "Nov. 2, 2026, 8:36 p.m. ET",
    "updated_at": null
   },
   {
