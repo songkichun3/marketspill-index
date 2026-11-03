@@ -1,19 +1,41 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-02T23:41:02Z",
+ "generated_at": "2026-11-03T01:05:32Z",
  "featured": null,
  "latest_tickers": [
+  "AAPL",
   "ABT",
   "JNJ",
   "MDLZ",
   "TXN",
   "AVGO",
   "MU",
-  "RDDT",
-  "GOOG"
+  "RDDT"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/apple-wallstreetbets-mentions-10-to-213",
+   "title": "Apple mentions on r/wallstreetbets went from 10 to 213 in one day.",
+   "subtitle": "Apple (AAPL) moved from 11th to first on ApeWisdom's r/wallstreetbets tracker, with 574 upvotes attached to the mentions.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "AAPL"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "AAPL"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Apple mentions on r/wallstreetbets went from 10 to 213 in one day. AAPL Apple",
+   "reviewed_at": "2026-11-03T01:05:32Z",
+   "published_at": "2026-11-03T01:06:29Z",
+   "published_at_et": "Nov. 2, 2026, 8:06 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/rep-thomas-kean-six-september-trades-ptr",
    "title": "Rep. Thomas H. Kean filed six September trades. Four sales, two buys, all under $15,000.",
