@@ -1,19 +1,81 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-04T01:05:24Z",
- "featured": null,
+ "generated_at": "2026-11-04T02:03:29Z",
+ "featured": {
+  "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
+  "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
+  "subtitle": "Mortimer J. Buckley paid $171.55 a share, $998,421 in all, for Boeing (BA) stock on Oct. 30, and the report reached the SEC on Nov. 3, inside the two-business-day deadline.",
+  "tags": [
+   "SEC Insiders",
+   "Insider Buys"
+  ],
+  "category": "SEC Insiders",
+  "tickers": [
+   "BA"
+  ],
+  "signal": "Discretionary buy",
+  "impact_score": 85,
+  "impact_reason": "cluster buying",
+  "search_text": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days. BA BOEING CO Buckley Mortimer J",
+  "reviewed_at": "2026-11-04T01:02:36Z",
+  "published_at": "2026-11-04T01:37:00Z",
+  "published_at_et": "Nov. 3, 2026, 8:37 p.m. ET",
+  "updated_at": null
+ },
  "latest_tickers": [
+  "ANET",
+  "BA",
   "CAT",
   "CME",
   "AAPL",
   "ABT",
   "JNJ",
-  "MDLZ",
-  "TXN",
-  "AVGO"
+  "MDLZ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/bechtolsheim-trust-arista-planned-sale",
+   "title": "A $45.9 million Arista sale trimmed Andreas Bechtolsheim's trust stake by 0.1%.",
+   "subtitle": "A family trust tied to the 10% owner sold 267,892 Arista Networks (ANET) shares on Oct. 30 at weighted average prices from $167.506 to $174.1378, and still holds 180,275,156.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ANET"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "A $45.9 million Arista sale trimmed Andreas Bechtolsheim's trust stake by 0.1%. ANET Arista Networks, Inc. BECHTOLSHEIM ANDREAS",
+   "reviewed_at": "2026-11-04T01:05:24Z",
+   "published_at": "2026-11-04T01:57:00Z",
+   "published_at_et": "Nov. 3, 2026, 8:57 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
+   "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
+   "subtitle": "Mortimer J. Buckley paid $171.55 a share, $998,421 in all, for Boeing (BA) stock on Oct. 30, and the report reached the SEC on Nov. 3, inside the two-business-day deadline.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BA"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days. BA BOEING CO Buckley Mortimer J",
+   "reviewed_at": "2026-11-04T01:02:36Z",
+   "published_at": "2026-11-04T01:37:00Z",
+   "published_at_et": "Nov. 3, 2026, 8:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/caterpillar-director-fish-buys-1000-shares",
    "title": "A Caterpillar director bought 1,000 shares, a 24% top-up, and filed the next morning.",
