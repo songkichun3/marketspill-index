@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-04T02:03:29Z",
+ "generated_at": "2026-11-04T02:56:31Z",
  "featured": {
   "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
   "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
@@ -34,6 +34,27 @@
   "MDLZ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/stride-director-haggart-fivespan-buys-228057-shares",
+   "title": "A Stride director's fund bought 228,057 shares in three days and filed the same night.",
+   "subtitle": "Dylan G. Haggart's Fivespan paid $17,573,121.28 for Stride (LRN) stock between Oct. 30 and Nov. 3, a 12% top-up on the 1,899,703 shares it already held.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "LRN"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $17,573,121",
+   "search_text": "A Stride director's fund bought 228,057 shares in three days and filed the same night. LRN Stride, Inc. Haggart Dylan G.",
+   "reviewed_at": "2026-11-04T02:03:29Z",
+   "published_at": "2026-11-04T02:36:30Z",
+   "published_at_et": "Nov. 3, 2026, 9:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/bechtolsheim-trust-arista-planned-sale",
    "title": "A $45.9 million Arista sale trimmed Andreas Bechtolsheim's trust stake by 0.1%.",
