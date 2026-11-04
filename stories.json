@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-04T02:56:31Z",
+ "generated_at": "2026-11-04T03:53:54Z",
  "featured": {
   "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
   "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
@@ -34,6 +34,27 @@
   "MDLZ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/glaukos-navratil-sold-44436-shares-54-pct-of-stake",
+   "title": "Glaukos (GKOS) development officer sold 44,436 shares on one day, 54% of his stake.",
+   "subtitle": "Tomas Navratil, chief development officer, sold $10.6 million of stock on Oct. 30 at $237.54 to $240.52 a share, the same day he exercised options on 12,969 shares; the report reached the SEC on Nov. 3.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "GKOS"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $10,618,980",
+   "search_text": "Glaukos (GKOS) development officer sold 44,436 shares on one day, 54% of his stake. GKOS GLAUKOS Corp Navratil Tomas",
+   "reviewed_at": "2026-11-04T02:56:31Z",
+   "published_at": "2026-11-04T03:35:50Z",
+   "published_at_et": "Nov. 3, 2026, 10:35 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/stride-director-haggart-fivespan-buys-228057-shares",
    "title": "A Stride director's fund bought 228,057 shares in three days and filed the same night.",
