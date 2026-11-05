@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="canonical" href="https://go.marketspill.com/vs/">
+<meta property="og:title" content="WSB vs. Insiders">
+<meta property="og:description" content="The tickers r/wallstreetbets mentioned most, set against 90 days of SEC Form 4 insider filings. Every row links to the filings.">
+<meta property="og:url" content="https://go.marketspill.com/vs/">
+<title>WSB vs. Insiders</title>
+<meta name="description" content="The tickers r/wallstreetbets mentioned most, set against 90 days of SEC Form 4 insider filings. Every row links to the filings.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: one filing ledger. A header that states the week, then one row per ticker
+   (attention on the left, the insider ledger on the right), each row opening to its largest filing. */
+:root {
+  --bg: #0B0F19;
+  --surface: #0F1726;
+  --line: #1E2B40;
+  --line-strong: #30435F;
+  --fg: #F6F8FC;
+  --fg-2: #AABCD4;
+  --fg-3: #7F93B0;
+  --accent: #FFB830;
+  --accent-ink: #0B0F19;
+  --bar: #3A5378;
+  --font-body: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-data: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #F6F7FA; --surface: #FFFFFF; --line: #E2E7EF; --line-strong: #C9D2DF;
+    --fg: #0B0F19; --fg-2: #46566E; --fg-3: #66768E; --accent: #A86A00; --accent-ink: #FFFFFF; --bar: #B9C6DA;
+    color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --bg: #F6F7FA; --surface: #FFFFFF; --line: #E2E7EF; --line-strong: #C9D2DF;
+  --fg: #0B0F19; --fg-2: #46566E; --fg-3: #66768E; --accent: #A86A00; --accent-ink: #FFFFFF; --bar: #B9C6DA;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 56px;
+}
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.wrap { max-width: 1080px; margin: 0 auto; display: grid; gap: 28px; }
+
+header.top { display: grid; gap: 10px; }
+.kicker { font-family: var(--font-data); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--fg-3); display: flex; flex-wrap: wrap; gap: 6px 14px; }
+.kicker a { color: var(--fg-2); text-decoration: none; }
+h1 { margin: 0; font-size: clamp(30px, 5vw, 46px); line-height: 1.05; font-weight: 800; letter-spacing: -0.02em; text-wrap: balance; }
+h1 .vs { color: var(--accent); font-weight: 800; }
+.dek { margin: 0; max-width: 68ch; color: var(--fg-2); font-size: 16px; }
+.window { font-family: var(--font-data); font-size: 13px; color: var(--fg-2); display: flex; flex-wrap: wrap; gap: 8px 18px; }
+.window b { color: var(--fg); font-weight: 600; }
+.note { margin: 0; font-size: 13px; color: var(--fg-3); max-width: 80ch; }
+
+.sorter { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 13px; color: var(--fg-3); }
+.sorter button {
+  font: 500 13px var(--font-body); color: var(--fg-2); background: transparent; border: 1px solid var(--line-strong);
+  border-radius: 999px; padding: 5px 12px; cursor: pointer;
+}
+.sorter button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+
+.ledger { border-top: 1px solid var(--line-strong); }
+.cols, .row > summary {
+  display: grid; align-items: center; gap: 14px;
+  grid-template-columns: 34px minmax(130px, 1.3fr) minmax(150px, 1.5fr) repeat(4, minmax(84px, 1fr)) 118px;
+}
+.cols { font-family: var(--font-data); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--fg-3); padding: 10px 6px; border-bottom: 1px solid var(--line); }
+.cols .num, .num { text-align: right; }
+.row { border-bottom: 1px solid var(--line); }
+.row > summary { list-style: none; cursor: pointer; padding: 14px 6px; }
+.row > summary::-webkit-details-marker { display: none; }
+.row > summary:hover { background: color-mix(in srgb, var(--surface) 70%, transparent); }
+.row[open] > summary { background: var(--surface); }
+.rank { font-family: var(--font-data); color: var(--fg-3); font-size: 13px; }
+.tick { display: grid; gap: 1px; min-width: 0; }
+.tick .sym { font-family: var(--font-data); font-weight: 600; font-size: 16px; }
+.tick .name { color: var(--fg-2); font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.att { display: grid; gap: 5px; min-width: 0; }
+.att .count { font-family: var(--font-data); font-size: 14px; font-variant-numeric: tabular-nums; }
+.att .count small { color: var(--fg-3); font-size: 12px; }
+.att .track { display: block; height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+.att .fill { display: block; height: 100%; background: var(--bar); border-radius: 3px; }
+.att .fill.top { background: var(--accent); }
+.money { font-family: var(--font-data); font-variant-numeric: tabular-nums; font-size: 14px; white-space: nowrap; }
+.money.zero { color: var(--fg-3); }
+.money .sub { display: block; font-size: 11px; color: var(--fg-3); }
+.pill { justify-self: end; font-size: 12px; font-weight: 600; border: 1px solid var(--line-strong); color: var(--fg-2); border-radius: 999px; padding: 3px 10px; white-space: nowrap; }
+.pill.bought { border-color: var(--accent); color: var(--accent); }
+
+.detail { padding: 4px 6px 20px 54px; display: grid; gap: 14px; background: var(--surface); }
+.detail .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px 28px; }
+.fact h3 { margin: 0 0 4px; font-family: var(--font-data); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--fg-3); font-weight: 600; }
+.fact p { margin: 0; font-size: 14px; color: var(--fg-2); }
+.fact p b { color: var(--fg); font-weight: 600; }
+.detail .links { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 13px; }
+
+section.method { display: grid; gap: 10px; max-width: 76ch; }
+section.method h2 { margin: 0; font-size: 18px; font-weight: 700; }
+section.method ul { margin: 0; padding-left: 20px; display: grid; gap: 6px; color: var(--fg-2); }
+.foot { display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 18px; font-size: 13px; color: var(--fg-3); max-width: 80ch; }
+.cta { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; }
+.cta a.btn { background: var(--accent); color: var(--accent-ink); text-decoration: none; font-weight: 700; border-radius: 8px; padding: 9px 14px; }
+.status { color: var(--fg-2); font-size: 14px; }
+
+@media (max-width: 760px) {
+  .cols { display: none; }
+  .row > summary {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-areas: "tick tick tick pill" "att att att att" "b s p x";
+    row-gap: 10px; column-gap: 10px;
+  }
+  .c-rank { display: none; } .c-tick { grid-area: tick; } .c-att { grid-area: att; } .c-pill { grid-area: pill; }
+  .c-b { grid-area: b; } .c-s { grid-area: s; } .c-p { grid-area: p; } .c-x { grid-area: x; }
+  .money { font-size: 13px; text-align: left; }
+  .money::before { content: attr(data-label); display: block; font-family: var(--font-data); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; color: var(--fg-3); }
+  .detail { padding-left: 6px; }
+}
+@media (prefers-reduced-motion: no-preference) { .att .fill { transition: width .4s ease; } }
+</style>
+</head>
+<body>
+
+
+<div class="wrap">
+  <header class="top">
+    <div class="kicker"><span>MarketSpill data</span><span>Updated every Monday</span><a href="https://www.marketspill.com/wsb-vs-insiders" id="all-editions">All editions</a></div>
+    <h1>WSB <span class="vs">vs.</span> Insiders</h1>
+    <p class="dek">The tickers r/wallstreetbets mentioned most, each set against what that company's officers, directors and large holders reported buying and selling on SEC Form 4 over the past 90 days. Open any row for its largest filing.</p>
+    <div class="window" id="window"></div>
+    <p class="note" id="window-note" hidden></p>
+  </header>
+
+  <div class="sorter" role="group" aria-label="Sort rows">
+    <span>Sort by</span>
+    <button type="button" id="sort-mentions" data-key="mentions" aria-pressed="true">WSB mentions</button>
+    <button type="button" id="sort-buys" data-key="buys" aria-pressed="false">Insider buys</button>
+    <button type="button" id="sort-sales" data-key="sales" aria-pressed="false">Discretionary sales</button>
+    <button type="button" id="sort-planned" data-key="planned" aria-pressed="false">10b5-1 plan sales</button>
+  </div>
+
+  <div class="ledger" id="ledger">
+    <div class="cols" aria-hidden="true">
+      <span>#</span><span>Ticker</span><span>WSB mentions</span>
+      <span class="num">Buys</span><span class="num">Discretionary sales</span><span class="num">10b5-1 plan sales</span><span class="num">Set apart</span>
+      <span class="num">Label</span>
+    </div>
+    <p class="status" id="status">Loading this week's table.</p>
+  </div>
+
+  <section class="method">
+    <h2>How the table is built</h2>
+    <ul>
+      <li><b>Mentions</b> come from the ApeWisdom r/wallstreetbets tracker, which scans about twice an hour and counts comments as well as posts. A mention is attention. It is not a measure of buying or of sentiment.</li>
+      <li><b>Insider rows</b> come from SEC Form 4 filings for each company, read straight from EDGAR, for the 90 days before the week ends. Buys are open-market purchases (code P). Sales are open-market sales (code S).</li>
+      <li><b>10b5-1 plan sales</b> are sales the filing marks as made under a pre-set trading plan. They are part of the sales total and shown on their own.</li>
+      <li><b>Set apart</b> means sales made the same day as an option exercise, and shares sold to cover taxes. They are kept out of the label because they say little about what an insider thinks.</li>
+      <li><b>Labels</b> describe the filings only. "Insiders bought" or "Insiders sold" when one side is at least five times the other, "Mixed" when it is not, "Insiders quiet" when there is neither. Filings do not say why anyone traded.</li>
+    </ul>
+  </section>
+
+  <footer class="foot">
+    <div class="cta"><a class="btn" id="subscribe" href="https://www.marketspill.com/subscribe?utm_source=data_page&amp;utm_medium=tool">Get The Daily Spill</a><span>Congress trades, insider filings and WSB attention in one free email, weekdays at 8 a.m. ET.</span></div>
+    <p>Made by MarketSpill. Software builds this table from the public filings and automated checks compare it with the source; the editor, K. Song, answers for corrections at editor@marketspill.com. Educational reporting from public filings, not investment advice.</p>
+    <p id="sources"></p>
+  </footer>
+</div>
+
+
+<script>
+(function () {
+  "use strict";
+  var KEYS = {
+    mentions: function (r) { return r.mentions || 0; },
+    buys: function (r) { return r.ledger.buy_usd || 0; },
+    sales: function (r) { return disc(r); },
+    planned: function (r) { return r.ledger.planned_sale_usd || 0; }
+  };
+  function disc(r) { var l = r.ledger; return Math.max(0, (l.sale_usd || 0) - (l.planned_sale_usd || 0)); }
+  function setAside(r) { var l = r.ledger; return (l.exercise_sale_usd || 0) + (l.tax_sale_usd || 0); }
+  function usd(v) {
+    if (!v) return "$0";
+    var a = Math.abs(v);
+    if (a >= 1e9) return "$" + (v / 1e9).toFixed(2) + "B";
+    if (a >= 1e6) return "$" + (v / 1e6).toFixed(1) + "M";
+    if (a >= 1e3) return "$" + Math.round(v / 1e3).toLocaleString("en-US") + "K";
+    return "$" + Math.round(v).toLocaleString("en-US");
+  }
+  function exact(v) { return "$" + (v || 0).toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+  var MONTHS = ["Jan.", "Feb.", "March", "April", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
+  function apDate(iso) {
+    if (!iso) return "";
+    var p = String(iso).slice(0, 10).split("-");
+    return MONTHS[+p[1] - 1] + " " + (+p[2]) + ", " + p[0];
+  }
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function el(id) { return document.getElementById(id); }
+
+  // Credit the subscribe link to where the reader came from, so the newsletter can tell which channel works.
+  try {
+    var ref = document.referrer || "", src = "data_page";
+    if (/news\.ycombinator\.com/.test(ref)) src = "hackernews";
+    else if (/reddit\.com/.test(ref)) src = "reddit";
+    else if (/(^https?:\/\/)?(t\.co|x\.com|twitter\.com)/.test(ref)) src = "x";
+    else if (/stocktwits\.com/.test(ref)) src = "stocktwits";
+    el("subscribe").href = "https://www.marketspill.com/subscribe?utm_source=" + src + "&utm_medium=tool&utm_campaign=wsb_vs_insiders";
+  } catch (e) { /* the default link stays */ }
+
+  function largest(label, t) {
+    if (!t) return "";
+    var plan = t.planned ? " under a 10b5-1 plan" : "";
+    return '<div class="fact"><h3>' + label + '</h3><p><b>' + esc(t.who) + '</b>, ' + esc(t.role || "insider") + ', ' +
+      (label.indexOf("buy") > -1 ? "bought " : "sold ") + Number(t.shares || 0).toLocaleString("en-US") + ' shares for <b>' + exact(t.usd) +
+      '</b>' + plan + ' on ' + apDate(t.trade_date) + '. Filed ' + apDate(t.filed) + '. <a href="' + esc(t.url) + '" rel="noopener" target="_blank">Form 4</a></p></div>';
+  }
+
+  function render(data, key) {
+    var rows = (data.rows || []).slice();
+    var max = Math.max.apply(null, rows.map(function (r) { return r.mentions || 0; }).concat([1]));
+    rows.sort(function (a, b) { return KEYS[key](b) - KEYS[key](a) || (b.mentions || 0) - (a.mentions || 0); });
+    var ledger = el("ledger");
+    Array.prototype.slice.call(ledger.querySelectorAll(".row, .status")).forEach(function (n) { n.remove(); });
+    rows.forEach(function (r, i) {
+      var l = r.ledger || {}, d = disc(r), p = l.planned_sale_usd || 0, x = setAside(r), b = l.buy_usd || 0;
+      var prev = r.prev_available && r.prev_mentions != null ? ' <small>from ' + r.prev_mentions + '</small>' : "";
+      var details = document.createElement("details");
+      details.className = "row";
+      details.innerHTML =
+        '<summary>' +
+          '<span class="rank c-rank">' + (i + 1) + '</span>' +
+          '<span class="tick c-tick"><span class="sym">' + esc(r.ticker) + '</span><span class="name">' + esc(r.name) + '</span></span>' +
+          '<span class="att c-att"><span class="count">' + (r.mentions || 0).toLocaleString("en-US") + ' mentions' + prev + '</span>' +
+            '<span class="track"><span class="fill' + ((r.mentions || 0) === max ? ' top' : '') + '" style="width:' + Math.max(2, Math.round((r.mentions || 0) / max * 100)) + '%"></span></span></span>' +
+          '<span class="money num c-b' + (b ? '' : ' zero') + '" data-label="Buys" title="' + exact(b) + '">' + usd(b) + '</span>' +
+          '<span class="money num c-s' + (d ? '' : ' zero') + '" data-label="Sales" title="' + exact(d) + '">' + usd(d) + '</span>' +
+          '<span class="money num c-p' + (p ? '' : ' zero') + '" data-label="Plan sales" title="' + exact(p) + '">' + usd(p) + '</span>' +
+          '<span class="money num c-x' + (x ? '' : ' zero') + '" data-label="Set apart" title="' + exact(x) + '">' + usd(x) + '</span>' +
+          '<span class="pill c-pill' + (l.label === "Insiders bought" ? ' bought' : '') + '">' + esc(l.label || "") + '</span>' +
+        '</summary>' +
+        '<div class="detail"><div class="facts">' +
+          largest("Largest buy", l.largest_buy) + largest("Largest sale", l.largest_sale) +
+          '<div class="fact"><h3>Filings read</h3><p><b>' + (l.filings_in_window || 0) + '</b> Form 4 filings in the ' + (data.insider_window_days || 90) + '-day window. ' + (l.buy_filings || 0) + ' with buys, ' + (l.sale_filings || 0) + ' with sales, ' + ((l.exercise_filings || 0) + (l.tax_filings || 0)) + ' set apart.' +
+            (l.capped ? ' Only the most recent filings were read for this company.' : '') + '</p></div>' +
+        '</div><div class="links"><a href="' + esc(l.edgar_url) + '" rel="noopener" target="_blank">All ' + esc(r.ticker) + ' Form 4 filings on EDGAR</a>' +
+          '<a href="https://apewisdom.io/stocks/' + encodeURIComponent(r.ticker) + '/" rel="noopener" target="_blank">' + esc(r.ticker) + ' on the WSB tracker</a></div></div>';
+      ledger.appendChild(details);
+    });
+  }
+
+  function start(data) {
+    var w = data.window || {};
+    el("window").innerHTML = '<span>WSB mentions <b>' + esc(data.window_label || "") + '</b></span>' +
+      '<span>Insider filings <b>' + (data.insider_window_days || 90) + ' days to ' + apDate(data.insider_window_end) + '</b></span>' +
+      (data.url ? '<a href="' + esc(data.url) + '">Read this week\'s story</a>' : '');
+    if ((w.days_counted || 0) < 7) {
+      el("window-note").hidden = false;
+      el("window-note").textContent = "This edition counts " + (w.days_counted || 0) + (w.days_counted === 1 ? " daily reading" : " daily readings") +
+        " of the tracker, not a full week, so it has no prior week to compare against.";
+    }
+    var src = (data.sources || []).slice(0, 2).map(function (s) { return '<a href="' + esc(s.url) + '" rel="noopener" target="_blank">' + esc(s.label) + '</a>'; });
+    el("sources").innerHTML = "Sources: " + src.concat(['SEC EDGAR Form 4 filings, linked in each row']).join(" · ");
+    var key = "mentions";
+    Array.prototype.forEach.call(document.querySelectorAll(".sorter button"), function (btn) {
+      btn.addEventListener("click", function () {
+        key = btn.getAttribute("data-key");
+        Array.prototype.forEach.call(document.querySelectorAll(".sorter button"), function (o) { o.setAttribute("aria-pressed", String(o === btn)); });
+        render(data, key);
+      });
+    });
+    render(data, key);
+  }
+
+  var inline = document.getElementById("vs-data");
+  if (inline && inline.textContent.trim()) {
+    try { start(JSON.parse(inline.textContent)); return; } catch (e) { /* fall through to fetch */ }
+  }
+  fetch("latest.json", { cache: "no-cache" }).then(function (r) {
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  }).then(start).catch(function () {
+    el("status").textContent = "This week's table could not load. The latest edition is on marketspill.com/wsb-vs-insiders.";
+  });
+})();
+</script>
+
+</body>
+</html>
