@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-05T11:09:06Z",
+ "generated_at": "2026-11-05T12:03:16Z",
  "featured": {
   "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
   "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
@@ -24,16 +24,38 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "MU",
   "CRWD",
   "ANET",
   "BA",
   "CAT",
   "CME",
   "AAPL",
-  "ABT",
-  "JNJ"
+  "ABT"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/micron-mu-wallstreetbets-mentions-250",
+   "title": "Micron Technology (MU) mentions on r/wallstreetbets went from 51 to 250 in a day.",
+   "subtitle": "The 4.9x jump put Micron at No. 1 on ApeWisdom's tracker, up from No. 3, with 1,661 upvotes attached.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "MU"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "MU"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Micron Technology (MU) mentions on r/wallstreetbets went from 51 to 250 in a day. MU Micron Technology",
+   "reviewed_at": "2026-11-05T11:09:06Z",
+   "published_at": "2026-11-05T11:35:00Z",
+   "published_at_et": "Nov. 5, 2026, 6:35 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/dutch-bros-boersma-planned-sale-106-million",
    "title": "Dutch Bros' chairman sold $106.4 million of stock in three days under a February plan.",
