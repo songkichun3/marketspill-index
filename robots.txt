@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /vs/preview.json
+Disallow: /cards/wsb-vs-insiders-preview.png
+
+Sitemap: https://go.marketspill.com/sitemap.xml
