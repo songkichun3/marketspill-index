@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-05T01:10:31Z",
+ "generated_at": "2026-11-05T02:16:52Z",
  "featured": {
   "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
   "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
@@ -24,16 +24,59 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "CRWD",
   "ANET",
   "BA",
   "CAT",
   "CME",
   "AAPL",
   "ABT",
-  "JNJ",
-  "MDLZ"
+  "JNJ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/tenable-director-seawell-sold-30000-shares-after-option-exercise",
+   "title": "Tenable's Seawell exercised 115,000 options at $9.66 and sold 30,000 shares that day.",
+   "subtitle": "The director's Nov. 2 sales at Tenable (TENB) totaled $1,485,900, a 20.6% trim of the stake he held before the trade, and the Form 4 landed two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "TENB"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $1,485,900",
+   "search_text": "Tenable's Seawell exercised 115,000 options at $9.66 and sold 30,000 shares that day. TENB Tenable Holdings, Inc. SEAWELL A BROOKE",
+   "reviewed_at": "2026-11-05T01:10:31Z",
+   "published_at": "2026-11-05T01:57:00Z",
+   "published_at_et": "Nov. 4, 2026, 8:57 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/crowdstrike-ceo-kurtz-planned-sale-november",
+   "title": "CrowdStrike's CEO sold 45,395 shares, 0.6% of his stake, under a January plan.",
+   "subtitle": "George Kurtz sold about $11.2 million of CrowdStrike (CRWD) stock on Nov. 2 and 3; the Form 4 landed Nov. 4.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "CRWD"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CRWD"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "CrowdStrike's CEO sold 45,395 shares, 0.6% of his stake, under a January plan. CRWD CrowdStrike Holdings, Inc. Kurtz George",
+   "reviewed_at": "2026-11-05T01:06:00Z",
+   "published_at": "2026-11-05T01:37:00Z",
+   "published_at_et": "Nov. 4, 2026, 8:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/glaukos-navratil-sold-44436-shares-54-pct-of-stake",
    "title": "Glaukos (GKOS) development officer sold 44,436 shares on one day, 54% of his stake.",
