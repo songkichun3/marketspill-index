@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-05T02:16:52Z",
+ "generated_at": "2026-11-05T03:56:28Z",
  "featured": {
   "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
   "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
@@ -34,6 +34,27 @@
   "JNJ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/dutch-bros-boersma-planned-sale-106-million",
+   "title": "Dutch Bros' chairman sold $106.4 million of stock in three days under a February plan.",
+   "subtitle": "Two LLCs managed by Travis Boersma sold 2,388,812 Dutch Bros (BROS) shares from Nov. 2 to Nov. 4, 37.8% of the stake they held before, at $44.06 to $45.14 a share.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BROS"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Dutch Bros' chairman sold $106.4 million of stock in three days under a February plan. BROS Dutch Bros Inc. Boersma Travis",
+   "reviewed_at": "2026-11-05T02:16:52Z",
+   "published_at": "2026-11-05T02:36:00Z",
+   "published_at_et": "Nov. 4, 2026, 9:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/tenable-director-seawell-sold-30000-shares-after-option-exercise",
    "title": "Tenable's Seawell exercised 115,000 options at $9.66 and sold 30,000 shares that day.",
