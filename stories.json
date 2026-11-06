@@ -1,17 +1,17 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-06T02:22:55Z",
+ "generated_at": "2026-11-06T03:54:12Z",
  "featured": null,
  "latest_tickers": [
+  "NFLX",
   "H",
   "CROX",
   "CSCO",
   "NVDA",
   "PG",
   "MU",
-  "CRWD",
-  "ANET"
+  "CRWD"
  ],
  "stories": [
   {
@@ -33,6 +33,27 @@
    "reviewed_at": "2026-11-06T02:22:55Z",
    "published_at": "2026-11-06T02:23:51Z",
    "published_at_et": "Nov. 5, 2026, 9:23 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/netflix-sarandos-sold-27312-shares-after-rsu-vesting",
+   "title": "Netflix co-CEO sold 27,312 shares, 13% of his stake, a day after RSUs vested.",
+   "subtitle": "Theodore A. Sarandos sold 27,312 Netflix (NFLX) shares for about $1.8 million on Nov. 4 at a weighted average of $66.20; the form reached the SEC the next evening.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "NFLX"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $1,808,049",
+   "search_text": "Netflix co-CEO sold 27,312 shares, 13% of his stake, a day after RSUs vested. NFLX NETFLIX INC SARANDOS THEODORE A",
+   "reviewed_at": "2026-11-06T02:19:54Z",
+   "published_at": "2026-11-06T02:39:55Z",
+   "published_at_et": "Nov. 5, 2026, 9:39 p.m. ET",
    "updated_at": null
   },
   {
