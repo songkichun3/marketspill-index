@@ -1,19 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-06T01:15:18Z",
+ "generated_at": "2026-11-06T02:22:55Z",
  "featured": null,
  "latest_tickers": [
   "H",
+  "CROX",
+  "CSCO",
+  "NVDA",
+  "PG",
   "MU",
   "CRWD",
-  "ANET",
-  "BA",
-  "CAT",
-  "CME",
-  "AAPL"
+  "ANET"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/crh-director-talbot-2000-share-buy",
+   "title": "A CRH director's 2,000-share buy added 23.5% to the stake. Filed two days later.",
+   "subtitle": "Siobhan Talbot bought 2,000 CRH (CRH) ordinary shares at $94.63 on Nov. 3, 2026, $189,260 in all, and now holds 10,507.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CRH"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $189,260",
+   "search_text": "A CRH director's 2,000-share buy added 23.5% to the stake. Filed two days later. CRH CRH PUBLIC LTD CO Talbot Siobhan",
+   "reviewed_at": "2026-11-06T02:22:55Z",
+   "published_at": "2026-11-06T02:23:51Z",
+   "published_at_et": "Nov. 5, 2026, 9:23 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/hyatt-director-hoplamazian-sold-85000-shares",
    "title": "A Hyatt director sold 85,000 shares over two November days, 24% of the stake.",
@@ -33,6 +54,50 @@
    "reviewed_at": "2026-11-06T01:15:17Z",
    "published_at": "2026-11-06T01:16:14Z",
    "published_at_et": "Nov. 5, 2026, 8:16 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/crocs-ceo-rees-sold-40000-shares-family-trust",
+   "title": "Crocs' CEO sold exactly 40,000 shares from a family trust. No plan is marked.",
+   "subtitle": "Andrew Rees sold $6.1 million of Crocs (CROX) stock on Nov. 3, a 3.1% trim of the 1,283,472 shares he held before the sale, and the report landed two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CROX"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $6,115,595",
+   "search_text": "Crocs' CEO sold exactly 40,000 shares from a family trust. No plan is marked. CROX Crocs, Inc. Rees Andrew",
+   "reviewed_at": "2026-11-06T01:12:46Z",
+   "published_at": "2026-11-06T01:56:00Z",
+   "published_at_et": "Nov. 5, 2026, 8:56 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/salazar-five-trades-cisco-nvidia-pg-one-day",
+   "title": "Rep. Maria Elvira Salazar made five trades in one day. The report arrived 13 days later.",
+   "subtitle": "The report lists one sale of Cisco (CSCO) and four buys of Nvidia (NVDA) and Procter & Gamble (PG), each in the $1,001 to $15,000 range.",
+   "tags": [
+    "Congress",
+    "NVDA"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "CSCO",
+    "NVDA",
+    "PG"
+   ],
+   "signal": "Mixed buys and sales",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. Maria Elvira Salazar made five trades in one day. The report arrived 13 days later. CSCO NVDA PG Maria Elvira Salazar",
+   "reviewed_at": "2026-11-06T01:09:59Z",
+   "published_at": "2026-11-06T01:36:00Z",
+   "published_at_et": "Nov. 5, 2026, 8:36 p.m. ET",
    "updated_at": null
   },
   {
