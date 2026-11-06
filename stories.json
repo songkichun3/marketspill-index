@@ -1,39 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-05T23:47:40Z",
- "featured": {
-  "url": "https://www.marketspill.com/p/boeing-director-buckley-bought-5820-shares",
-  "title": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days.",
-  "subtitle": "Mortimer J. Buckley paid $171.55 a share, $998,421 in all, for Boeing (BA) stock on Oct. 30, and the report reached the SEC on Nov. 3, inside the two-business-day deadline.",
-  "tags": [
-   "SEC Insiders",
-   "Insider Buys"
-  ],
-  "category": "SEC Insiders",
-  "tickers": [
-   "BA"
-  ],
-  "signal": "Discretionary buy",
-  "impact_score": 85,
-  "impact_reason": "cluster buying",
-  "search_text": "A Boeing director bought 5,820 shares and more than doubled his stake. Filed in two days. BA BOEING CO Buckley Mortimer J",
-  "reviewed_at": "2026-11-04T01:02:36Z",
-  "published_at": "2026-11-04T01:37:00Z",
-  "published_at_et": "Nov. 3, 2026, 8:37 p.m. ET",
-  "updated_at": null
- },
+ "generated_at": "2026-11-06T01:15:18Z",
+ "featured": null,
  "latest_tickers": [
+  "H",
   "MU",
   "CRWD",
   "ANET",
   "BA",
   "CAT",
   "CME",
-  "AAPL",
-  "ABT"
+  "AAPL"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/hyatt-director-hoplamazian-sold-85000-shares",
+   "title": "A Hyatt director sold 85,000 shares over two November days, 24% of the stake.",
+   "subtitle": "Mark Hoplamazian's seven lots at Hyatt Hotels (H) totaled about $16 million on Nov. 3 and 4, and the Form 4 landed the next evening.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "H"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $15,999,453",
+   "search_text": "A Hyatt director sold 85,000 shares over two November days, 24% of the stake. H Hyatt Hotels Corp HOPLAMAZIAN MARK SAMUEL",
+   "reviewed_at": "2026-11-06T01:15:17Z",
+   "published_at": "2026-11-06T01:16:14Z",
+   "published_at_et": "Nov. 5, 2026, 8:16 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/micron-mu-wallstreetbets-mentions-250",
    "title": "Micron Technology (MU) mentions on r/wallstreetbets went from 51 to 250 in a day.",
