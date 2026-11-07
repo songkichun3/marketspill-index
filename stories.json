@@ -1,19 +1,40 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-07T01:57:24Z",
+ "generated_at": "2026-11-07T03:44:24Z",
  "featured": null,
  "latest_tickers": [
+  "LIN",
   "NFLX",
   "H",
   "CROX",
   "CSCO",
   "NVDA",
   "PG",
-  "MU",
-  "CRWD"
+  "MU"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/linde-cfo-white-sold-86833-shares-option-exercise",
+   "title": "Linde's CFO sold 86,833 shares for $45.3 million. He ended the day with the same stake.",
+   "subtitle": "Matthew J. White, chief financial officer of Linde (LIN), exercised four option tranches on Nov. 4, had 141,342 shares withheld for cost and taxes, and sold the remaining 86,833 at $518.50 to $525.00.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "LIN"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $45,258,063",
+   "search_text": "Linde's CFO sold 86,833 shares for $45.3 million. He ended the day with the same stake. LIN LINDE PLC White Matthew J",
+   "reviewed_at": "2026-11-07T01:57:24Z",
+   "published_at": "2026-11-07T02:36:00Z",
+   "published_at_et": "Nov. 6, 2026, 9:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/crh-director-talbot-2000-share-buy",
    "title": "A CRH director's 2,000-share buy added 23.5% to the stake. Filed two days later.",
