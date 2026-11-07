@@ -1,19 +1,61 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-07T16:44:40Z",
+ "generated_at": "2026-11-07T22:43:46Z",
  "featured": null,
  "latest_tickers": [
+  "RCL",
+  "CVS",
   "LIN",
   "NFLX",
   "H",
   "CROX",
   "CSCO",
-  "NVDA",
-  "PG",
-  "MU"
+  "NVDA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/royal-caribbean-director-wilhelmsen-sold-250000-shares",
+   "title": "Wilhelmsen sold exactly 250,000 Royal Caribbean shares in 24 lots. The stake fell 1.5%.",
+   "subtitle": "Director Arne Alexander Wilhelmsen sold $82.1 million of Royal Caribbean (RCL) stock on Nov. 4 and 5 at weighted-average prices of $319.20 to $335.08 a share.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "RCL"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $82,140,413",
+   "search_text": "Wilhelmsen sold exactly 250,000 Royal Caribbean shares in 24 lots. The stake fell 1.5%. RCL ROYAL CARIBBEAN CRUISES LTD Wilhelmsen Arne Alexander",
+   "reviewed_at": "2026-11-07T16:44:40Z",
+   "published_at": "2026-11-07T17:56:00Z",
+   "published_at_et": "Nov. 7, 2026, 12:56 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/cvs-health-prem-shah-bought-23855-shares-same-day-form-4",
+   "title": "CVS Health's Prem Shah bought 23,855 shares, a 37% top-up. The filing came the same day.",
+   "subtitle": "The EVP and Group President paid $83.895 a share, about $2 million in all, for CVS Health (CVS) stock on Nov. 6 and now reports 88,516 shares.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CVS"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $2,001,315",
+   "search_text": "CVS Health's Prem Shah bought 23,855 shares, a 37% top-up. The filing came the same day. CVS CVS HEALTH Corp Shah Prem S",
+   "reviewed_at": "2026-11-07T16:42:09Z",
+   "published_at": "2026-11-07T17:36:00Z",
+   "published_at_et": "Nov. 7, 2026, 12:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/linde-cfo-white-sold-86833-shares-option-exercise",
    "title": "Linde's CFO sold 86,833 shares for $45.3 million. He ended the day with the same stake.",
