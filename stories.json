@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-08T04:55:43Z",
+ "generated_at": "2026-11-08T10:43:50Z",
  "featured": null,
  "latest_tickers": [
   "RCL",
@@ -14,6 +14,27 @@
   "NVDA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/sharkninja-ceo-barrocas-sold-113156-shares",
+   "title": "SharkNinja's CEO sold 113,156 shares, about $25 million, and filed the same night.",
+   "subtitle": "Mark Barrocas sold a 6.7% slice of his SharkNinja (SN) stake on Nov. 6 at weighted average prices from $218.26 to $224.05 and still holds 1,565,453 shares.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SN"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $24,999,952",
+   "search_text": "SharkNinja's CEO sold 113,156 shares, about $25 million, and filed the same night. SN SharkNinja, Inc. Barrocas Mark",
+   "reviewed_at": "2026-11-08T04:55:43Z",
+   "published_at": "2026-11-08T05:36:00Z",
+   "published_at_et": "Nov. 8, 2026, 12:36 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/oreilly-orly-chairman-henslee-option-exercise-sale",
    "title": "O'Reilly's chairman exercised 138,705 options and sold the shares for $12.7 million.",
