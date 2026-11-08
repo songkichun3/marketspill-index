@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-07T22:43:46Z",
+ "generated_at": "2026-11-08T04:55:43Z",
  "featured": null,
  "latest_tickers": [
   "RCL",
@@ -14,6 +14,48 @@
   "NVDA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/oreilly-orly-chairman-henslee-option-exercise-sale",
+   "title": "O'Reilly's chairman exercised 138,705 options and sold the shares for $12.7 million.",
+   "subtitle": "Gregory L. Henslee paid $17.12 a share for O'Reilly Automotive (ORLY) stock on Nov. 4 and sold the same shares at about $91.75 the same day; no trading plan is marked.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ORLY"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $12,726,406",
+   "search_text": "O'Reilly's chairman exercised 138,705 options and sold the shares for $12.7 million. ORLY O REILLY AUTOMOTIVE INC HENSLEE GREGORY L",
+   "reviewed_at": "2026-11-07T22:43:46Z",
+   "published_at": "2026-11-07T23:56:00Z",
+   "published_at_et": "Nov. 7, 2026, 6:56 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/autozone-cfo-jackson-exercised-and-sold-6900-shares",
+   "title": "AutoZone's CFO exercised 6,900 options and sold all 6,900 shares the same day.",
+   "subtitle": "The 19 lots of AutoZone (AZO) stock went for $3,299.05 to $3,329.66 a share, about $22.9 million in all, and left Jamere Jackson with 496 shares.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "AZO"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $22,905,994",
+   "search_text": "AutoZone's CFO exercised 6,900 options and sold all 6,900 shares the same day. AZO AUTOZONE INC JACKSON JAMERE",
+   "reviewed_at": "2026-11-07T22:41:48Z",
+   "published_at": "2026-11-07T23:36:00Z",
+   "published_at_et": "Nov. 7, 2026, 6:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/royal-caribbean-director-wilhelmsen-sold-250000-shares",
    "title": "Wilhelmsen sold exactly 250,000 Royal Caribbean shares in 24 lots. The stake fell 1.5%.",
