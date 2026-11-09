@@ -1,19 +1,72 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-09T05:04:32Z",
+ "generated_at": "2026-11-09T11:02:26Z",
  "featured": null,
  "latest_tickers": [
-  "RCL",
-  "CVS",
-  "LIN",
-  "NFLX",
-  "H",
-  "CROX",
-  "CSCO",
-  "NVDA"
+  "NVDA",
+  "MU",
+  "AMD",
+  "AAPL",
+  "TSLA",
+  "GOOG",
+  "INTC",
+  "RCL"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/nvidia-wsb-mentions-730-from-71",
+   "title": "Nvidia hit 730 mentions on WallStreetBets in a day. The day before it was 71.",
+   "subtitle": "Nvidia (NVDA) was already the subreddit's most-mentioned ticker at 71; the count rose 10.3 times by Nov. 9.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "NVDA"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "NVDA"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Nvidia hit 730 mentions on WallStreetBets in a day. The day before it was 71. NVDA NVIDIA",
+   "reviewed_at": "2026-11-09T11:02:26Z",
+   "published_at": "2026-11-09T11:03:23Z",
+   "published_at_et": "Nov. 9, 2026, 6:03 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/wsb-vs-insiders-2026-11-08",
+   "title": "Micron Technology led r/wallstreetbets with 1,198 mentions, Nov. 2 to 8. Its insiders sold $84.4 million in 90 days and bought nothing.",
+   "subtitle": "WSB vs. Insiders: the 8 most-mentioned tickers on r/wallstreetbets, Nov. 2 to 8, each against 90 days of insider filings (Form 4).",
+   "tags": [
+    "Reddit WSB",
+    "WSB vs. Insiders",
+    "MU",
+    "NVDA",
+    "AMD"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "MU",
+    "NVDA",
+    "AMD",
+    "SNDK",
+    "AAPL",
+    "TSLA",
+    "GOOG",
+    "INTC"
+   ],
+   "signal": "Weekly ledger",
+   "impact_score": 68,
+   "impact_reason": "weekly WSB vs. Insiders table",
+   "search_text": "Micron Technology led r/wallstreetbets with 1,198 mentions, Nov. 2 to 8. Its insiders sold $84.4 million in 90 days and bought nothing. MU NVDA AMD SNDK AAPL TSLA GOOG INTC",
+   "reviewed_at": "2026-11-09T05:04:32Z",
+   "published_at": "2026-11-09T05:36:00Z",
+   "published_at_et": "Nov. 9, 2026, 12:36 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/sharkninja-ceo-barrocas-sold-113156-shares",
    "title": "SharkNinja's CEO sold 113,156 shares, about $25 million, and filed the same night.",
