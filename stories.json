@@ -1,8 +1,28 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-09T13:17:31Z",
- "featured": null,
+ "generated_at": "2026-11-09T14:59:06Z",
+ "featured": {
+  "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
+  "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
+  "subtitle": "Paul W. Harvey paid $26,360 for Matador Resources (MTDR) stock on Nov. 5, one of six insider buys in a week; the filing landed Nov. 9.",
+  "tags": [
+   "SEC Insiders",
+   "Insider Buys"
+  ],
+  "category": "SEC Insiders",
+  "tickers": [
+   "MTDR"
+  ],
+  "signal": "Discretionary buy",
+  "impact_score": 85,
+  "impact_reason": "cluster buying",
+  "search_text": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day. MTDR Matador Resources Co Harvey Paul W",
+  "reviewed_at": "2026-11-09T13:17:31Z",
+  "published_at": "2026-11-09T13:41:00Z",
+  "published_at_et": "Nov. 9, 2026, 8:41 a.m. ET",
+  "updated_at": null
+ },
  "latest_tickers": [
   "TSM",
   "NVDA",
@@ -14,6 +34,27 @@
   "INTC"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
+   "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
+   "subtitle": "Paul W. Harvey paid $26,360 for Matador Resources (MTDR) stock on Nov. 5, one of six insider buys in a week; the filing landed Nov. 9.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "MTDR"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day. MTDR Matador Resources Co Harvey Paul W",
+   "reviewed_at": "2026-11-09T13:17:31Z",
+   "published_at": "2026-11-09T13:41:00Z",
+   "published_at_et": "Nov. 9, 2026, 8:41 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/taiwan-semiconductor-director-splinter-buys-840-ads",
    "title": "Michael Splinter bought $299,880 of Taiwan Semiconductor. Filed within two business days.",
