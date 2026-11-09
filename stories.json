@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-09T22:52:14Z",
+ "generated_at": "2026-11-09T23:43:30Z",
  "featured": {
   "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
   "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
@@ -34,6 +34,27 @@
   "TSLA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/rockwell-automation-ceo-moret-bought-4000-shares",
+   "title": "Rockwell Automation's CEO bought exactly 4,000 shares. The filing landed the same day.",
+   "subtitle": "Blake D. Moret paid $1,545,449.54 for 4,000 Rockwell Automation (ROK) shares on Nov. 9, 2026, at $385.59 to $387.44 a share, and the report was accepted at 5:48 p.m. that evening.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ROK"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $1,545,450",
+   "search_text": "Rockwell Automation's CEO bought exactly 4,000 shares. The filing landed the same day. ROK ROCKWELL AUTOMATION, INC Moret Blake D.",
+   "reviewed_at": "2026-11-09T22:52:14Z",
+   "published_at": "2026-11-09T23:36:00Z",
+   "published_at_et": "Nov. 9, 2026, 6:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/estee-lauder-fribourg-continental-grain-sale",
    "title": "Continental Grain sold 90,972 Estee Lauder shares. Director Paul Fribourg reported it.",
