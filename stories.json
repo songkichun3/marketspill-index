@@ -1,19 +1,41 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-09T12:01:20Z",
+ "generated_at": "2026-11-09T13:17:31Z",
  "featured": null,
  "latest_tickers": [
+  "TSM",
   "NVDA",
   "MU",
   "AMD",
   "AAPL",
   "TSLA",
   "GOOG",
-  "INTC",
-  "RCL"
+  "INTC"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/taiwan-semiconductor-director-splinter-buys-840-ads",
+   "title": "Michael Splinter bought $299,880 of Taiwan Semiconductor. Filed within two business days.",
+   "subtitle": "The director paid $357 apiece for 840 American Depositary Shares of Taiwan Semiconductor (TSM) on Nov. 5, taking his direct line to 8,405.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys",
+    "TSM"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "TSM"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $299,880",
+   "search_text": "Michael Splinter bought $299,880 of Taiwan Semiconductor. Filed within two business days. TSM TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD SPLINTER MICHAEL R",
+   "reviewed_at": "2026-11-09T12:01:20Z",
+   "published_at": "2026-11-09T12:39:00Z",
+   "published_at_et": "Nov. 9, 2026, 7:39 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/nvidia-wsb-mentions-730-from-71",
    "title": "Nvidia hit 730 mentions on WallStreetBets in a day. The day before it was 71.",
