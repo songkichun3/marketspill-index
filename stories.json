@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-09T16:06:54Z",
+ "generated_at": "2026-11-09T17:17:59Z",
  "featured": {
   "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
   "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
@@ -24,16 +24,38 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "PG",
   "TSM",
   "NVDA",
   "MU",
   "AMD",
   "AAPL",
   "TSLA",
-  "GOOG",
-  "INTC"
+  "GOOG"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/pg-cfo-schulten-option-exercise-sale",
+   "title": "P&G's CFO exercised 30,677 options and sold every share the same day.",
+   "subtitle": "Andre Schulten, Procter & Gamble's (PG) chief financial officer, exercised options at $78.52 and sold the shares at $169 on Nov. 5, a $5,184,413 sale reported Nov. 9.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "PG"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "PG"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $5,184,413",
+   "search_text": "P&G's CFO exercised 30,677 options and sold every share the same day. PG PROCTER & GAMBLE Co Schulten Andre",
+   "reviewed_at": "2026-11-09T16:06:54Z",
+   "published_at": "2026-11-09T16:37:00Z",
+   "published_at_et": "Nov. 9, 2026, 11:37 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
    "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
