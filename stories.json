@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-09T17:17:59Z",
+ "generated_at": "2026-11-09T18:57:55Z",
  "featured": {
   "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
   "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
@@ -24,16 +24,37 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "EL",
   "PG",
   "TSM",
   "NVDA",
   "MU",
   "AMD",
   "AAPL",
-  "TSLA",
-  "GOOG"
+  "TSLA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/estee-lauder-fribourg-continental-grain-sale",
+   "title": "Continental Grain sold 90,972 Estee Lauder shares. Director Paul Fribourg reported it.",
+   "subtitle": "Seven lots over Nov. 5 and 6 brought $10,063,122 at weighted averages from $109.59 to $115.02, a 21.6% trim of the 421,300 Estee Lauder (EL) shares reported before the sale.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "EL"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $10,063,122",
+   "search_text": "Continental Grain sold 90,972 Estee Lauder shares. Director Paul Fribourg reported it. EL ESTEE LAUDER COMPANIES INC FRIBOURG PAUL J",
+   "reviewed_at": "2026-11-09T17:17:59Z",
+   "published_at": "2026-11-09T17:38:00Z",
+   "published_at_et": "Nov. 9, 2026, 12:38 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/pg-cfo-schulten-option-exercise-sale",
    "title": "P&G's CFO exercised 30,677 options and sold every share the same day.",
