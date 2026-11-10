@@ -1,26 +1,27 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-10T13:08:20Z",
+ "generated_at": "2026-11-10T14:20:23Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
-  "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
-  "subtitle": "Paul W. Harvey paid $26,360 for Matador Resources (MTDR) stock on Nov. 5, one of six insider buys in a week; the filing landed Nov. 9.",
+  "url": "https://www.marketspill.com/p/crh-director-fearon-bought-6000-shares",
+  "title": "A CRH (CRH) director bought 6,000 shares at $94.95. A second insider bought within days.",
+  "subtitle": "Richard H. Fearon paid $569,700 on Nov. 6 for a 4.1% top-up on the 144,842 shares he already held, and the form reached the SEC inside the two-day deadline.",
   "tags": [
    "SEC Insiders",
-   "Insider Buys"
+   "Insider Buys",
+   "CRH"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "MTDR"
+   "CRH"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day. MTDR Matador Resources Co Harvey Paul W",
-  "reviewed_at": "2026-11-09T13:17:31Z",
-  "published_at": "2026-11-09T13:41:00Z",
-  "published_at_et": "Nov. 9, 2026, 8:41 a.m. ET",
+  "search_text": "A CRH (CRH) director bought 6,000 shares at $94.95. A second insider bought within days. CRH CRH PUBLIC LTD CO FEARON RICHARD H",
+  "reviewed_at": "2026-11-10T13:05:57Z",
+  "published_at": "2026-11-10T13:43:00Z",
+  "published_at_et": "Nov. 10, 2026, 8:43 a.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
@@ -34,6 +35,70 @@
   "AAPL"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/east-west-bancorp-ceo-sold-34977-shares-same-day-filing",
+   "title": "East West Bancorp's CEO sold 34,977 shares. The filing landed the same afternoon.",
+   "subtitle": "Dominic Ng sold about $4.6 million of East West Bancorp (EWBC) stock on Nov. 9, a 4.9% trim of the 715,804 shares he held going in, and reported it by 5:53 p.m. ET that day.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "EWBC"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $4,621,161",
+   "search_text": "East West Bancorp's CEO sold 34,977 shares. The filing landed the same afternoon. EWBC EAST WEST BANCORP INC NG DOMINIC",
+   "reviewed_at": "2026-11-10T14:20:23Z",
+   "published_at": "2026-11-10T14:21:20Z",
+   "published_at_et": "Nov. 10, 2026, 9:21 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/dupont-breen-option-exercise-sale-89845-shares",
+   "title": "DuPont's Edward Breen sold 89,845 shares the day he exercised the options behind them.",
+   "subtitle": "The director's Nov. 5 sale at DuPont (DD) brought $13,154,206 at prices from $144.04 to $149.28, matched share for share to an option exercise at $108.84.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "DD"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $13,154,206",
+   "search_text": "DuPont's Edward Breen sold 89,845 shares the day he exercised the options behind them. DD DuPont de Nemours, Inc. BREEN EDWARD D",
+   "reviewed_at": "2026-11-10T13:08:19Z",
+   "published_at": "2026-11-10T14:03:00Z",
+   "published_at_et": "Nov. 10, 2026, 9:03 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/crh-director-fearon-bought-6000-shares",
+   "title": "A CRH (CRH) director bought 6,000 shares at $94.95. A second insider bought within days.",
+   "subtitle": "Richard H. Fearon paid $569,700 on Nov. 6 for a 4.1% top-up on the 144,842 shares he already held, and the form reached the SEC inside the two-day deadline.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys",
+    "CRH"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CRH"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "A CRH (CRH) director bought 6,000 shares at $94.95. A second insider bought within days. CRH CRH PUBLIC LTD CO FEARON RICHARD H",
+   "reviewed_at": "2026-11-10T13:05:57Z",
+   "published_at": "2026-11-10T13:43:00Z",
+   "published_at_et": "Nov. 10, 2026, 8:43 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/bechtolsheim-arista-anet-260000-share-planned-sale",
    "title": "A 260,000-share Arista (ANET) sale trimmed Andreas Bechtolsheim's trust stake by 0.1%.",
