@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-09T23:43:30Z",
+ "generated_at": "2026-11-10T02:02:56Z",
  "featured": {
   "url": "https://www.marketspill.com/p/matador-director-harvey-500-share-buy-insider-cluster",
   "title": "A Matador Resources director bought 500 shares. The CEO bought 5,000 the same day.",
@@ -24,16 +24,59 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "ANET",
   "EL",
   "PG",
   "TSM",
   "NVDA",
   "MU",
   "AMD",
-  "AAPL",
-  "TSLA"
+  "AAPL"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/bechtolsheim-arista-anet-260000-share-planned-sale",
+   "title": "A 260,000-share Arista (ANET) sale trimmed Andreas Bechtolsheim's trust stake by 0.1%.",
+   "subtitle": "The 10% owner's family trust sold 260,000 shares on Nov. 5, 2026, for $43,016,606 and still holds 180,015,156.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "ANET"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ANET"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "A 260,000-share Arista (ANET) sale trimmed Andreas Bechtolsheim's trust stake by 0.1%. ANET Arista Networks, Inc. BECHTOLSHEIM ANDREAS",
+   "reviewed_at": "2026-11-10T02:02:56Z",
+   "published_at": "2026-11-10T02:03:53Z",
+   "published_at_et": "Nov. 9, 2026, 9:03 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/figs-ceo-catherine-spear-sold-4-million-shares-block-sale",
+   "title": "FIGS's CEO sold about 4 million shares in one block. The filing came the same night.",
+   "subtitle": "Catherine Spear of FIGS (FIGS) exercised 8,595,000 vested options, had 4,550,716 shares withheld for the exercise price and taxes, and sold 4,044,284 at $19.70 for $79,672,394.80.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "FIGS"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $79,672,395",
+   "search_text": "FIGS's CEO sold about 4 million shares in one block. The filing came the same night. FIGS FIGS, Inc. Spear Catherine Eva",
+   "reviewed_at": "2026-11-10T02:00:11Z",
+   "published_at": "2026-11-10T02:01:08Z",
+   "published_at_et": "Nov. 9, 2026, 9:01 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/rockwell-automation-ceo-moret-bought-4000-shares",
    "title": "Rockwell Automation's CEO bought exactly 4,000 shares. The filing landed the same day.",
