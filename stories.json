@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-11T08:58:01Z",
+ "generated_at": "2026-11-11T11:09:03Z",
  "featured": {
   "url": "https://www.marketspill.com/p/globalfoundries-gfs-director-lazar-buys-10000-shares",
   "title": "GlobalFoundries director bought 10,000 shares. A second director bought the day before.",
@@ -24,16 +24,37 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "CRWV",
   "RCL",
   "ANET",
   "EL",
   "PG",
   "TSM",
   "NVDA",
-  "MU",
-  "AMD"
+  "MU"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/coreweave-crwv-wallstreetbets-mentions-spike",
+   "title": "CoreWeave mentions on WallStreetBets went from 11 to 383 in a day.",
+   "subtitle": "CoreWeave (CRWV) climbed from 44th to 2nd on ApeWisdom's r/wallstreetbets tracker, with 1,058 upvotes behind the count.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "CRWV"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "CoreWeave mentions on WallStreetBets went from 11 to 383 in a day. CRWV CoreWeave",
+   "reviewed_at": "2026-11-11T11:09:03Z",
+   "published_at": "2026-11-11T11:10:00Z",
+   "published_at_et": "Nov. 11, 2026, 6:10 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/royal-caribbean-director-wilhelmsen-sold-476674-shares",
    "title": "A Royal Caribbean director sold 476,674 shares in 23 lots. Filed the same day.",
