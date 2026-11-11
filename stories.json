@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-11T02:00:14Z",
+ "generated_at": "2026-11-11T03:51:07Z",
  "featured": {
   "url": "https://www.marketspill.com/p/globalfoundries-gfs-director-lazar-buys-10000-shares",
   "title": "GlobalFoundries director bought 10,000 shares. A second director bought the day before.",
@@ -24,16 +24,38 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "RCL",
   "ANET",
   "EL",
   "PG",
   "TSM",
   "NVDA",
   "MU",
-  "AMD",
-  "AAPL"
+  "AMD"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/royal-caribbean-director-wilhelmsen-sold-476674-shares",
+   "title": "A Royal Caribbean director sold 476,674 shares in 23 lots. Filed the same day.",
+   "subtitle": "Director Arne Alexander Wilhelmsen sold $159,824,006 of Royal Caribbean Cruises (RCL) stock from Nov. 6 to Nov. 10, at weighted prices of $321.44 to $341.64, and the Form 4 was in by 5:25 p.m. ET on Nov. 10.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "RCL"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "RCL"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $159,824,006",
+   "search_text": "A Royal Caribbean director sold 476,674 shares in 23 lots. Filed the same day. RCL ROYAL CARIBBEAN CRUISES LTD Wilhelmsen Arne Alexander",
+   "reviewed_at": "2026-11-11T02:00:14Z",
+   "published_at": "2026-11-11T02:37:00Z",
+   "published_at_et": "Nov. 10, 2026, 9:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/east-west-bancorp-ceo-sold-34977-shares-same-day-filing",
    "title": "East West Bancorp's CEO sold 34,977 shares. The filing landed the same afternoon.",
