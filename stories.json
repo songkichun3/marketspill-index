@@ -1,11 +1,11 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-12T11:07:42Z",
+ "generated_at": "2026-11-12T18:57:31Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
-  "title": "Rep. Gilbert Cisneros reported 65 trades at once. One dated back 158 days.",
-  "subtitle": "Thirty-one stock buys and 26 stock sales, among them Cisco (CSCO), Meta (META) and Nvidia (NVDA), almost all in $1,001 to $15,000 lots; the four biggest rows were municipal bonds.",
+  "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days.",
+  "subtitle": "Thirty new stock buys and 26 stock sales, among them Cisco (CSCO), Meta (META) and Nvidia (NVDA), almost all in $1,001 to $15,000 lots; the four biggest rows were municipal bonds, and one row amends a June report.",
   "tags": [
    "Congress",
    "CMG",
@@ -66,13 +66,13 @@
    "WFC"
   ],
   "signal": "Mixed buys and sales",
-  "impact_score": 100,
-  "impact_reason": "filed 158 days after the trade",
-  "search_text": "Rep. Gilbert Cisneros reported 65 trades at once. One dated back 158 days. ARE LNT APP ARGX BNS BNPQF BBIO CF CMG CIEN CINF CSCO CMS CMCSA CTVA EIX LLY ENGQF FIS FOXA GIS HD ILMN PODD LNTH LITE MTSI META MICR MBGL MRNA MRAAF NVDA ON PTC O RVTY NOW SNEJF SARO STRC TXRH CPB COO TTD TKO TOELF UBER WBD WFC Gilbert Cisneros",
+  "impact_score": 80,
+  "impact_reason": "trade range of $250,001 or more",
+  "search_text": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days. ARE LNT APP ARGX BNS BNPQF BBIO CF CMG CIEN CINF CSCO CMS CMCSA CTVA EIX LLY ENGQF FIS FOXA GIS HD ILMN PODD LNTH LITE MTSI META MICR MBGL MRNA MRAAF NVDA ON PTC O RVTY NOW SNEJF SARO STRC TXRH CPB COO TTD TKO TOELF UBER WBD WFC Gilbert Cisneros",
   "reviewed_at": "2026-11-12T02:15:31Z",
   "published_at": "2026-11-12T02:42:00Z",
   "published_at_et": "Nov. 11, 2026, 9:42 p.m. ET",
-  "updated_at": null
+  "updated_at": "2026-11-12T15:08:36Z"
  },
  "latest_tickers": [
   "APP",
@@ -86,9 +86,30 @@
  ],
  "stories": [
   {
+   "url": "https://www.marketspill.com/p/coherent-director-digirolomo-bought-1000-shares",
+   "title": "A Coherent director bought 1,000 shares on Nov. 10, a 9.4% top-up.",
+   "subtitle": "Enrico Digirolomo paid $222,885 for Coherent (COHR) stock and now holds 11,644 shares directly, per a Form 4 filed Nov. 12.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "COHR"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $222,885",
+   "search_text": "A Coherent director bought 1,000 shares on Nov. 10, a 9.4% top-up. COHR COHERENT CORP. Digirolomo Enrico",
+   "reviewed_at": "2026-11-12T11:07:42Z",
+   "published_at": "2026-11-12T11:36:15Z",
+   "published_at_et": "Nov. 12, 2026, 6:36 a.m. ET",
+   "updated_at": null
+  },
+  {
    "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
-   "title": "Rep. Gilbert Cisneros reported 65 trades at once. One dated back 158 days.",
-   "subtitle": "Thirty-one stock buys and 26 stock sales, among them Cisco (CSCO), Meta (META) and Nvidia (NVDA), almost all in $1,001 to $15,000 lots; the four biggest rows were municipal bonds.",
+   "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days.",
+   "subtitle": "Thirty new stock buys and 26 stock sales, among them Cisco (CSCO), Meta (META) and Nvidia (NVDA), almost all in $1,001 to $15,000 lots; the four biggest rows were municipal bonds, and one row amends a June report.",
    "tags": [
     "Congress",
     "CMG",
@@ -149,13 +170,13 @@
     "WFC"
    ],
    "signal": "Mixed buys and sales",
-   "impact_score": 100,
-   "impact_reason": "filed 158 days after the trade",
-   "search_text": "Rep. Gilbert Cisneros reported 65 trades at once. One dated back 158 days. ARE LNT APP ARGX BNS BNPQF BBIO CF CMG CIEN CINF CSCO CMS CMCSA CTVA EIX LLY ENGQF FIS FOXA GIS HD ILMN PODD LNTH LITE MTSI META MICR MBGL MRNA MRAAF NVDA ON PTC O RVTY NOW SNEJF SARO STRC TXRH CPB COO TTD TKO TOELF UBER WBD WFC Gilbert Cisneros",
+   "impact_score": 80,
+   "impact_reason": "trade range of $250,001 or more",
+   "search_text": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days. ARE LNT APP ARGX BNS BNPQF BBIO CF CMG CIEN CINF CSCO CMS CMCSA CTVA EIX LLY ENGQF FIS FOXA GIS HD ILMN PODD LNTH LITE MTSI META MICR MBGL MRNA MRAAF NVDA ON PTC O RVTY NOW SNEJF SARO STRC TXRH CPB COO TTD TKO TOELF UBER WBD WFC Gilbert Cisneros",
    "reviewed_at": "2026-11-12T02:15:31Z",
    "published_at": "2026-11-12T02:42:00Z",
    "published_at_et": "Nov. 11, 2026, 9:42 p.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-12T15:08:36Z"
   },
   {
    "url": "https://www.marketspill.com/p/host-hotels-ceo-risoleo-sold-659574-shares",
