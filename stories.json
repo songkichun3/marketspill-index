@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-13T17:43:31Z",
+ "generated_at": "2026-11-13T23:31:46Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
   "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days.",
@@ -75,16 +75,37 @@
   "updated_at": "2026-11-12T15:08:36Z"
  },
  "latest_tickers": [
+  "EBAY",
   "MSFT",
   "AMD",
   "APP",
   "CMG",
   "CSCO",
   "CMCSA",
-  "LLY",
-  "FOXA"
+  "LLY"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/ebay-chief-people-officer-sells-31000-shares",
+   "title": "eBay's chief people officer exercised 31,000 options and sold all 31,000 the same day.",
+   "subtitle": "The Nov. 11, 2026 sale at $123.37 grossed $3,824,470 and left Boone Cornelius with 74,702 eBay (EBAY) shares held outright.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "EBAY"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $3,824,470",
+   "search_text": "eBay's chief people officer exercised 31,000 options and sold all 31,000 the same day. EBAY EBAY INC Boone Cornelius",
+   "reviewed_at": "2026-11-13T17:43:31Z",
+   "published_at": "2026-11-13T18:36:00Z",
+   "published_at_et": "Nov. 13, 2026, 1:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/microsoft-msft-wallstreetbets-mentions-330",
    "title": "Microsoft (MSFT) mentions on WallStreetBets jumped to 330 in a day, from 65.",
