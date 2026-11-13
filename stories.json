@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-13T00:22:24Z",
+ "generated_at": "2026-11-13T02:00:56Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
   "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days.",
@@ -85,6 +85,27 @@
   "GIS"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/roivant-cfo-pulik-sold-300000-shares",
+   "title": "Roivant's CFO sold exactly 300,000 shares in two days for about $12.5 million.",
+   "subtitle": "Richard Pulik exercised 252,365 options at $3.85 and sold 300,000 Roivant Sciences (ROIV) shares at weighted averages of $41.20 to $42.03 on Nov. 10 and 11; the Form 4 arrived Nov. 12.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ROIV"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $12,473,272",
+   "search_text": "Roivant's CFO sold exactly 300,000 shares in two days for about $12.5 million. ROIV Roivant Sciences Ltd. Pulik Richard",
+   "reviewed_at": "2026-11-13T00:17:07Z",
+   "published_at": "2026-11-13T00:36:00Z",
+   "published_at_et": "Nov. 12, 2026, 7:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/amd-reddit-mentions-625-wallstreetbets",
    "title": "625 AMD mentions in 24 hours on WallStreetBets, up from 147 a day earlier.",
