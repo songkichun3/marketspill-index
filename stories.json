@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-13T16:20:26Z",
+ "generated_at": "2026-11-13T17:43:31Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
   "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days.",
@@ -105,6 +105,48 @@
    "reviewed_at": "2026-11-13T16:20:26Z",
    "published_at": "2026-11-13T16:21:23Z",
    "published_at_et": "Nov. 13, 2026, 11:21 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/iqvia-eric-sherbet-sold-4446-shares-form-4-late",
+   "title": "Eric Sherbet sold 17.5% of his IQVIA stake. The filing missed the two-day deadline.",
+   "subtitle": "The IQVIA (IQV) insider exercised 8,436 stock appreciation rights, sold 4,446 shares for $1,239,678.18 at $278.83 and sent 3,990 shares back to the company, all on Nov. 9, 2026.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "IQV"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $1,239,678",
+   "search_text": "Eric Sherbet sold 17.5% of his IQVIA stake. The filing missed the two-day deadline. IQV IQVIA HOLDINGS INC. Sherbet Eric",
+   "reviewed_at": "2026-11-13T16:17:54Z",
+   "published_at": "2026-11-13T17:12:00Z",
+   "published_at_et": "Nov. 13, 2026, 12:12 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/procore-pcor-controller-fleming-sold-16852-shares",
+   "title": "Procore's controller sold 16,852 shares at $76.57. The Form 4 came a day late.",
+   "subtitle": "Procore Technologies (PCOR) SVP and Corporate Controller William Fred Fleming Jr. exercised 5,228 options at $12.22 and sold 16,852 shares for $1,290,357.64 on Nov. 9, 2026, a 15.6% trim of his stake.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "PCOR"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $1,290,358",
+   "search_text": "Procore's controller sold 16,852 shares at $76.57. The Form 4 came a day late. PCOR PROCORE TECHNOLOGIES, INC. Fleming William Fred Jr",
+   "reviewed_at": "2026-11-13T16:15:37Z",
+   "published_at": "2026-11-13T16:52:00Z",
+   "published_at_et": "Nov. 13, 2026, 11:52 a.m. ET",
    "updated_at": null
   },
   {
