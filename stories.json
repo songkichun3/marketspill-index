@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-12T18:57:31Z",
+ "generated_at": "2026-11-13T00:22:24Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
   "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days.",
@@ -75,16 +75,59 @@
   "updated_at": "2026-11-12T15:08:36Z"
  },
  "latest_tickers": [
+  "AMD",
   "APP",
   "CMG",
   "CSCO",
   "CMCSA",
   "LLY",
   "FOXA",
-  "GIS",
-  "HD"
+  "GIS"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/amd-reddit-mentions-625-wallstreetbets",
+   "title": "625 AMD mentions in 24 hours on WallStreetBets, up from 147 a day earlier.",
+   "subtitle": "AMD (AMD) moved from fourth to second on ApeWisdom's r/wallstreetbets tracker, with 2,570 upvotes attached, as of 1:54 p.m. ET on Nov. 12.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "AMD"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "AMD"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "625 AMD mentions in 24 hours on WallStreetBets, up from 147 a day earlier. AMD AMD",
+   "reviewed_at": "2026-11-12T18:57:31Z",
+   "published_at": "2026-11-12T19:57:00Z",
+   "published_at_et": "Nov. 12, 2026, 2:57 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/franklin-templeton-cfo-nicholls-sold-160000-shares",
+   "title": "Franklin Templeton's CFO sold 160,000 shares, a 17% trim. The form arrived a day later.",
+   "subtitle": "Matthew Nicholls, co-president, CFO and COO of Franklin Templeton (BEN), sold 160,000 shares at $36.20 on Nov. 11 for $5,792,000.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BEN"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $5,792,000",
+   "search_text": "Franklin Templeton's CFO sold 160,000 shares, a 17% trim. The form arrived a day later. BEN FRANKLIN TEMPLETON INC Nicholls Matthew",
+   "reviewed_at": "2026-11-12T18:55:48Z",
+   "published_at": "2026-11-12T19:37:00Z",
+   "published_at_et": "Nov. 12, 2026, 2:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/coherent-director-digirolomo-bought-1000-shares",
    "title": "A Coherent director bought 1,000 shares on Nov. 10, a 9.4% top-up.",
