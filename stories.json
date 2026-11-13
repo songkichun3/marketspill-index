@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-13T10:45:24Z",
+ "generated_at": "2026-11-13T16:20:26Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-gilbert-cisneros-65-trades-one-filing-158-days",
   "title": "Rep. Gilbert Cisneros reported 65 trades at once. All 64 new ones came within 35 days.",
@@ -75,16 +75,38 @@
   "updated_at": "2026-11-12T15:08:36Z"
  },
  "latest_tickers": [
+  "MSFT",
   "AMD",
   "APP",
   "CMG",
   "CSCO",
   "CMCSA",
   "LLY",
-  "FOXA",
-  "GIS"
+  "FOXA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/microsoft-msft-wallstreetbets-mentions-330",
+   "title": "Microsoft (MSFT) mentions on WallStreetBets jumped to 330 in a day, from 65.",
+   "subtitle": "ApeWisdom counted 330 mentions of the stock over 24 hours, 5.1 times the 65 it logged a day earlier.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "MSFT"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "MSFT"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Microsoft (MSFT) mentions on WallStreetBets jumped to 330 in a day, from 65. MSFT Microsoft",
+   "reviewed_at": "2026-11-13T16:20:26Z",
+   "published_at": "2026-11-13T16:21:23Z",
+   "published_at_et": "Nov. 13, 2026, 11:21 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/roivant-cfo-pulik-sold-300000-shares",
    "title": "Roivant's CFO sold exactly 300,000 shares in two days for about $12.5 million.",
