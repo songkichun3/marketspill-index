@@ -1,19 +1,74 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-14T04:58:06Z",
+ "generated_at": "2026-11-14T07:29:37Z",
  "featured": null,
  "latest_tickers": [
-  "EBAY",
-  "MSFT",
-  "AMD",
-  "APP",
-  "CMG",
-  "CSCO",
-  "CMCSA",
-  "LLY"
+  "LYV",
+  "GOOGL",
+  "AMGN",
+  "T",
+  "AVGO",
+  "LLY",
+  "HD",
+  "KR"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/live-nation-lyv-hopmans-sold-11133-shares-same-day-filing",
+   "title": "John Hopmans sold 11,133 Live Nation shares and filed the same day.",
+   "subtitle": "The Live Nation Entertainment (LYV) executive's open-market sale came to $2,009,506.50 and left 163,299 shares in the stake.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "LYV"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $2,009,506",
+   "search_text": "John Hopmans sold 11,133 Live Nation shares and filed the same day. LYV Live Nation Entertainment, Inc. Hopmans John",
+   "reviewed_at": "2026-11-14T04:58:06Z",
+   "published_at": "2026-11-14T05:57:00Z",
+   "published_at_et": "Nov. 14, 2026, 12:57 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/rep-david-j-taylor-19-trades-two-accounts",
+   "title": "19 trades in 12 stocks over two days. Rep. David J. Taylor filed nine days later.",
+   "subtitle": "Nine buys and 10 sales, each reported at $1,001 to $15,000, with Alphabet (GOOGL) and AT&T (T) on the buy side and Visa (V) and Eli Lilly (LLY) among the sales.",
+   "tags": [
+    "Congress",
+    "T",
+    "AVGO",
+    "LLY"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "GOOGL",
+    "AMGN",
+    "T",
+    "AVGO",
+    "ETN",
+    "LLY",
+    "HD",
+    "IBP",
+    "KR",
+    "LRCX",
+    "PG",
+    "V"
+   ],
+   "signal": "Mixed buys and sales",
+   "impact_score": 75,
+   "impact_reason": "19 stock transactions in one report",
+   "search_text": "19 trades in 12 stocks over two days. Rep. David J. Taylor filed nine days later. GOOGL AMGN T AVGO ETN LLY HD IBP KR LRCX PG V David J. Taylor",
+   "reviewed_at": "2026-11-14T04:56:54Z",
+   "published_at": "2026-11-14T05:37:00Z",
+   "published_at_et": "Nov. 14, 2026, 12:37 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/east-west-bancorp-ceo-ng-sold-35023-shares",
    "title": "East West Bancorp's CEO sold 35,023 shares. The filing landed the same day.",
