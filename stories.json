@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-16T05:34:08Z",
+ "generated_at": "2026-11-16T20:26:48Z",
  "featured": {
   "url": "https://www.marketspill.com/p/starwood-stwd-director-pollack-buys-169800-shares",
   "title": "A Starwood director more than doubled his stake. The CEO bought the same week.",
@@ -24,16 +24,47 @@
   "updated_at": null
  },
  "latest_tickers": [
-  "LYV",
-  "GOOGL",
-  "AMGN",
-  "T",
-  "AVGO",
-  "LLY",
-  "HD",
-  "KR"
+  "NVDA",
+  "AMD",
+  "CRWV",
+  "MU",
+  "MSFT",
+  "GOOG",
+  "SPCX",
+  "LYV"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/wsb-vs-insiders-2026-11-15",
+   "title": "NVIDIA led r/wallstreetbets with 5,083 mentions over 5 daily readings, Nov. 9 to 15. Its insiders sold $967.6 million in 90 days and bought nothing.",
+   "subtitle": "WSB vs. Insiders: the 8 most-mentioned tickers on r/wallstreetbets, over 5 daily readings, Nov. 9 to 15, each against 90 days of insider filings (Form 4).",
+   "tags": [
+    "Reddit WSB",
+    "WSB vs. Insiders",
+    "NVDA",
+    "AMD",
+    "CRWV"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "CRWV",
+    "MU",
+    "MSFT",
+    "NBIS",
+    "GOOG",
+    "SPCX"
+   ],
+   "signal": "Weekly ledger",
+   "impact_score": 68,
+   "impact_reason": "weekly WSB vs. Insiders table",
+   "search_text": "NVIDIA led r/wallstreetbets with 5,083 mentions over 5 daily readings, Nov. 9 to 15. Its insiders sold $967.6 million in 90 days and bought nothing. NVDA AMD CRWV MU MSFT NBIS GOOG SPCX",
+   "reviewed_at": "2026-11-16T05:34:08Z",
+   "published_at": "2026-11-16T06:37:00Z",
+   "published_at_et": "Nov. 16, 2026, 1:37 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/starwood-stwd-director-pollack-buys-169800-shares",
    "title": "A Starwood director more than doubled his stake. The CEO bought the same week.",
