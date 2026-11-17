@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-17T03:49:31Z",
+ "generated_at": "2026-11-17T08:56:49Z",
  "featured": null,
  "latest_tickers": [
   "QQQ",
@@ -14,6 +14,28 @@
   "MU"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/glaukos-gkos-president-gilliam-planned-sale",
+   "title": "Glaukos's president exercised and sold 44,917 shares. The plan dates to August.",
+   "subtitle": "Joseph E. Gilliam, president and COO of Glaukos (GKOS), sold 44,917 shares in six lots on Nov. 12 for $11,063,781.97 under a pre-set trading plan adopted Aug. 13, and filed two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "GKOS"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "GKOS"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Glaukos's president exercised and sold 44,917 shares. The plan dates to August. GKOS GLAUKOS Corp Gilliam Joseph E",
+   "reviewed_at": "2026-11-17T03:49:31Z",
+   "published_at": "2026-11-17T04:36:00Z",
+   "published_at_et": "Nov. 16, 2026, 11:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/qqq-wallstreetbets-mentions-158-from-24",
    "title": "Invesco QQQ ETF (QQQ) mentions on WallStreetBets hit 158 in 24 hours, up from 24.",
