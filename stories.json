@@ -1,8 +1,28 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-17T15:59:25Z",
- "featured": null,
+ "generated_at": "2026-11-17T19:15:10Z",
+ "featured": {
+  "url": "https://www.marketspill.com/p/magnachip-ceo-buys-90000-shares-director-cluster",
+  "title": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before.",
+  "subtitle": "Chae Lee paid $218,483 across six lots on Nov. 13 and 16, a 19.6% top-up on the 458,750 Magnachip Semiconductor (MX) shares held before the buy, and the Form 4 landed the same night.",
+  "tags": [
+   "SEC Insiders",
+   "Insider Buys"
+  ],
+  "category": "SEC Insiders",
+  "tickers": [
+   "MX"
+  ],
+  "signal": "Discretionary buy",
+  "impact_score": 85,
+  "impact_reason": "cluster buying",
+  "search_text": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before. MX MAGNACHIP SEMICONDUCTOR Corp LEE CHAE",
+  "reviewed_at": "2026-11-17T15:59:25Z",
+  "published_at": "2026-11-17T16:57:00Z",
+  "published_at_et": "Nov. 17, 2026, 11:57 a.m. ET",
+  "updated_at": null
+ },
  "latest_tickers": [
   "QQQ",
   "BP",
@@ -14,6 +34,69 @@
   "MU"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/sellas-sls-wallstreetbets-mentions-jump",
+   "title": "Sellas Life Sciences mentions on WallStreetBets went from 10 to 358 in a day.",
+   "subtitle": "Sellas Life Sciences (SLS) moved from No. 44 to No. 3 on ApeWisdom's r/wallstreetbets tracker, a 35.8x jump in mentions.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "SLS"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Sellas Life Sciences mentions on WallStreetBets went from 10 to 358 in a day. SLS Sellas Life Sciences",
+   "reviewed_at": "2026-11-17T19:15:10Z",
+   "published_at": "2026-11-17T19:16:07Z",
+   "published_at_et": "Nov. 17, 2026, 2:16 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/magnachip-ceo-buys-90000-shares-director-cluster",
+   "title": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before.",
+   "subtitle": "Chae Lee paid $218,483 across six lots on Nov. 13 and 16, a 19.6% top-up on the 458,750 Magnachip Semiconductor (MX) shares held before the buy, and the Form 4 landed the same night.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "MX"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before. MX MAGNACHIP SEMICONDUCTOR Corp LEE CHAE",
+   "reviewed_at": "2026-11-17T15:59:25Z",
+   "published_at": "2026-11-17T16:57:00Z",
+   "published_at_et": "Nov. 17, 2026, 11:57 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/skydance-director-cardinale-1-million-buy",
+   "title": "Skydance director bought $1 million of stock. The filing landed one business day later.",
+   "subtitle": "Gerald J. Cardinale bought 129,650 Class B shares of Skydance (SKYD) on Nov. 11 and Nov. 13 at $7.5388 to $7.9061, $1,000,637.15 in all.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SKYD"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $1,000,637",
+   "search_text": "Skydance director bought $1 million of stock. The filing landed one business day later. SKYD Skydance Corp Cardinale Gerald J.",
+   "reviewed_at": "2026-11-17T15:57:05Z",
+   "published_at": "2026-11-17T16:37:00Z",
+   "published_at_et": "Nov. 17, 2026, 11:37 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/glaukos-gkos-president-gilliam-planned-sale",
    "title": "Glaukos's president exercised and sold 44,917 shares. The plan dates to August.",
@@ -153,7 +236,7 @@
    "reviewed_at": "2026-11-14T16:38:40Z",
    "published_at": "2026-11-14T17:56:00Z",
    "published_at_et": "Nov. 14, 2026, 12:56 p.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-17T16:05:15Z"
   },
   {
    "url": "https://www.marketspill.com/p/fair-isaac-fico-ceo-lansing-planned-sale-20465-shares",
