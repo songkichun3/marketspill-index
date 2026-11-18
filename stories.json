@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-17T19:15:10Z",
+ "generated_at": "2026-11-18T02:27:46Z",
  "featured": {
   "url": "https://www.marketspill.com/p/magnachip-ceo-buys-90000-shares-director-cluster",
   "title": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before.",
@@ -35,6 +35,27 @@
  ],
  "stories": [
   {
+   "url": "https://www.marketspill.com/p/donnelley-financial-dfin-ceo-leib-sold-50000-shares",
+   "title": "Donnelley Financial's CEO sold 50,000 shares for $3.4 million, 8.2% of his stake.",
+   "subtitle": "Daniel Leib exercised 25,000 options at $22.35, gave 10,000 shares to a donor-advised fund and sold 50,000 at a weighted average of $67.88 on Nov. 13; Donnelley Financial Solutions (DFIN) filed the Form 4 on Nov. 17.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "DFIN"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $3,394,135",
+   "search_text": "Donnelley Financial's CEO sold 50,000 shares for $3.4 million, 8.2% of his stake. DFIN Donnelley Financial Solutions, Inc. Leib Daniel",
+   "reviewed_at": "2026-11-18T02:27:46Z",
+   "published_at": "2026-11-18T02:28:43Z",
+   "published_at_et": "Nov. 17, 2026, 9:28 p.m. ET",
+   "updated_at": null
+  },
+  {
    "url": "https://www.marketspill.com/p/sellas-sls-wallstreetbets-mentions-jump",
    "title": "Sellas Life Sciences mentions on WallStreetBets went from 10 to 358 in a day.",
    "subtitle": "Sellas Life Sciences (SLS) moved from No. 44 to No. 3 on ApeWisdom's r/wallstreetbets tracker, a 35.8x jump in mentions.",
@@ -53,6 +74,48 @@
    "reviewed_at": "2026-11-17T19:15:10Z",
    "published_at": "2026-11-17T19:16:07Z",
    "published_at_et": "Nov. 17, 2026, 2:16 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/brightspire-ceo-mazzei-1-million-open-market-buy",
+   "title": "BrightSpire's CEO bought about $1 million of stock. The filing landed the same day.",
+   "subtitle": "Michael Mazzei, CEO and a director of BrightSpire Capital (BRSP), bought 309,113 shares on Nov. 13 and Nov. 16, 2026, at weighted average prices of $3.11 and $3.28, a 20.5% top-up on the 1,510,764 shares he held before.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BRSP"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $1,000,180",
+   "search_text": "BrightSpire's CEO bought about $1 million of stock. The filing landed the same day. BRSP BrightSpire Capital, Inc. Mazzei Michael",
+   "reviewed_at": "2026-11-17T19:13:22Z",
+   "published_at": "2026-11-17T19:56:17Z",
+   "published_at_et": "Nov. 17, 2026, 2:56 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/hallador-hrng-director-bought-100000-shares",
+   "title": "Hallador Energy (HRNG) director bought 100,000 shares, a 23% top-up on his stake.",
+   "subtitle": "Wesley Charles Ray IV paid $1,069,710, or $10.6971 a share, on Nov. 13; the Form 4 arrived Nov. 17, inside the two-business-day deadline.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "HRNG"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $1,069,710",
+   "search_text": "Hallador Energy (HRNG) director bought 100,000 shares, a 23% top-up on his stake. HRNG HALLADOR ENERGY CO Wesley Charles Ray IV",
+   "reviewed_at": "2026-11-17T19:11:20Z",
+   "published_at": "2026-11-18T02:28:48Z",
+   "published_at_et": "Nov. 17, 2026, 9:28 p.m. ET",
    "updated_at": null
   },
   {
