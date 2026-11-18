@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-18T02:27:46Z",
+ "generated_at": "2026-11-18T08:22:49Z",
  "featured": {
   "url": "https://www.marketspill.com/p/magnachip-ceo-buys-90000-shares-director-cluster",
   "title": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before.",
@@ -24,14 +24,14 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "ADSK",
+  "NFLX",
   "QQQ",
   "BP",
   "DDOG",
   "EL",
   "NVDA",
-  "AMD",
-  "CRWV",
-  "MU"
+  "AMD"
  ],
  "stories": [
   {
@@ -53,6 +53,30 @@
    "reviewed_at": "2026-11-18T02:27:46Z",
    "published_at": "2026-11-18T02:28:43Z",
    "published_at_et": "Nov. 17, 2026, 9:28 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/byron-donalds-netflix-autodesk-zoetis-ibkr-trades",
+   "title": "Rep. Byron Donalds traded four stocks on Oct. 2. The report took the full 45 days.",
+   "subtitle": "Three sales, Netflix (NFLX), Autodesk (ADSK) and Zoetis (ZTS), and one buy, Interactive Brokers (IBKR), each listed twice inside a Moran Wealth IRA at $1,001 to $15,000 a row.",
+   "tags": [
+    "Congress",
+    "NFLX"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "ADSK",
+    "IBKR",
+    "NFLX",
+    "ZTS"
+   ],
+   "signal": "Mixed buys and sales",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. Byron Donalds traded four stocks on Oct. 2. The report took the full 45 days. ADSK IBKR NFLX ZTS Byron Donalds",
+   "reviewed_at": "2026-11-18T02:25:34Z",
+   "published_at": "2026-11-18T03:36:00Z",
+   "published_at_et": "Nov. 17, 2026, 10:36 p.m. ET",
    "updated_at": null
   },
   {
