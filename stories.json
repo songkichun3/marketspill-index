@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-19T22:25:50Z",
+ "generated_at": "2026-11-19T23:25:12Z",
  "featured": {
   "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
   "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
@@ -24,16 +24,38 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "CME",
   "GOOGL",
   "COST",
   "LLY",
   "MSFT",
   "NVDA",
   "JNJ",
-  "WBD",
-  "STZ"
+  "WBD"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/cme-ceo-duffy-sold-27000-shares-43-pct-stake",
+   "title": "CME's CEO sold 27,000 shares, 43% of his stake, in one day.",
+   "subtitle": "Terrence Duffy's two Nov. 18 sales of CME Group (CME) stock brought in $8,358,460 and left him with 35,442 shares, a Form 4 filed one business day later shows.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "CME"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CME"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $8,358,460",
+   "search_text": "CME's CEO sold 27,000 shares, 43% of his stake, in one day. CME CME GROUP INC. DUFFY TERRENCE A",
+   "reviewed_at": "2026-11-19T22:25:50Z",
+   "published_at": "2026-11-19T23:36:00Z",
+   "published_at_et": "Nov. 19, 2026, 6:36 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
    "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
