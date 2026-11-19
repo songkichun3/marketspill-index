@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-19T01:11:52Z",
+ "generated_at": "2026-11-19T08:34:43Z",
  "featured": {
   "url": "https://www.marketspill.com/p/magnachip-ceo-buys-90000-shares-director-cluster",
   "title": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before.",
@@ -24,16 +24,57 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "STZ",
   "ADSK",
   "NFLX",
   "QQQ",
   "BP",
   "DDOG",
   "EL",
-  "NVDA",
-  "AMD"
+  "NVDA"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/antero-resources-schultz-30000-share-sale",
+   "title": "An Antero Resources insider sold 30,000 shares, a 10.8% trim, and filed the same day.",
+   "subtitle": "Yvette K. Schultz sold the Antero Resources (AR) stock for $1,110,900 on Nov. 18 at prices from $36.68 to $37.28, and a footnote calls the sale tax planning.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "AR"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $1,110,900",
+   "search_text": "An Antero Resources insider sold 30,000 shares, a 10.8% trim, and filed the same day. AR ANTERO RESOURCES Corp Schultz Yvette K",
+   "reviewed_at": "2026-11-19T01:11:52Z",
+   "published_at": "2026-11-19T01:57:00Z",
+   "published_at_et": "Nov. 18, 2026, 8:57 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/wildstar-constellation-brands-stz-450000-share-sale",
+   "title": "WildStar Partners sold 450,000 Constellation Brands shares at $145 on one November day.",
+   "subtitle": "Four limited partnerships sold $65.25 million of Constellation Brands (STZ) Class A stock on Nov. 16; the group still reports 19,978,521 shares across seven partnerships.",
+   "tags": [
+    "SEC Insiders"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "STZ"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $65,250,000",
+   "search_text": "WildStar Partners sold 450,000 Constellation Brands shares at $145 on one November day. STZ CONSTELLATION BRANDS, INC. WildStar Partners LLC",
+   "reviewed_at": "2026-11-19T01:10:09Z",
+   "published_at": "2026-11-19T01:37:00Z",
+   "published_at_et": "Nov. 18, 2026, 8:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/icahn-partners-sold-163261-centuri-shares",
    "title": "Icahn Partners sold 163,261 Centuri shares. That is 1.3% of a 12.8 million-share stake.",
