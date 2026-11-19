@@ -1,39 +1,131 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-19T15:30:38Z",
+ "generated_at": "2026-11-19T16:32:15Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/magnachip-ceo-buys-90000-shares-director-cluster",
-  "title": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before.",
-  "subtitle": "Chae Lee paid $218,483 across six lots on Nov. 13 and 16, a 19.6% top-up on the 458,750 Magnachip Semiconductor (MX) shares held before the buy, and the Form 4 landed the same night.",
+  "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
+  "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
+  "subtitle": "David Benfer's family trust bought 30,000 Stereotaxis (STXS) shares at $0.829 on Nov. 17, a $24,870 purchase, the same day director Arun Swarup Menawat bought 121,561 shares for $99,983.92.",
   "tags": [
    "SEC Insiders",
    "Insider Buys"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "MX"
+   "STXS"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Magnachip's CEO bought 90,000 shares. A director bought 568,009 the week before. MX MAGNACHIP SEMICONDUCTOR Corp LEE CHAE",
-  "reviewed_at": "2026-11-17T15:59:25Z",
-  "published_at": "2026-11-17T16:57:00Z",
-  "published_at_et": "Nov. 17, 2026, 11:57 a.m. ET",
+  "search_text": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening. STXS Stereotaxis, Inc. Benfer David",
+  "reviewed_at": "2026-11-19T16:32:15Z",
+  "published_at": "2026-11-19T16:33:12Z",
+  "published_at_et": "Nov. 19, 2026, 11:33 a.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
+  "GOOGL",
+  "COST",
+  "LLY",
+  "MSFT",
+  "NVDA",
   "STZ",
   "ADSK",
-  "NFLX",
-  "QQQ",
-  "BP",
-  "DDOG",
-  "EL",
-  "NVDA"
+  "NFLX"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
+   "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
+   "subtitle": "David Benfer's family trust bought 30,000 Stereotaxis (STXS) shares at $0.829 on Nov. 17, a $24,870 purchase, the same day director Arun Swarup Menawat bought 121,561 shares for $99,983.92.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "STXS"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening. STXS Stereotaxis, Inc. Benfer David",
+   "reviewed_at": "2026-11-19T16:32:15Z",
+   "published_at": "2026-11-19T16:33:12Z",
+   "published_at_et": "Nov. 19, 2026, 11:33 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/rep-michael-rulli-sold-five-stocks-bought-microsoft",
+   "title": "Rep. Michael Rulli sold five stocks and bought one. Filed 21 days after the first trade.",
+   "subtitle": "Six trades of $1,001 to $15,000 each, a Microsoft (MSFT) buy plus partial sales of Nvidia (NVDA), Alphabet (GOOGL), Eli Lilly (LLY), Lumentum (LITE) and Costco (COST), reached the House Clerk on Nov. 18, 2026.",
+   "tags": [
+    "Congress",
+    "Policy Watch",
+    "GOOGL",
+    "LLY",
+    "LITE"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "GOOGL",
+    "COST",
+    "LLY",
+    "LITE",
+    "MSFT",
+    "NVDA"
+   ],
+   "signal": "Mixed buys and sales",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. Michael Rulli sold five stocks and bought one. Filed 21 days after the first trade. GOOGL COST LLY LITE MSFT NVDA Michael Rulli",
+   "reviewed_at": "2026-11-19T16:30:15Z",
+   "published_at": "2026-11-19T16:31:13Z",
+   "published_at_et": "Nov. 19, 2026, 11:31 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/ellington-financial-vranos-bought-192000-shares",
+   "title": "Ellington Financial's Vranos bought 192,000 shares. Its CEO bought 10,000 the day before.",
+   "subtitle": "Two Nov. 18 buys of Ellington Financial (EFC) stock totaled $2,075,344 at $10.807 to $10.811 a share, and the insider filing landed the next morning.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "EFC"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Ellington Financial's Vranos bought 192,000 shares. Its CEO bought 10,000 the day before. EFC Ellington Financial Inc. Vranos Michael W",
+   "reviewed_at": "2026-11-19T15:30:38Z",
+   "published_at": "2026-11-19T16:56:00Z",
+   "published_at_et": "Nov. 19, 2026, 11:56 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/sensus-healthcare-director-sachetta-buys-81575-shares",
+   "title": "A Sensus Healthcare director bought 81,575 shares, a 27.5% top-up on his stake.",
+   "subtitle": "Eric Sachetta paid $2.243 a share, $182,972.72 in all, for Sensus Healthcare (SRTS) stock on Nov. 17 and reported it two days later.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SRTS"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $182,973",
+   "search_text": "A Sensus Healthcare director bought 81,575 shares, a 27.5% top-up on his stake. SRTS Sensus Healthcare, Inc. Sachetta Eric",
+   "reviewed_at": "2026-11-19T15:28:15Z",
+   "published_at": "2026-11-19T16:36:00Z",
+   "published_at_et": "Nov. 19, 2026, 11:36 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/antero-resources-schultz-30000-share-sale",
    "title": "An Antero Resources insider sold 30,000 shares, a 10.8% trim, and filed the same day.",
