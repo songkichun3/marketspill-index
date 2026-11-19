@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-19T17:24:12Z",
+ "generated_at": "2026-11-19T18:25:12Z",
  "featured": {
   "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
   "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
@@ -29,9 +29,9 @@
   "LLY",
   "MSFT",
   "NVDA",
-  "STZ",
-  "ADSK",
-  "NFLX"
+  "JNJ",
+  "WBD",
+  "STZ"
  ],
  "stories": [
   {
@@ -82,6 +82,32 @@
    "reviewed_at": "2026-11-19T16:30:15Z",
    "published_at": "2026-11-19T16:31:13Z",
    "published_at_et": "Nov. 19, 2026, 11:31 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/rep-thomas-kean-october-stock-sales-43-days",
+   "title": "Rep. Thomas H. Kean reported five stock sales in October. The filing came 43 days later.",
+   "subtitle": "Microsoft (MSFT) was the largest stock sale at $15,001 to $50,000, with Johnson & Johnson (JNJ), Stryker (SYK) and two Warner Bros. Discovery (WBD) rows at $1,001 to $15,000 each, plus a $50,001 to $100,000 Treasury note purchase.",
+   "tags": [
+    "Congress",
+    "JNJ",
+    "MSFT",
+    "SYK"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "JNJ",
+    "MSFT",
+    "SYK",
+    "WBD"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 50,
+   "impact_reason": "congressional filing",
+   "search_text": "Rep. Thomas H. Kean reported five stock sales in October. The filing came 43 days later. JNJ MSFT SYK WBD Thomas H. Kean",
+   "reviewed_at": "2026-11-19T16:27:30Z",
+   "published_at": "2026-11-19T17:37:00Z",
+   "published_at_et": "Nov. 19, 2026, 12:37 p.m. ET",
    "updated_at": null
   },
   {
