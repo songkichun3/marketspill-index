@@ -1,26 +1,26 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-20T12:31:01Z",
+ "generated_at": "2026-11-20T13:28:14Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
-  "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
-  "subtitle": "David Benfer's family trust bought 30,000 Stereotaxis (STXS) shares at $0.829 on Nov. 17, a $24,870 purchase, the same day director Arun Swarup Menawat bought 121,561 shares for $99,983.92.",
+  "url": "https://www.marketspill.com/p/fortress-biotech-ceo-rosenwald-open-market-buy-cfo-cluster",
+  "title": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too.",
+  "subtitle": "Lindsay A. Rosenwald, M.D., paid $252,583 for Fortress Biotech (FBIO) stock over Nov. 17 to 19, a 3% top-up on the 4,586,841 shares he already held, while CFO David Jin spent $87,813.59 the same week.",
   "tags": [
    "SEC Insiders",
    "Insider Buys"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "STXS"
+   "FBIO"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening. STXS Stereotaxis, Inc. Benfer David",
-  "reviewed_at": "2026-11-19T16:32:15Z",
-  "published_at": "2026-11-19T16:33:12Z",
-  "published_at_et": "Nov. 19, 2026, 11:33 a.m. ET",
+  "search_text": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too. FBIO Fortress Biotech, Inc. ROSENWALD LINDSAY A MD",
+  "reviewed_at": "2026-11-20T13:28:14Z",
+  "published_at": "2026-11-20T13:29:11Z",
+  "published_at_et": "Nov. 20, 2026, 8:29 a.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
@@ -34,6 +34,27 @@
   "MSFT"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/fortress-biotech-ceo-rosenwald-open-market-buy-cfo-cluster",
+   "title": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too.",
+   "subtitle": "Lindsay A. Rosenwald, M.D., paid $252,583 for Fortress Biotech (FBIO) stock over Nov. 17 to 19, a 3% top-up on the 4,586,841 shares he already held, while CFO David Jin spent $87,813.59 the same week.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "FBIO"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too. FBIO Fortress Biotech, Inc. ROSENWALD LINDSAY A MD",
+   "reviewed_at": "2026-11-20T13:28:14Z",
+   "published_at": "2026-11-20T13:29:11Z",
+   "published_at_et": "Nov. 20, 2026, 8:29 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/advent-avk-ceo-maitland-buys-20000-shares",
    "title": "Advent Convertible & Income Fund's CEO bought 20,000 shares and filed the same afternoon.",
