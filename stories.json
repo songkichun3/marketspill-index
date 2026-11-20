@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-20T11:30:54Z",
+ "generated_at": "2026-11-20T12:31:01Z",
  "featured": {
   "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
   "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
@@ -34,6 +34,48 @@
   "MSFT"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/advent-avk-ceo-maitland-buys-20000-shares",
+   "title": "Advent Convertible & Income Fund's CEO bought 20,000 shares and filed the same afternoon.",
+   "subtitle": "Tracy V. Maitland paid $202,980, or $10.149 a share, for Advent Convertible & Income Fund (AVK) stock on Nov. 19, a 37.9% top-up on the 52,717 shares held before the buy.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "AVK"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $202,980",
+   "search_text": "Advent Convertible & Income Fund's CEO bought 20,000 shares and filed the same afternoon. AVK ADVENT CONVERTIBLE & INCOME FUND MAITLAND TRACY V",
+   "reviewed_at": "2026-11-20T12:31:01Z",
+   "published_at": "2026-11-20T12:31:59Z",
+   "published_at_et": "Nov. 20, 2026, 7:31 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/ke-holdings-beke-xu-wangang-750000-share-sale",
+   "title": "KE Holdings director Xu Wangang sold 750,000 shares. A 6.7% trim, filed on time.",
+   "subtitle": "The Nov. 18 sale, held through Myriad Talent Investment Limited, brought about $4.6 million at $6.1289 a share and left 10,502,307 shares in KE Holdings (BEKE).",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BEKE"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $4,596,675",
+   "search_text": "KE Holdings director Xu Wangang sold 750,000 shares. A 6.7% trim, filed on time. BEKE KE Holdings Inc. Xu Wangang",
+   "reviewed_at": "2026-11-20T12:29:26Z",
+   "published_at": "2026-11-20T12:30:23Z",
+   "published_at_et": "Nov. 20, 2026, 7:30 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/amd-wallstreetbets-mentions-529",
    "title": "WallStreetBets mentions of AMD hit 529 in 24 hours, up from 167.",
