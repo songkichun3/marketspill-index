@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-20T01:18:55Z",
+ "generated_at": "2026-11-20T03:24:42Z",
  "featured": {
   "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
   "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
@@ -24,16 +24,59 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "SCHW",
   "CME",
   "GOOGL",
   "COST",
   "LLY",
   "MSFT",
   "NVDA",
-  "JNJ",
-  "WBD"
+  "JNJ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/black-stone-minerals-bsm-chairman-bought-25000-units",
+   "title": "Black Stone Minerals' chairman bought exactly 25,000 units and filed the same day.",
+   "subtitle": "Thomas L. Carter Jr., executive chairman of Black Stone Minerals (BSM), paid $337,587.63 for the units on Nov. 18 and 19 at weighted average prices between $13.44 and $13.51.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BSM"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $337,588",
+   "search_text": "Black Stone Minerals' chairman bought exactly 25,000 units and filed the same day. BSM Black Stone Minerals, L.P. Carter Thomas L Jr",
+   "reviewed_at": "2026-11-20T01:18:55Z",
+   "published_at": "2026-11-20T02:01:44Z",
+   "published_at_et": "Nov. 19, 2026, 9:01 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/charles-schwab-schw-sold-71400-shares-gifted-91800",
+   "title": "Charles Schwab sold 71,400 shares of Schwab (SCHW), then gifted 91,800 the next day.",
+   "subtitle": "The sale came to about $6.6 million at a weighted average of $92.2554; the trust behind both rows still holds 53,068,816 shares.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "SCHW"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SCHW"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $6,587,036",
+   "search_text": "Charles Schwab sold 71,400 shares of Schwab (SCHW), then gifted 91,800 the next day. SCHW SCHWAB CHARLES CORP Schwab Charles R.",
+   "reviewed_at": "2026-11-20T01:16:48Z",
+   "published_at": "2026-11-20T01:37:00Z",
+   "published_at_et": "Nov. 19, 2026, 8:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/cme-ceo-duffy-sold-27000-shares-43-pct-stake",
    "title": "CME's CEO sold 27,000 shares, 43% of his stake, in one day.",
