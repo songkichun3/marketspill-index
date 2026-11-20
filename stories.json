@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-20T10:25:12Z",
+ "generated_at": "2026-11-20T11:30:54Z",
  "featured": {
   "url": "https://www.marketspill.com/p/stereotaxis-directors-benfer-menawat-open-market-buys",
   "title": "Two Stereotaxis directors bought stock on the same day. One filing came the next evening.",
@@ -24,16 +24,81 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "AMD",
+  "TSM",
   "SCHW",
   "CME",
   "GOOGL",
   "COST",
   "LLY",
-  "MSFT",
-  "NVDA",
-  "JNJ"
+  "MSFT"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/amd-wallstreetbets-mentions-529",
+   "title": "WallStreetBets mentions of AMD hit 529 in 24 hours, up from 167.",
+   "subtitle": "ApeWisdom's tracker put AMD (AMD) at rank 3 on r/wallstreetbets with 1,900 upvotes and mentions at 3.17 times the prior day's count.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "AMD"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "AMD"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "WallStreetBets mentions of AMD hit 529 in 24 hours, up from 167. AMD AMD",
+   "reviewed_at": "2026-11-20T11:30:54Z",
+   "published_at": "2026-11-20T11:31:51Z",
+   "published_at_et": "Nov. 20, 2026, 6:31 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/enphase-director-rodgers-sold-1-million-shares",
+   "title": "Thurman J. Rodgers sold exactly 1 million Enphase shares over two days. The filing says why.",
+   "subtitle": "The Enphase Energy (ENPH) director sold $23.2 million of stock out of a family trust on Nov. 17 and 18, a 71.9% cut to his stake, and filed one business day later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ENPH"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $23,154,808",
+   "search_text": "Thurman J. Rodgers sold exactly 1 million Enphase shares over two days. The filing says why. ENPH Enphase Energy, Inc. Rodgers Thurman J",
+   "reviewed_at": "2026-11-20T11:28:45Z",
+   "published_at": "2026-11-20T11:29:41Z",
+   "published_at_et": "Nov. 20, 2026, 6:29 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/taiwan-semiconductor-tsm-vp-spouse-bought-5000-shares",
+   "title": "Taiwan Semiconductor VP's spouse bought 5,000 shares. The filing came the same day.",
+   "subtitle": "Two open-market buys at $60.57 a share, $302,850 in all, by the spouse of Lu Lee-Chung, a vice president at Taiwan Semiconductor Manufacturing (TSM), reached the SEC on Nov. 20, zero business days after the trade.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys",
+    "TSM"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "TSM"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $302,850",
+   "search_text": "Taiwan Semiconductor VP's spouse bought 5,000 shares. The filing came the same day. TSM TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD Lu Lee-Chung",
+   "reviewed_at": "2026-11-20T11:26:53Z",
+   "published_at": "2026-11-20T11:27:50Z",
+   "published_at_et": "Nov. 20, 2026, 6:27 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/black-stone-minerals-bsm-chairman-bought-25000-units",
    "title": "Black Stone Minerals' chairman bought exactly 25,000 units and filed the same day.",
