@@ -1,39 +1,62 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-21T01:33:18Z",
+ "generated_at": "2026-11-21T03:24:53Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/fortress-biotech-ceo-rosenwald-open-market-buy-cfo-cluster",
-  "title": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too.",
-  "subtitle": "Lindsay A. Rosenwald, M.D., paid $252,583 for Fortress Biotech (FBIO) stock over Nov. 17 to 19, a 3% top-up on the 4,586,841 shares he already held, while CFO David Jin spent $87,813.59 the same week.",
+  "url": "https://www.marketspill.com/p/upstart-ceo-paul-gu-bought-50000-shares-director-followed",
+  "title": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day.",
+  "subtitle": "Paul Gu paid $860,065 through a family trust on Nov. 19, and Dave Girouard's $950,988 buy on Nov. 20 made it two Upstart (UPST) insiders in two days.",
   "tags": [
    "SEC Insiders",
-   "Insider Buys"
+   "Insider Buys",
+   "UPST"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "FBIO"
+   "UPST"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too. FBIO Fortress Biotech, Inc. ROSENWALD LINDSAY A MD",
-  "reviewed_at": "2026-11-20T13:28:14Z",
-  "published_at": "2026-11-20T13:29:11Z",
-  "published_at_et": "Nov. 20, 2026, 8:29 a.m. ET",
+  "search_text": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day. UPST Upstart Holdings, Inc. Gu Paul",
+  "reviewed_at": "2026-11-21T01:33:18Z",
+  "published_at": "2026-11-21T03:26:04Z",
+  "published_at_et": "Nov. 20, 2026, 10:26 p.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
+  "UPST",
+  "SNOW",
   "DIS",
   "NET",
   "TGT",
   "AMD",
   "TSM",
-  "SCHW",
-  "CME",
-  "GOOGL"
+  "SCHW"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/upstart-ceo-paul-gu-bought-50000-shares-director-followed",
+   "title": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day.",
+   "subtitle": "Paul Gu paid $860,065 through a family trust on Nov. 19, and Dave Girouard's $950,988 buy on Nov. 20 made it two Upstart (UPST) insiders in two days.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys",
+    "UPST"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "UPST"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day. UPST Upstart Holdings, Inc. Gu Paul",
+   "reviewed_at": "2026-11-21T01:33:18Z",
+   "published_at": "2026-11-21T03:26:04Z",
+   "published_at_et": "Nov. 20, 2026, 10:26 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/sandisk-sndk-wallstreetbets-mentions-189",
    "title": "Sandisk (SNDK) mentions on r/wallstreetbets rose from 42 to 189 in a day.",
@@ -54,6 +77,48 @@
    "reviewed_at": "2026-11-21T00:52:26Z",
    "published_at": "2026-11-21T00:53:23Z",
    "published_at_et": "Nov. 20, 2026, 7:53 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/cerebras-coo-sold-18201-shares-tax-withholding",
+   "title": "Cerebras' COO sold 18,201 shares, all his Class A. The footnote says it was for taxes.",
+   "subtitle": "Dhiraj Mallick sold 18,201 Cerebras (CBRS) shares for $1,771,117 on Nov. 18, 2026, at $93.86 to $104.53, and reported it two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CBRS"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $1,771,117",
+   "search_text": "Cerebras' COO sold 18,201 shares, all his Class A. The footnote says it was for taxes. CBRS Cerebras Systems Inc. Mallick Dhiraj",
+   "reviewed_at": "2026-11-21T00:50:33Z",
+   "published_at": "2026-11-21T03:25:59Z",
+   "published_at_et": "Nov. 20, 2026, 10:25 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/snowflake-dageville-planned-sale-50000-shares",
+   "title": "Snowflake director sold 50,000 shares for $13.8 million. An April plan set the terms.",
+   "subtitle": "Benoit Dageville's Snow Trust sold 50,000 Snowflake (SNOW) shares at $276.89 on Nov. 18 and gifted 16,668 more the same day, both under a pre-set trading plan adopted April 3.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SNOW"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Snowflake director sold 50,000 shares for $13.8 million. An April plan set the terms. SNOW Snowflake Inc. Dageville Benoit",
+   "reviewed_at": "2026-11-21T00:48:02Z",
+   "published_at": "2026-11-21T03:25:53Z",
+   "published_at_et": "Nov. 20, 2026, 10:25 p.m. ET",
    "updated_at": null
   },
   {
