@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-21T00:52:26Z",
+ "generated_at": "2026-11-21T01:33:18Z",
  "featured": {
   "url": "https://www.marketspill.com/p/fortress-biotech-ceo-rosenwald-open-market-buy-cfo-cluster",
   "title": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too.",
@@ -24,14 +24,14 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "DIS",
+  "NET",
   "TGT",
   "AMD",
   "TSM",
   "SCHW",
   "CME",
-  "GOOGL",
-  "COST",
-  "LLY"
+  "GOOGL"
  ],
  "stories": [
   {
@@ -54,6 +54,48 @@
    "reviewed_at": "2026-11-21T00:52:26Z",
    "published_at": "2026-11-21T00:53:23Z",
    "published_at_et": "Nov. 20, 2026, 7:53 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/disney-iger-sold-321694-shares-option-exercise",
+   "title": "Robert Iger sold 321,694 Disney shares the day he exercised options for them.",
+   "subtitle": "The Disney (DIS) director exercised at $105.21 and sold at a weighted average of $122.82, about $39.5 million in all; the Form 4 arrived two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "DIS"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $39,510,457",
+   "search_text": "Robert Iger sold 321,694 Disney shares the day he exercised options for them. DIS Walt Disney Co IGER ROBERT A",
+   "reviewed_at": "2026-11-20T23:29:42Z",
+   "published_at": "2026-11-21T01:34:26Z",
+   "published_at_et": "Nov. 20, 2026, 8:34 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/cloudflare-zatlyn-planned-sale-93465-shares",
+   "title": "Zatlyn sold 93,465 Cloudflare shares over three days, all under a February plan.",
+   "subtitle": "Cloudflare (NET) President and Board Co-Chair Michelle Zatlyn reported 27 sale lots worth about $27.9 million from Nov. 18 to 20, 2026, and the form landed the evening of the last trade.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "NET"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Zatlyn sold 93,465 Cloudflare shares over three days, all under a February plan. NET Cloudflare, Inc. Zatlyn Michelle",
+   "reviewed_at": "2026-11-20T23:28:09Z",
+   "published_at": "2026-11-21T01:34:20Z",
+   "published_at_et": "Nov. 20, 2026, 8:34 p.m. ET",
    "updated_at": null
   },
   {
