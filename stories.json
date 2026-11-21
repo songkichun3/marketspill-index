@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-21T12:37:16Z",
+ "generated_at": "2026-11-21T16:28:20Z",
  "featured": {
   "url": "https://www.marketspill.com/p/upstart-ceo-paul-gu-bought-50000-shares-director-followed",
   "title": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day.",
@@ -25,16 +25,60 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "ANET",
   "UPST",
   "SNOW",
   "DIS",
   "NET",
   "TGT",
   "AMD",
-  "TSM",
-  "SCHW"
+  "TSM"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/bechtolsheim-arista-anet-300000-share-planned-sale",
+   "title": "A $56.1 million planned sale trimmed Bechtolsheim's Arista stake by 0.2%.",
+   "subtitle": "The Arista Networks (ANET) 10% owner sold exactly 300,000 shares on Nov. 18 at weighted average prices from $183.5958 to $195.17.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "ANET"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ANET"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "A $56.1 million planned sale trimmed Bechtolsheim's Arista stake by 0.2%. ANET Arista Networks, Inc. BECHTOLSHEIM ANDREAS",
+   "reviewed_at": "2026-11-21T12:37:16Z",
+   "published_at": "2026-11-21T16:29:26Z",
+   "published_at_et": "Nov. 21, 2026, 11:29 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/glaukos-ceo-burns-planned-sale-180000-shares",
+   "title": "Glaukos CEO sold 180,000 shares for about $42.6 million under a plan set in August.",
+   "subtitle": "Thomas W. Burns of Glaukos (GKOS) exercised 180,000 options at $45.71 and sold the same count on Nov. 18 at $232.61 to $245.90; the Form 4 arrived two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "GKOS"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "GKOS"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Glaukos CEO sold 180,000 shares for about $42.6 million under a plan set in August. GKOS GLAUKOS Corp Burns Thomas William",
+   "reviewed_at": "2026-11-21T12:34:45Z",
+   "published_at": "2026-11-21T16:29:21Z",
+   "published_at_et": "Nov. 21, 2026, 11:29 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/upstart-ceo-paul-gu-bought-50000-shares-director-followed",
    "title": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day.",
