@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-20T23:29:42Z",
+ "generated_at": "2026-11-21T00:52:26Z",
  "featured": {
   "url": "https://www.marketspill.com/p/fortress-biotech-ceo-rosenwald-open-market-buy-cfo-cluster",
   "title": "Fortress Biotech's CEO bought 136,723 shares over three days. The CFO bought too.",
@@ -34,6 +34,28 @@
   "LLY"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/sandisk-sndk-wallstreetbets-mentions-189",
+   "title": "Sandisk (SNDK) mentions on r/wallstreetbets rose from 42 to 189 in a day.",
+   "subtitle": "The ticker moved from 15th to sixth on ApeWisdom's list, with 376 upvotes behind the comments and posts counted.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "SNDK"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "SNDK"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Sandisk (SNDK) mentions on r/wallstreetbets rose from 42 to 189 in a day. SNDK Sandisk",
+   "reviewed_at": "2026-11-21T00:52:26Z",
+   "published_at": "2026-11-21T00:53:23Z",
+   "published_at_et": "Nov. 20, 2026, 7:53 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/target-tgt-lee-james-sold-17401-shares",
    "title": "Lee James sold 17,401 Target shares. The filing arrived the next business day.",
