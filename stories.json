@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-21T16:28:20Z",
+ "generated_at": "2026-11-21T21:36:29Z",
  "featured": {
   "url": "https://www.marketspill.com/p/upstart-ceo-paul-gu-bought-50000-shares-director-followed",
   "title": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day.",
@@ -35,6 +35,48 @@
   "TSM"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/butterfield-ntb-director-lynch-bought-7000-shares",
+   "title": "Bank of N.T. Butterfield director bought 7,000 shares and filed the same day.",
+   "subtitle": "Mark T. Lynch paid $376,929, or $53.847 a share, for Bank of N.T. Butterfield & Son (NTB) stock on Nov. 20, a 2.9% addition to the 238,972 shares he held before the buy.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "NTB"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $376,929",
+   "search_text": "Bank of N.T. Butterfield director bought 7,000 shares and filed the same day. NTB Bank of N.T. Butterfield & Son Ltd Lynch Mark T",
+   "reviewed_at": "2026-11-21T16:28:20Z",
+   "published_at": "2026-11-21T21:37:36Z",
+   "published_at_et": "Nov. 21, 2026, 4:37 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/gen-digital-cfo-derse-sold-72341-shares",
+   "title": "Gen Digital's CFO sold 72,341 shares in one day. No pre-set plan is marked.",
+   "subtitle": "Natalie Marie Derse, CFO of Gen Digital (GEN), sold about 11% of her stake for $2.2 million on Nov. 18, and the report landed two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "GEN"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $2,204,209",
+   "search_text": "Gen Digital's CFO sold 72,341 shares in one day. No pre-set plan is marked. GEN Gen Digital Inc. DERSE NATALIE MARIE",
+   "reviewed_at": "2026-11-21T16:26:28Z",
+   "published_at": "2026-11-21T21:37:30Z",
+   "published_at_et": "Nov. 21, 2026, 4:37 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/bechtolsheim-arista-anet-300000-share-planned-sale",
    "title": "A $56.1 million planned sale trimmed Bechtolsheim's Arista stake by 0.2%.",
