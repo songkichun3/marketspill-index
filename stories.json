@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-22T04:24:54Z",
+ "generated_at": "2026-11-22T10:24:20Z",
  "featured": {
   "url": "https://www.marketspill.com/p/solaris-energy-sei-insider-cluster-buys-teague",
   "title": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares.",
@@ -182,7 +182,7 @@
    "reviewed_at": "2026-11-21T01:33:18Z",
    "published_at": "2026-11-21T03:26:04Z",
    "published_at_et": "Nov. 20, 2026, 10:26 p.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-22T05:08:29Z"
   },
   {
    "url": "https://www.marketspill.com/p/sandisk-sndk-wallstreetbets-mentions-189",
@@ -246,7 +246,7 @@
    "reviewed_at": "2026-11-21T00:48:02Z",
    "published_at": "2026-11-21T03:25:53Z",
    "published_at_et": "Nov. 20, 2026, 10:25 p.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-22T05:15:43Z"
   },
   {
    "url": "https://www.marketspill.com/p/disney-iger-sold-321694-shares-option-exercise",
@@ -399,7 +399,7 @@
   {
    "url": "https://www.marketspill.com/p/enphase-director-rodgers-sold-1-million-shares",
    "title": "Thurman J. Rodgers sold exactly 1 million Enphase shares over two days. The filing says why.",
-   "subtitle": "The Enphase Energy (ENPH) director sold $23.2 million of stock out of a family trust on Nov. 17 and 18, a 71.9% cut to his stake, and filed one business day later.",
+   "subtitle": "The Enphase Energy (ENPH) director sold $23.2 million of stock out of a family trust on Nov. 17 and 18, a 71.4% cut to his stake, and filed one business day later.",
    "tags": [
     "SEC Insiders",
     "Executive Sales"
@@ -415,7 +415,7 @@
    "reviewed_at": "2026-11-20T11:28:45Z",
    "published_at": "2026-11-20T11:29:41Z",
    "published_at_et": "Nov. 20, 2026, 6:29 a.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-22T05:15:43Z"
   },
   {
    "url": "https://www.marketspill.com/p/taiwan-semiconductor-tsm-vp-spouse-bought-5000-shares",
@@ -571,14 +571,14 @@
     "SYK",
     "WBD"
    ],
-   "signal": "Discretionary sale",
+   "signal": "Adviser-made sales",
    "impact_score": 50,
    "impact_reason": "congressional filing",
    "search_text": "Rep. Thomas H. Kean reported five stock sales in October. The filing came 43 days later. JNJ MSFT SYK WBD Thomas H. Kean",
    "reviewed_at": "2026-11-19T16:27:30Z",
    "published_at": "2026-11-19T17:37:00Z",
    "published_at_et": "Nov. 19, 2026, 12:37 p.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-22T05:32:22Z"
   },
   {
    "url": "https://www.marketspill.com/p/ellington-financial-vranos-bought-192000-shares",
@@ -1654,7 +1654,7 @@
    "reviewed_at": "2026-11-09T13:17:31Z",
    "published_at": "2026-11-09T13:41:00Z",
    "published_at_et": "Nov. 9, 2026, 8:41 a.m. ET",
-   "updated_at": null
+   "updated_at": "2026-11-22T05:22:39Z"
   },
   {
    "url": "https://www.marketspill.com/p/taiwan-semiconductor-director-splinter-buys-840-ads",
@@ -2243,7 +2243,7 @@
    "reviewed_at": "2026-11-02T20:01:56Z",
    "published_at": "2026-11-02T20:57:00Z",
    "published_at_et": "Nov. 2, 2026, 3:57 p.m. ET",
-   "updated_at": "2026-11-03T13:46:49Z"
+   "updated_at": "2026-11-22T05:32:22Z"
   },
   {
    "url": "https://www.marketspill.com/p/mcguire-spouse-micron-buys-broadcom-sale",
