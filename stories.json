@@ -1,27 +1,26 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-22T02:11:07Z",
+ "generated_at": "2026-11-22T04:24:54Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/upstart-ceo-paul-gu-bought-50000-shares-director-followed",
-  "title": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day.",
-  "subtitle": "Paul Gu paid $860,065 through a family trust on Nov. 19, and Dave Girouard's $950,988 buy on Nov. 20 made it two Upstart (UPST) insiders in two days.",
+  "url": "https://www.marketspill.com/p/solaris-energy-sei-insider-cluster-buys-teague",
+  "title": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares.",
+  "subtitle": "Director AJ Teague reported 520 shares of Solaris Energy Infrastructure (SEI) bought through a spouse account for $30,821.25, while the two co-CEOs and the president bought 3,000 to 5,000 shares each on Nov. 20.",
   "tags": [
    "SEC Insiders",
-   "Insider Buys",
-   "UPST"
+   "Insider Buys"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "UPST"
+   "SEI"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Upstart's CEO bought 50,000 shares. A director bought 60,000 the next day. UPST Upstart Holdings, Inc. Gu Paul",
-  "reviewed_at": "2026-11-21T01:33:18Z",
-  "published_at": "2026-11-21T03:26:04Z",
-  "published_at_et": "Nov. 20, 2026, 10:26 p.m. ET",
+  "search_text": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares. SEI Solaris Energy Infrastructure, Inc. TEAGUE AJ",
+  "reviewed_at": "2026-11-22T02:09:18Z",
+  "published_at": "2026-11-22T04:25:54Z",
+  "published_at_et": "Nov. 21, 2026, 11:25 p.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
@@ -35,6 +34,48 @@
   "TSM"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/ttm-technologies-director-franklin-bought-5000-shares",
+   "title": "A TTM Technologies director bought 5,000 shares. The filing landed the same day.",
+   "subtitle": "Philip G. Franklin paid $58.3977 a share, $291,988.50 in total, for a 3.1% top-up on his TTM Technologies (TTMI) stake.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "TTMI"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $291,988",
+   "search_text": "A TTM Technologies director bought 5,000 shares. The filing landed the same day. TTMI TTM TECHNOLOGIES INC FRANKLIN PHILIP G",
+   "reviewed_at": "2026-11-22T02:11:07Z",
+   "published_at": "2026-11-22T04:25:59Z",
+   "published_at_et": "Nov. 21, 2026, 11:25 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/solaris-energy-sei-insider-cluster-buys-teague",
+   "title": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares.",
+   "subtitle": "Director AJ Teague reported 520 shares of Solaris Energy Infrastructure (SEI) bought through a spouse account for $30,821.25, while the two co-CEOs and the president bought 3,000 to 5,000 shares each on Nov. 20.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SEI"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares. SEI Solaris Energy Infrastructure, Inc. TEAGUE AJ",
+   "reviewed_at": "2026-11-22T02:09:18Z",
+   "published_at": "2026-11-22T04:25:54Z",
+   "published_at_et": "Nov. 21, 2026, 11:25 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/butterfield-ntb-director-lynch-bought-7000-shares",
    "title": "Bank of N.T. Butterfield director bought 7,000 shares and filed the same day.",
