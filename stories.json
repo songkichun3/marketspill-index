@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-23T15:27:58Z",
+ "generated_at": "2026-11-23T16:24:57Z",
  "featured": {
   "url": "https://www.marketspill.com/p/teamshares-tms-ceo-brown-150000-share-buy-trust-cluster",
   "title": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too.",
@@ -34,6 +34,27 @@
   "SNOW"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/borr-drilling-director-bought-9-million-shares",
+   "title": "Borr Drilling (BORR) director bought 9 million shares, a 22% top-up on his stake.",
+   "subtitle": "He paid about $30.5 million, or $3.3835 a share, on Nov. 20 and now reports 49,162,517 shares in all.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BORR"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $30,451,500",
+   "search_text": "Borr Drilling (BORR) director bought 9 million shares, a 22% top-up on his stake. BORR Borr Drilling Ltd Troim Tor Olav",
+   "reviewed_at": "2026-11-23T14:28:35Z",
+   "published_at": "2026-11-23T16:25:58Z",
+   "published_at_et": "Nov. 23, 2026, 11:25 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/teamshares-tms-ceo-brown-150000-share-buy-trust-cluster",
    "title": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too.",
