@@ -1,26 +1,26 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-23T12:30:22Z",
+ "generated_at": "2026-11-23T13:30:36Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/solaris-energy-sei-insider-cluster-buys-teague",
-  "title": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares.",
-  "subtitle": "Director AJ Teague reported 520 shares of Solaris Energy Infrastructure (SEI) bought through a spouse account for $30,821.25, while the two co-CEOs and the president bought 3,000 to 5,000 shares each on Nov. 20.",
+  "url": "https://www.marketspill.com/p/global-net-lease-gnl-perla-buy-seven-insider-cluster",
+  "title": "Seven Global Net Lease insiders bought stock in two days. Stanley Perla added 5,000.",
+  "subtitle": "Director Stanley R. Perla paid $30,200 for 5,000 Global Net Lease (GNL) shares at $6.04 on Nov. 20, a 4.3% top-up, and six colleagues, including the CEO and CFO, filed buys of their own the same week.",
   "tags": [
    "SEC Insiders",
    "Insider Buys"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "SEI"
+   "GNL"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares. SEI Solaris Energy Infrastructure, Inc. TEAGUE AJ",
-  "reviewed_at": "2026-11-22T02:09:18Z",
-  "published_at": "2026-11-22T04:25:54Z",
-  "published_at_et": "Nov. 21, 2026, 11:25 p.m. ET",
+  "search_text": "Seven Global Net Lease insiders bought stock in two days. Stanley Perla added 5,000. GNL Global Net Lease, Inc. PERLA STANLEY R",
+  "reviewed_at": "2026-11-23T11:29:40Z",
+  "published_at": "2026-11-23T13:31:42Z",
+  "published_at_et": "Nov. 23, 2026, 8:31 a.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
@@ -34,6 +34,48 @@
   "SNOW"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/global-net-lease-gnl-perla-buy-seven-insider-cluster",
+   "title": "Seven Global Net Lease insiders bought stock in two days. Stanley Perla added 5,000.",
+   "subtitle": "Director Stanley R. Perla paid $30,200 for 5,000 Global Net Lease (GNL) shares at $6.04 on Nov. 20, a 4.3% top-up, and six colleagues, including the CEO and CFO, filed buys of their own the same week.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "GNL"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Seven Global Net Lease insiders bought stock in two days. Stanley Perla added 5,000. GNL Global Net Lease, Inc. PERLA STANLEY R",
+   "reviewed_at": "2026-11-23T11:29:40Z",
+   "published_at": "2026-11-23T13:31:42Z",
+   "published_at_et": "Nov. 23, 2026, 8:31 a.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/tron-director-sun-weike-private-sale-69-million-shares",
+   "title": "A Tron director sold 69.7 million shares to private buyers for about $115 million.",
+   "subtitle": "SUN Weike's holding company, Bravemorning Limited, sold the Tron (TRON) stock at $1.65 a share on Nov. 19, a 16.6% trim of a 420 million-share stake.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "TRON"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $115,072,650",
+   "search_text": "A Tron director sold 69.7 million shares to private buyers for about $115 million. TRON Tron Inc. SUN Weike",
+   "reviewed_at": "2026-11-23T11:26:37Z",
+   "published_at": "2026-11-23T13:31:37Z",
+   "published_at_et": "Nov. 23, 2026, 8:31 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/wsb-vs-insiders-2026-11-22",
    "title": "NVIDIA led r/wallstreetbets with 7,354 mentions, Nov. 16 to 22. Its insiders sold $967.6 million in 90 days and bought nothing.",
