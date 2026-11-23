@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-23T16:24:57Z",
+ "generated_at": "2026-11-23T17:26:23Z",
  "featured": {
   "url": "https://www.marketspill.com/p/teamshares-tms-ceo-brown-150000-share-buy-trust-cluster",
   "title": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too.",
@@ -24,16 +24,38 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "QQQ",
   "NVDA",
   "AMD",
   "MU",
   "GOOG",
   "SPCX",
   "ANET",
-  "UPST",
-  "SNOW"
+  "UPST"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/qqq-wallstreetbets-mentions-160",
+   "title": "QQQ mentions on WallStreetBets rose about fourfold in a day, from 39 to 160.",
+   "subtitle": "The Invesco QQQ ETF (QQQ) stood third on ApeWisdom's r/wallstreetbets tracker at 10:26 a.m. ET on Nov. 23, up from fourth a day earlier, with 160 mentions against 39.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "QQQ"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "QQQ"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "QQQ mentions on WallStreetBets rose about fourfold in a day, from 39 to 160. QQQ Invesco QQQ ETF",
+   "reviewed_at": "2026-11-23T15:27:58Z",
+   "published_at": "2026-11-23T17:27:24Z",
+   "published_at_et": "Nov. 23, 2026, 12:27 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/borr-drilling-director-bought-9-million-shares",
    "title": "Borr Drilling (BORR) director bought 9 million shares, a 22% top-up on his stake.",
