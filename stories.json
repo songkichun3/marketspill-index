@@ -1,26 +1,26 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-23T14:28:35Z",
+ "generated_at": "2026-11-23T15:27:58Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/hornbeck-offshore-ceo-bought-202300-shares-director-same-day",
-  "title": "Hornbeck Offshore's CEO bought 202,300 shares. A director bought the same day.",
-  "subtitle": "Todd M. Hornbeck paid about $1.02 million for Hornbeck Offshore (HOS) stock on Nov. 20, a 3.4% top-up on the roughly 6.04 million shares he held before, and filed the next business day.",
+  "url": "https://www.marketspill.com/p/teamshares-tms-ceo-brown-150000-share-buy-trust-cluster",
+  "title": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too.",
+  "subtitle": "Michael Ashby Sutherland Brown paid $652,500, a $4.35 average, for Teamshares (TMS) stock on Nov. 19; Alexander Zai De Eu bought 27,000 shares for $109,530 over Nov. 18 and 19.",
   "tags": [
    "SEC Insiders",
    "Insider Buys"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "HOS"
+   "TMS"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Hornbeck Offshore's CEO bought 202,300 shares. A director bought the same day. HOS HORNBECK OFFSHORE SERVICES, INC. HORNBECK TODD M",
-  "reviewed_at": "2026-11-23T12:30:22Z",
-  "published_at": "2026-11-23T14:29:36Z",
-  "published_at_et": "Nov. 23, 2026, 9:29 a.m. ET",
+  "search_text": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too. TMS Teamshares Inc Brown Michael Ashby Sutherland",
+  "reviewed_at": "2026-11-23T13:30:36Z",
+  "published_at": "2026-11-23T15:28:59Z",
+  "published_at_et": "Nov. 23, 2026, 10:28 a.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
@@ -34,6 +34,27 @@
   "SNOW"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/teamshares-tms-ceo-brown-150000-share-buy-trust-cluster",
+   "title": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too.",
+   "subtitle": "Michael Ashby Sutherland Brown paid $652,500, a $4.35 average, for Teamshares (TMS) stock on Nov. 19; Alexander Zai De Eu bought 27,000 shares for $109,530 over Nov. 18 and 19.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "TMS"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too. TMS Teamshares Inc Brown Michael Ashby Sutherland",
+   "reviewed_at": "2026-11-23T13:30:36Z",
+   "published_at": "2026-11-23T15:28:59Z",
+   "published_at_et": "Nov. 23, 2026, 10:28 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/hornbeck-offshore-ceo-bought-202300-shares-director-same-day",
    "title": "Hornbeck Offshore's CEO bought 202,300 shares. A director bought the same day.",
