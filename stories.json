@@ -1,26 +1,26 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-23T13:30:36Z",
+ "generated_at": "2026-11-23T14:28:35Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/global-net-lease-gnl-perla-buy-seven-insider-cluster",
-  "title": "Seven Global Net Lease insiders bought stock in two days. Stanley Perla added 5,000.",
-  "subtitle": "Director Stanley R. Perla paid $30,200 for 5,000 Global Net Lease (GNL) shares at $6.04 on Nov. 20, a 4.3% top-up, and six colleagues, including the CEO and CFO, filed buys of their own the same week.",
+  "url": "https://www.marketspill.com/p/hornbeck-offshore-ceo-bought-202300-shares-director-same-day",
+  "title": "Hornbeck Offshore's CEO bought 202,300 shares. A director bought the same day.",
+  "subtitle": "Todd M. Hornbeck paid about $1.02 million for Hornbeck Offshore (HOS) stock on Nov. 20, a 3.4% top-up on the roughly 6.04 million shares he held before, and filed the next business day.",
   "tags": [
    "SEC Insiders",
    "Insider Buys"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "GNL"
+   "HOS"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Seven Global Net Lease insiders bought stock in two days. Stanley Perla added 5,000. GNL Global Net Lease, Inc. PERLA STANLEY R",
-  "reviewed_at": "2026-11-23T11:29:40Z",
-  "published_at": "2026-11-23T13:31:42Z",
-  "published_at_et": "Nov. 23, 2026, 8:31 a.m. ET",
+  "search_text": "Hornbeck Offshore's CEO bought 202,300 shares. A director bought the same day. HOS HORNBECK OFFSHORE SERVICES, INC. HORNBECK TODD M",
+  "reviewed_at": "2026-11-23T12:30:22Z",
+  "published_at": "2026-11-23T14:29:36Z",
+  "published_at_et": "Nov. 23, 2026, 9:29 a.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
@@ -34,6 +34,27 @@
   "SNOW"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/hornbeck-offshore-ceo-bought-202300-shares-director-same-day",
+   "title": "Hornbeck Offshore's CEO bought 202,300 shares. A director bought the same day.",
+   "subtitle": "Todd M. Hornbeck paid about $1.02 million for Hornbeck Offshore (HOS) stock on Nov. 20, a 3.4% top-up on the roughly 6.04 million shares he held before, and filed the next business day.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "HOS"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Hornbeck Offshore's CEO bought 202,300 shares. A director bought the same day. HOS HORNBECK OFFSHORE SERVICES, INC. HORNBECK TODD M",
+   "reviewed_at": "2026-11-23T12:30:22Z",
+   "published_at": "2026-11-23T14:29:36Z",
+   "published_at_et": "Nov. 23, 2026, 9:29 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/global-net-lease-gnl-perla-buy-seven-insider-cluster",
    "title": "Seven Global Net Lease insiders bought stock in two days. Stanley Perla added 5,000.",
