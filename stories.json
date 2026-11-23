@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-23T18:25:28Z",
+ "generated_at": "2026-11-23T19:24:08Z",
  "featured": {
   "url": "https://www.marketspill.com/p/teamshares-tms-ceo-brown-150000-share-buy-trust-cluster",
   "title": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too.",
@@ -34,6 +34,27 @@
   "UPST"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/bunge-director-mahoney-bought-12500-shares",
+   "title": "Bunge director Christopher Mahoney bought 12,500 shares, an 84% top-up on his stake.",
+   "subtitle": "Mahoney paid $1,161,650 across two days at Bunge (BG), taking a direct stake of 14,830 shares to 27,330.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BG"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 70,
+   "impact_reason": "open-market buy of $1,161,650",
+   "search_text": "Bunge director Christopher Mahoney bought 12,500 shares, an 84% top-up on his stake. BG Bunge Global SA Mahoney Christopher",
+   "reviewed_at": "2026-11-23T17:26:23Z",
+   "published_at": "2026-11-23T19:25:09Z",
+   "published_at_et": "Nov. 23, 2026, 2:25 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/qqq-wallstreetbets-mentions-160",
    "title": "QQQ mentions on WallStreetBets rose about fourfold in a day, from 39 to 160.",
