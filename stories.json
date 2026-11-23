@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-23T04:24:47Z",
+ "generated_at": "2026-11-23T10:24:07Z",
  "featured": {
   "url": "https://www.marketspill.com/p/solaris-energy-sei-insider-cluster-buys-teague",
   "title": "Four Solaris Energy insiders bought in two days. One director's spouse added 520 shares.",
@@ -24,16 +24,47 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "NVDA",
+  "AMD",
+  "MU",
+  "GOOG",
+  "SPCX",
   "ANET",
   "UPST",
-  "SNOW",
-  "DIS",
-  "NET",
-  "TGT",
-  "AMD",
-  "TSM"
+  "SNOW"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/wsb-vs-insiders-2026-11-22",
+   "title": "NVIDIA led r/wallstreetbets with 7,354 mentions, Nov. 16 to 22. Its insiders sold $967.6 million in 90 days and bought nothing.",
+   "subtitle": "WSB vs. Insiders: the 8 most-mentioned tickers on r/wallstreetbets, Nov. 16 to 22, each against 90 days of insider filings (Form 4).",
+   "tags": [
+    "Reddit WSB",
+    "WSB vs. Insiders",
+    "NVDA",
+    "AMD",
+    "MU"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "NVDA",
+    "AMD",
+    "MU",
+    "NBIS",
+    "GOOG",
+    "SNDK",
+    "SPCX",
+    "SLS"
+   ],
+   "signal": "Weekly ledger",
+   "impact_score": 68,
+   "impact_reason": "weekly WSB vs. Insiders table",
+   "search_text": "NVIDIA led r/wallstreetbets with 7,354 mentions, Nov. 16 to 22. Its insiders sold $967.6 million in 90 days and bought nothing. NVDA AMD MU NBIS GOOG SNDK SPCX SLS",
+   "reviewed_at": "2026-11-23T04:24:47Z",
+   "published_at": "2026-11-23T10:25:08Z",
+   "published_at_et": "Nov. 23, 2026, 5:25 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/ttm-technologies-director-franklin-bought-5000-shares",
    "title": "A TTM Technologies director bought 5,000 shares. The filing landed the same day.",
