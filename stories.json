@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-24T22:24:33Z",
+ "generated_at": "2026-11-24T23:24:33Z",
  "featured": {
   "url": "https://www.marketspill.com/p/hageman-169-spousal-trades-313-day-lag",
   "title": "Rep. Harriet Hageman reported 169 spousal trades at once. The oldest was 313 days old.",
@@ -122,16 +122,37 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "DASH",
   "ABT",
   "ADBE",
   "AMD",
   "ABNB",
   "GOOGL",
   "GOOG",
-  "AMZN",
-  "AMGN"
+  "AMZN"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/doordash-cfo-inukonda-sold-19261-shares-rsu-taxes",
+   "title": "DoorDash's CFO sold 19,261 shares for about $3 million. The footnote says it covered taxes.",
+   "subtitle": "Ravi Inukonda sold the DoorDash (DASH) shares in seven lots on Nov. 20 at weighted average prices of $153.686 to $159.70; the Form 4 arrived Nov. 24, two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "DASH"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $3,028,840",
+   "search_text": "DoorDash's CFO sold 19,261 shares for about $3 million. The footnote says it covered taxes. DASH DoorDash, Inc. Inukonda Ravi",
+   "reviewed_at": "2026-11-24T21:26:20Z",
+   "published_at": "2026-11-24T23:25:34Z",
+   "published_at_et": "Nov. 24, 2026, 6:25 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/hageman-169-spousal-trades-313-day-lag",
    "title": "Rep. Harriet Hageman reported 169 spousal trades at once. The oldest was 313 days old.",
