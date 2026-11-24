@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-24T13:27:21Z",
+ "generated_at": "2026-11-24T14:25:32Z",
  "featured": {
   "url": "https://www.marketspill.com/p/webull-general-counsel-cfo-open-market-buys",
   "title": "Webull's general counsel bought 5,000 shares. Its CFO bought 20,000 the same day.",
@@ -24,8 +24,8 @@
   "updated_at": null
  },
  "latest_tickers": [
-  "QQQ",
   "NVDA",
+  "QQQ",
   "AMD",
   "MU",
   "GOOG",
@@ -34,6 +34,28 @@
   "UPST"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/nvidia-nvda-wallstreetbets-mentions-1604-weekend-window",
+   "title": "Nvidia mentions on WallStreetBets hit 1,604, four times a mostly weekend count.",
+   "subtitle": "Nvidia (NVDA) was already the No. 1 ticker on r/wallstreetbets 24 hours earlier, at 372 mentions; the latest reading shows 1,604 mentions and 12,427 upvotes.",
+   "tags": [
+    "Reddit WSB",
+    "WSB Trending",
+    "NVDA"
+   ],
+   "category": "Reddit WSB",
+   "tickers": [
+    "NVDA"
+   ],
+   "signal": "Attention spike",
+   "impact_score": 30,
+   "impact_reason": "attention spike",
+   "search_text": "Nvidia mentions on WallStreetBets hit 1,604, four times a mostly weekend count. NVDA NVIDIA",
+   "reviewed_at": "2026-11-24T12:29:15Z",
+   "published_at": "2026-11-24T14:26:32Z",
+   "published_at_et": "Nov. 24, 2026, 9:26 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/webull-general-counsel-cfo-open-market-buys",
    "title": "Webull's general counsel bought 5,000 shares. Its CFO bought 20,000 the same day.",
