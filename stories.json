@@ -1,26 +1,26 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-24T01:30:16Z",
+ "generated_at": "2026-11-24T03:25:25Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/teamshares-tms-ceo-brown-150000-share-buy-trust-cluster",
-  "title": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too.",
-  "subtitle": "Michael Ashby Sutherland Brown paid $652,500, a $4.35 average, for Teamshares (TMS) stock on Nov. 19; Alexander Zai De Eu bought 27,000 shares for $109,530 over Nov. 18 and 19.",
+  "url": "https://www.marketspill.com/p/webull-general-counsel-cfo-open-market-buys",
+  "title": "Webull's general counsel bought 5,000 shares. Its CFO bought 20,000 the same day.",
+  "subtitle": "James Benjamin Worthy paid $21,950 for Webull (BULL) stock on Nov. 23, a 0.4% top-up on 1,293,761 shares, and filed the same day.",
   "tags": [
    "SEC Insiders",
    "Insider Buys"
   ],
   "category": "SEC Insiders",
   "tickers": [
-   "TMS"
+   "BULL"
   ],
   "signal": "Discretionary buy",
   "impact_score": 85,
   "impact_reason": "cluster buying",
-  "search_text": "Teamshares' CEO bought 150,000 shares for a charitable trust. Its president bought too. TMS Teamshares Inc Brown Michael Ashby Sutherland",
-  "reviewed_at": "2026-11-23T13:30:36Z",
-  "published_at": "2026-11-23T15:28:59Z",
-  "published_at_et": "Nov. 23, 2026, 10:28 a.m. ET",
+  "search_text": "Webull's general counsel bought 5,000 shares. Its CFO bought 20,000 the same day. BULL Webull Corp James Benjamin Worthy",
+  "reviewed_at": "2026-11-24T01:30:16Z",
+  "published_at": "2026-11-24T03:26:32Z",
+  "published_at_et": "Nov. 23, 2026, 10:26 p.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
@@ -34,6 +34,48 @@
   "UPST"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/webull-general-counsel-cfo-open-market-buys",
+   "title": "Webull's general counsel bought 5,000 shares. Its CFO bought 20,000 the same day.",
+   "subtitle": "James Benjamin Worthy paid $21,950 for Webull (BULL) stock on Nov. 23, a 0.4% top-up on 1,293,761 shares, and filed the same day.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "BULL"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Webull's general counsel bought 5,000 shares. Its CFO bought 20,000 the same day. BULL Webull Corp James Benjamin Worthy",
+   "reviewed_at": "2026-11-24T01:30:16Z",
+   "published_at": "2026-11-24T03:26:32Z",
+   "published_at_et": "Nov. 23, 2026, 10:26 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/pampa-energy-pam-two-mindlins-open-market-buys",
+   "title": "Two Mindlins bought Pampa Energy (PAM) on the open market in the same week.",
+   "subtitle": "The vice president paid $62.11 to $62.40 for 32,464 depositary shares on Nov. 18 and 19; a director and 10% owner bought 117,952 the same week, per a separate Form 4.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "PAM"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 85,
+   "impact_reason": "cluster buying",
+   "search_text": "Two Mindlins bought Pampa Energy (PAM) on the open market in the same week. PAM Pampa Energy Inc. Mindlin Damian Miguel",
+   "reviewed_at": "2026-11-24T01:27:55Z",
+   "published_at": "2026-11-24T03:26:26Z",
+   "published_at_et": "Nov. 23, 2026, 10:26 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/bunge-director-mahoney-bought-12500-shares",
    "title": "Bunge director Christopher Mahoney bought 12,500 shares, an 84% top-up on his stake.",
