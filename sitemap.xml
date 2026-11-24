@@ -4,4 +4,8 @@
     <loc>https://go.marketspill.com/vs/</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://go.marketspill.com/congress/</loc>
+    <changefreq>daily</changefreq>
+  </url>
 </urlset>
