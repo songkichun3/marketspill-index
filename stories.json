@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-25T01:28:59Z",
+ "generated_at": "2026-11-25T03:27:14Z",
  "featured": {
   "url": "https://www.marketspill.com/p/hageman-169-spousal-trades-313-day-lag",
   "title": "Rep. Harriet Hageman reported 169 spousal trades at once. The oldest was 313 days old.",
@@ -122,16 +122,60 @@
   "updated_at": null
  },
  "latest_tickers": [
+  "PLTR",
   "DASH",
   "ABT",
   "ADBE",
   "AMD",
   "ABNB",
   "GOOGL",
-  "GOOG",
-  "AMZN"
+  "GOOG"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/palantir-karp-planned-sale-239944-shares",
+   "title": "Alexander Karp sold 239,944 Palantir shares. The footnote calls it tax withholding.",
+   "subtitle": "Seven lots on Nov. 23 brought about $37.9 million at $155.26 to $160.90 a share, and the Form 4 for Palantir (PLTR) says a pre-set trading plan (10b5-1) covered them.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "PLTR"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "PLTR"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Alexander Karp sold 239,944 Palantir shares. The footnote calls it tax withholding. PLTR Palantir Technologies Inc. Karp Alexander C.",
+   "reviewed_at": "2026-11-25T01:28:59Z",
+   "published_at": "2026-11-25T03:28:20Z",
+   "published_at_et": "Nov. 24, 2026, 10:28 p.m. ET",
+   "updated_at": null
+  },
+  {
+   "url": "https://www.marketspill.com/p/sandisk-sndk-pokorny-sold-26016-shares",
+   "title": "Sandisk's accounting chief sold 26,016 shares. The filing came one business day later.",
+   "subtitle": "Michael Pokorny, VP and chief accounting officer at Sandisk (SNDK), sold 26,016 shares for about $2.37 million on Nov. 23, a 15.7% trim of the 165,826 shares he held before the sale.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "SNDK"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "SNDK"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $2,367,206",
+   "search_text": "Sandisk's accounting chief sold 26,016 shares. The filing came one business day later. SNDK Sandisk Corp Pokorny Michael",
+   "reviewed_at": "2026-11-25T01:26:09Z",
+   "published_at": "2026-11-25T03:28:15Z",
+   "published_at_et": "Nov. 24, 2026, 10:28 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/doordash-cfo-inukonda-sold-19261-shares-rsu-taxes",
    "title": "DoorDash's CFO sold 19,261 shares for about $3 million. The footnote says it covered taxes.",
