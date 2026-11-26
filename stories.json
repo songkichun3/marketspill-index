@@ -1,40 +1,78 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-26T02:47:03Z",
+ "generated_at": "2026-11-26T09:18:21Z",
  "featured": {
-  "url": "https://www.marketspill.com/p/williams-wmb-director-turner-bought-15000-shares",
-  "title": "Robb Turner bought 15,000 Williams shares. The filing arrived the next business day.",
-  "subtitle": "Williams Companies (WMB) director Robb Turner paid $978,650 on Nov. 24 for stock held through an LLC and a family trust, a 14.6% top-up on the 102,785 shares he held before the buy.",
+  "url": "https://www.marketspill.com/p/rep-kevin-hern-rockwell-automation-rok-three-sales",
+  "title": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days.",
+  "subtitle": "Ten stock sales across a family trust, a foundation and an IRA, dated Nov. 9 to 17, reached the House Clerk on Nov. 24, 15 days after the first.",
   "tags": [
-   "SEC Insiders",
-   "Insider Buys",
-   "WMB"
+   "Congress",
+   "ASML",
+   "ETN",
+   "INTC"
   ],
-  "category": "SEC Insiders",
+  "category": "Congress",
   "tickers": [
-   "WMB"
+   "ACLLY",
+   "ASML",
+   "CMI",
+   "ETN",
+   "INTC",
+   "PSX",
+   "ROK",
+   "STX"
   ],
-  "signal": "Discretionary buy",
-  "impact_score": 85,
-  "impact_reason": "cluster buying",
-  "search_text": "Robb Turner bought 15,000 Williams shares. The filing arrived the next business day. WMB WILLIAMS COMPANIES, INC. Turner Robb E",
-  "reviewed_at": "2026-11-25T17:08:53Z",
-  "published_at": "2026-11-25T19:54:34Z",
-  "published_at_et": "Nov. 25, 2026, 2:54 p.m. ET",
+  "signal": "Discretionary sale",
+  "impact_score": 80,
+  "impact_reason": "trade range of $250,001 or more",
+  "search_text": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days. ACLLY ASML CMI ETN INTC PSX ROK STX Kevin Hern",
+  "reviewed_at": "2026-11-26T01:28:03Z",
+  "published_at": "2026-11-26T09:19:23Z",
+  "published_at_et": "Nov. 26, 2026, 4:19 a.m. ET",
   "updated_at": null
  },
  "latest_tickers": [
+  "ASML",
+  "INTC",
   "DELL",
   "PLTR",
   "DASH",
   "ABT",
   "ADBE",
-  "AMD",
-  "ABNB",
-  "GOOGL"
+  "AMD"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/rep-kevin-hern-rockwell-automation-rok-three-sales",
+   "title": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days.",
+   "subtitle": "Ten stock sales across a family trust, a foundation and an IRA, dated Nov. 9 to 17, reached the House Clerk on Nov. 24, 15 days after the first.",
+   "tags": [
+    "Congress",
+    "ASML",
+    "ETN",
+    "INTC"
+   ],
+   "category": "Congress",
+   "tickers": [
+    "ACLLY",
+    "ASML",
+    "CMI",
+    "ETN",
+    "INTC",
+    "PSX",
+    "ROK",
+    "STX"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 80,
+   "impact_reason": "trade range of $250,001 or more",
+   "search_text": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days. ACLLY ASML CMI ETN INTC PSX ROK STX Kevin Hern",
+   "reviewed_at": "2026-11-26T01:28:03Z",
+   "published_at": "2026-11-26T09:19:23Z",
+   "published_at_et": "Nov. 26, 2026, 4:19 a.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/yesway-trkla-funds-sold-5-million-shares",
    "title": "Funds tied to Yesway director Thomas Trkla sold 5 million shares for $91.2 million.",
