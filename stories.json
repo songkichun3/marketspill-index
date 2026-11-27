@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-27T21:27:02Z",
+ "generated_at": "2026-11-27T22:24:40Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-kevin-hern-rockwell-automation-rok-three-sales",
   "title": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days.",
@@ -43,6 +43,27 @@
   "VZ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/quanterix-director-donnelly-bought-250000-shares",
+   "title": "A Quanterix director bought 250,000 shares. The stake went from 99,400 to 349,400.",
+   "subtitle": "William P. Donnelly paid $542,500, a $2.17 average, for Quanterix (QTRX) stock on Nov. 24 and reported it two business days later.",
+   "tags": [
+    "SEC Insiders",
+    "Insider Buys"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "QTRX"
+   ],
+   "signal": "Discretionary buy",
+   "impact_score": 60,
+   "impact_reason": "open-market buy of $542,500",
+   "search_text": "A Quanterix director bought 250,000 shares. The stake went from 99,400 to 349,400. QTRX Quanterix Corp DONNELLY WILLIAM P",
+   "reviewed_at": "2026-11-27T20:27:32Z",
+   "published_at": "2026-11-27T22:25:41Z",
+   "published_at_et": "Nov. 27, 2026, 5:25 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/chai-trust-ardent-health-ardt-sale-1-07-million-shares",
    "title": "Chai Trust sold 1.07 million Ardent Health shares, a 1.5% trim of its stake.",
