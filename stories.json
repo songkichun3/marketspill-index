@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-27T19:24:55Z",
+ "generated_at": "2026-11-27T20:27:32Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-kevin-hern-rockwell-automation-rok-three-sales",
   "title": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days.",
@@ -43,6 +43,27 @@
   "VZ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/chai-trust-ardent-health-ardt-sale-1-07-million-shares",
+   "title": "Chai Trust sold 1.07 million Ardent Health shares, a 1.5% trim of its stake.",
+   "subtitle": "The $14.7 million sale of Ardent Health (ARDT) stock went off on Nov. 25 at about $13.70 a share and left 69,039,272 shares held through EGI-AM Investments.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ARDT"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 65,
+   "impact_reason": "discretionary sale of $14,668,636",
+   "search_text": "Chai Trust sold 1.07 million Ardent Health shares, a 1.5% trim of its stake. ARDT Ardent Health, Inc. CHAI TRUST CO LLC",
+   "reviewed_at": "2026-11-27T18:26:37Z",
+   "published_at": "2026-11-27T20:28:32Z",
+   "published_at_et": "Nov. 27, 2026, 3:28 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/atlassian-ceo-cannon-brookes-planned-buy-13400-shares",
    "title": "Atlassian's CEO bought 13,400 shares in nine lots, under a plan adopted in August.",
