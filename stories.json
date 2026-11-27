@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-27T22:24:40Z",
+ "generated_at": "2026-11-27T23:31:52Z",
  "featured": {
   "url": "https://www.marketspill.com/p/rep-kevin-hern-rockwell-automation-rok-three-sales",
   "title": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days.",
@@ -43,6 +43,27 @@
   "VZ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/chubb-cb-obrien-option-exercise-sale-8794-shares",
+   "title": "Chubb's risk chief exercised 8,794 options and sold every share the same day.",
+   "subtitle": "Frances D. O'Brien's Nov. 24 sale of Chubb (CB) stock brought in about $3.27 million; the larger batch of options was due to expire in February.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "CB"
+   ],
+   "signal": "Discretionary sale",
+   "impact_score": 55,
+   "impact_reason": "discretionary sale of $3,267,269",
+   "search_text": "Chubb's risk chief exercised 8,794 options and sold every share the same day. CB Chubb Ltd O'Brien Frances D.",
+   "reviewed_at": "2026-11-27T21:27:02Z",
+   "published_at": "2026-11-27T23:32:53Z",
+   "published_at_et": "Nov. 27, 2026, 6:32 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/quanterix-director-donnelly-bought-250000-shares",
    "title": "A Quanterix director bought 250,000 shares. The stake went from 99,400 to 349,400.",
