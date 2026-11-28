@@ -1,37 +1,8 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-28T01:26:19Z",
- "featured": {
-  "url": "https://www.marketspill.com/p/rep-kevin-hern-rockwell-automation-rok-three-sales",
-  "title": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days.",
-  "subtitle": "Ten stock sales across a family trust, a foundation and an IRA, dated Nov. 9 to 17, reached the House Clerk on Nov. 24, 15 days after the first.",
-  "tags": [
-   "Congress",
-   "ASML",
-   "ETN",
-   "INTC"
-  ],
-  "category": "Congress",
-  "tickers": [
-   "ACLLY",
-   "ASML",
-   "CMI",
-   "ETN",
-   "INTC",
-   "PSX",
-   "ROK",
-   "STX"
-  ],
-  "signal": "Discretionary sale",
-  "impact_score": 80,
-  "impact_reason": "trade range of $250,001 or more",
-  "search_text": "Rep. Kevin Hern's trust sold Rockwell Automation (ROK) three times in two days. ACLLY ASML CMI ETN INTC PSX ROK STX Kevin Hern",
-  "reviewed_at": "2026-11-26T01:28:03Z",
-  "published_at": "2026-11-26T09:19:23Z",
-  "published_at_et": "Nov. 26, 2026, 4:19 a.m. ET",
-  "updated_at": null
- },
+ "generated_at": "2026-11-28T02:38:05Z",
+ "featured": null,
  "latest_tickers": [
   "TEAM",
   "CMCSA",
