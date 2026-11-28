@@ -1,7 +1,7 @@
 {
  "version": 1,
  "scope": "Published MarketSpill stories",
- "generated_at": "2026-11-28T02:38:05Z",
+ "generated_at": "2026-11-28T03:24:48Z",
  "featured": null,
  "latest_tickers": [
   "TEAM",
@@ -14,6 +14,28 @@
   "VZ"
  ],
  "stories": [
+  {
+   "url": "https://www.marketspill.com/p/roivant-president-torti-sold-700000-shares-10b5-1-plan",
+   "title": "Roivant's president sold 700,000 shares. A plan set in August picked the day.",
+   "subtitle": "Frank Torti exercised 700,000 Roivant (ROIV) options and sold the shares on Nov. 24 for $29.6 million, a 5.4% trim of his common stake.",
+   "tags": [
+    "SEC Insiders",
+    "Executive Sales",
+    "ROIV"
+   ],
+   "category": "SEC Insiders",
+   "tickers": [
+    "ROIV"
+   ],
+   "signal": "Planned sale (10b5-1)",
+   "impact_score": 40,
+   "impact_reason": "planned sale",
+   "search_text": "Roivant's president sold 700,000 shares. A plan set in August picked the day. ROIV Roivant Sciences Ltd. Torti Frank",
+   "reviewed_at": "2026-11-28T01:26:18Z",
+   "published_at": "2026-11-28T03:25:49Z",
+   "published_at_et": "Nov. 27, 2026, 10:25 p.m. ET",
+   "updated_at": null
+  },
   {
    "url": "https://www.marketspill.com/p/kymera-director-bruce-booth-atlas-funds-sale",
    "title": "Kymera director's $132 million in sales came mostly from two Atlas Venture funds.",
